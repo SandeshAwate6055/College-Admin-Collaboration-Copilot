@@ -2,6 +2,9 @@
 
 An AI-powered college administration assistant built with FastAPI. The copilot answers student policy questions from college PDF documents, searches student/project/research datasets, recommends students for requirements, creates complaint tickets, and supports a Twilio WhatsApp webhook.
 
+## DEMO 
+ You Tube - https://www.youtube.com/watch?v=klP66BOgKHQ
+
 ## Features
 
 - Policy Q&A using RAG over college administration PDFs
