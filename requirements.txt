@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-dotenv
+sqlalchemy
+psycopg2-binary
+pymupdf
+sentence-transformers
+faiss-cpu
+openai
+groq
+pydantic
+twilio
+python-multipart

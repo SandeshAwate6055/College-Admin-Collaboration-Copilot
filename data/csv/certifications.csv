@@ -1,0 +1,101 @@
+Student_Name,PRN_or_Roll_No,Branch,Year,Certification_Title,Platform_or_Provider,Certification_Domain,Score_or_Grade,Completion_Date
+Sneha Joshi,PRN211756994,CSE,TE,Cloud Fundamentals,edX,Cloud Computing,86,2023-06-03
+Neha Sharma,PRN215669869,Electrical,BE,Network Security Basics,NPTEL,Cybersecurity,100,2023-12-04
+Siddhi Gupta,PRN212635764,CSE,SE,Advanced DSA,Coursera,Cloud Computing,66,2024-06-27
+Rahul Joshi,PRN214989554,IT,SE,Intro to ML,edX,Web Development,75,2025-10-02
+Aditya Patil,PRN216053704,CSE,TE,Intro to ML,Udemy,Web Development,70,2024-02-13
+Vivaan Patil,PRN213472094,IT,BE,Advanced DSA,NPTEL,Cybersecurity,94,2023-08-25
+Priya Gupta,PRN217901136,Mechanical,BE,Advanced DSA,NPTEL,Web Development,64,2024-01-14
+Sneha Gupta,PRN216197531,IT,TE,Intro to ML,Udemy,Cybersecurity,69,2024-06-23
+Karan Joshi,PRN219466486,CSE,SE,Intro to ML,NPTEL,Data Structures,91,2025-04-27
+Siddhi Kulkarni,PRN219287898,CSE,TE,Full Stack Web Dev,edX,Web Development,83,2025-08-30
+Siddhi Kulkarni,PRN217990355,ENTC,SE,Network Security Basics,NPTEL,Web Development,76,2025-11-24
+Siddhi Singh,PRN212473761,CSE,TE,Cloud Fundamentals,Coursera,Cloud Computing,91,2024-01-30
+Aditya Patil,PRN217103052,CSE,BE,Network Security Basics,Coursera,Cloud Computing,93,2024-06-12
+Sneha Sharma,PRN211460078,Mechanical,BE,Network Security Basics,Great Learning,Data Structures,94,2024-07-19
+Neha Reddy,PRN210207430,Electrical,BE,Full Stack Web Dev,edX,Machine Learning,66,2023-11-03
+Aditya Singh,PRN219863897,Electrical,SE,Intro to ML,Great Learning,Machine Learning,90,2024-08-08
+Neha Deshmukh,PRN216893590,ENTC,TE,Network Security Basics,Great Learning,Web Development,70,2023-03-18
+Aditya Joshi,PRN216760781,IT,BE,Full Stack Web Dev,edX,Machine Learning,65,2024-11-09
+Tanvi Kulkarni,PRN210826965,Mechanical,TE,Advanced DSA,NPTEL,Data Structures,92,2024-09-12
+Priya Joshi,PRN218248001,CSE,SE,Cloud Fundamentals,Udemy,Cybersecurity,89,2024-10-19
+Priya Gupta,PRN211497984,IT,TE,Cloud Fundamentals,edX,Cybersecurity,88,2025-11-23
+Sneha Patil,PRN218644791,IT,SE,Advanced DSA,Great Learning,Cybersecurity,48,2025-12-09
+Siddhi Patil,PRN212914829,IT,SE,Intro to ML,Coursera,Machine Learning,69,2023-04-14
+Sneha Kulkarni,PRN214596579,ENTC,TE,Full Stack Web Dev,edX,Machine Learning,83,2023-03-04
+Karan Deshmukh,PRN218200480,Electrical,TE,Cloud Fundamentals,edX,Web Development,75,2024-12-17
+Sneha Verma,PRN214339593,CSE,TE,Intro to ML,edX,Machine Learning,50,2024-03-14
+Karan Kulkarni,PRN213468370,ENTC,BE,Network Security Basics,Great Learning,Machine Learning,95,2023-01-19
+Rohit Verma,PRN212905824,Electrical,SE,Cloud Fundamentals,Udemy,Web Development,91,2024-09-17
+Tanvi Joshi,PRN217110298,Mechanical,TE,Network Security Basics,Udemy,Cloud Computing,69,2024-09-10
+Rahul Nair,PRN216663113,Electrical,SE,Intro to ML,Great Learning,Data Structures,75,2024-08-01
+Priya Sharma,PRN218082229,CSE,TE,Advanced DSA,Udemy,Data Structures,56,2024-09-03
+Karan Verma,PRN218678746,IT,SE,Full Stack Web Dev,edX,Data Structures,83,2023-10-14
+Tanvi Patil,PRN218344531,ENTC,TE,Network Security Basics,edX,Cybersecurity,87,2023-03-14
+Siddhi Singh,PRN213186247,ENTC,BE,Cloud Fundamentals,Great Learning,Cybersecurity,98,2025-01-04
+Neha Joshi,PRN212851902,Electrical,SE,Advanced DSA,NPTEL,Cybersecurity,48,2024-06-13
+Tanvi Nair,PRN213071377,ENTC,BE,Intro to ML,Coursera,Data Structures,54,2024-09-20
+Isha Deshmukh,PRN216235796,ENTC,BE,Advanced DSA,edX,Machine Learning,70,2023-04-20
+Rahul Singh,PRN219736038,Electrical,SE,Network Security Basics,Coursera,Web Development,47,2025-02-20
+Neha Joshi,PRN216930789,CSE,SE,Cloud Fundamentals,Coursera,Data Structures,66,2025-07-26
+Aditya Deshmukh,PRN213025884,CSE,TE,Advanced DSA,Coursera,Data Structures,80,2023-04-29
+Aarav Reddy,PRN214589036,IT,SE,Full Stack Web Dev,Coursera,Cybersecurity,90,2023-06-30
+Aditya Singh,PRN217276470,Mechanical,TE,Network Security Basics,edX,Cybersecurity,40,2023-03-19
+Neha Kulkarni,PRN216259602,CSE,TE,Full Stack Web Dev,Coursera,Machine Learning,83,2023-01-09
+Rahul Kulkarni,PRN213796108,ENTC,TE,Cloud Fundamentals,NPTEL,Cybersecurity,72,2024-09-18
+Aditya Sharma,PRN210767026,ENTC,TE,Network Security Basics,Great Learning,Web Development,73,2024-11-22
+Isha Verma,PRN215750102,Mechanical,TE,Cloud Fundamentals,Coursera,Cybersecurity,41,2024-04-12
+Karan Verma,PRN213543184,CSE,BE,Full Stack Web Dev,Coursera,Machine Learning,63,2023-03-18
+Isha Joshi,PRN218971338,Electrical,SE,Full Stack Web Dev,NPTEL,Machine Learning,81,2023-02-10
+Aarav Sharma,PRN216992333,Mechanical,TE,Intro to ML,Great Learning,Data Structures,70,2023-11-10
+Karan Patil,PRN215051895,Mechanical,BE,Intro to ML,Great Learning,Data Structures,79,2023-10-08
+Isha Sharma,PRN218582968,Electrical,SE,Advanced DSA,NPTEL,Machine Learning,71,2024-02-11
+Siddhi Kulkarni,PRN214412305,Electrical,SE,Advanced DSA,edX,Data Structures,50,2023-03-22
+Neha Reddy,PRN213484526,Mechanical,TE,Cloud Fundamentals,NPTEL,Machine Learning,82,2023-07-02
+Vivaan Singh,PRN218289690,IT,SE,Full Stack Web Dev,NPTEL,Machine Learning,97,2024-06-08
+Rahul Kulkarni,PRN217663014,ENTC,TE,Network Security Basics,NPTEL,Machine Learning,92,2023-12-24
+Aarav Joshi,PRN216043399,ENTC,TE,Intro to ML,NPTEL,Machine Learning,40,2023-10-11
+Rahul Verma,PRN215514013,ENTC,TE,Full Stack Web Dev,Udemy,Machine Learning,63,2024-12-02
+Aditya Sharma,PRN216723930,Mechanical,TE,Advanced DSA,edX,Cybersecurity,91,2025-05-13
+Rahul Verma,PRN211896774,IT,BE,Intro to ML,Coursera,Machine Learning,66,2025-09-15
+Siddhi Reddy,PRN213041047,Electrical,TE,Advanced DSA,Great Learning,Machine Learning,95,2023-09-25
+Rohit Reddy,PRN211894776,Mechanical,TE,Intro to ML,NPTEL,Data Structures,81,2024-10-05
+Aarav Nair,PRN219674564,Electrical,SE,Advanced DSA,Great Learning,Web Development,84,2023-07-15
+Isha Kulkarni,PRN218085438,ENTC,BE,Network Security Basics,Coursera,Web Development,97,2023-04-22
+Aarav Verma,PRN218482016,Mechanical,TE,Cloud Fundamentals,NPTEL,Cybersecurity,60,2024-05-08
+Sneha Joshi,PRN210844744,Electrical,SE,Full Stack Web Dev,edX,Cybersecurity,92,2024-04-26
+Vivaan Reddy,PRN217452252,Electrical,TE,Intro to ML,edX,Cybersecurity,60,2023-09-01
+Rohit Patil,PRN211722069,Mechanical,TE,Intro to ML,Great Learning,Web Development,40,2023-07-06
+Siddhi Singh,PRN215110305,Electrical,BE,Cloud Fundamentals,edX,Data Structures,63,2023-04-22
+Karan Reddy,PRN215569576,Electrical,BE,Full Stack Web Dev,edX,Data Structures,85,2025-07-15
+Vivaan Sharma,PRN213720299,CSE,TE,Advanced DSA,Udemy,Web Development,73,2025-02-04
+Tanvi Sharma,PRN210768029,IT,TE,Cloud Fundamentals,edX,Machine Learning,56,2024-02-06
+Karan Sharma,PRN216591709,IT,TE,Cloud Fundamentals,Udemy,Machine Learning,88,2025-04-28
+Aarav Singh,PRN212067274,Mechanical,TE,Full Stack Web Dev,Great Learning,Cloud Computing,71,2023-01-09
+Neha Patil,PRN219281597,Mechanical,BE,Network Security Basics,Great Learning,Cloud Computing,84,2023-12-22
+Tanvi Verma,PRN211737347,Mechanical,BE,Full Stack Web Dev,Great Learning,Data Structures,72,2025-02-26
+Isha Singh,PRN214164755,ENTC,TE,Advanced DSA,Udemy,Cybersecurity,91,2023-10-01
+Aditya Gupta,PRN218594877,ENTC,BE,Full Stack Web Dev,Udemy,Web Development,80,2024-03-21
+Karan Kulkarni,PRN214875114,ENTC,BE,Cloud Fundamentals,Coursera,Web Development,74,2024-10-22
+Tanvi Sharma,PRN215909569,Electrical,TE,Full Stack Web Dev,Great Learning,Cybersecurity,83,2025-12-29
+Priya Gupta,PRN210214253,Electrical,SE,Intro to ML,edX,Cloud Computing,43,2023-04-26
+Karan Joshi,PRN212700047,ENTC,BE,Advanced DSA,Coursera,Machine Learning,84,2024-08-27
+Karan Nair,PRN210542011,ENTC,TE,Intro to ML,Great Learning,Web Development,95,2024-04-04
+Tanvi Nair,PRN216524435,IT,BE,Advanced DSA,NPTEL,Cybersecurity,64,2025-05-03
+Rahul Deshmukh,PRN219263113,CSE,SE,Advanced DSA,Coursera,Web Development,95,2025-06-26
+Karan Deshmukh,PRN219871467,Electrical,BE,Full Stack Web Dev,Coursera,Cloud Computing,58,2025-07-08
+Aditya Sharma,PRN213136946,IT,BE,Full Stack Web Dev,NPTEL,Cybersecurity,42,2025-05-27
+Priya Nair,PRN214433204,IT,SE,Full Stack Web Dev,Udemy,Machine Learning,61,2025-08-13
+Tanvi Verma,PRN210670091,IT,TE,Full Stack Web Dev,NPTEL,Web Development,93,2024-09-08
+Rohit Singh,PRN219230156,ENTC,SE,Advanced DSA,Great Learning,Cloud Computing,51,2025-12-02
+Vivaan Nair,PRN212673793,Mechanical,BE,Full Stack Web Dev,edX,Machine Learning,62,2024-03-29
+Karan Deshmukh,PRN215554374,ENTC,TE,Cloud Fundamentals,Great Learning,Web Development,70,2023-01-19
+Vivaan Deshmukh,PRN217477055,IT,BE,Full Stack Web Dev,Great Learning,Cloud Computing,42,2024-10-19
+Isha Sharma,PRN216473923,ENTC,BE,Advanced DSA,NPTEL,Web Development,92,2025-02-06
+Neha Nair,PRN217475204,Mechanical,SE,Advanced DSA,Coursera,Data Structures,72,2023-06-18
+Vivaan Verma,PRN219025719,Electrical,SE,Intro to ML,Coursera,Cloud Computing,95,2025-05-18
+Vivaan Kulkarni,PRN219022018,Mechanical,BE,Intro to ML,Coursera,Machine Learning,69,2024-11-10
+Aarav Sharma,PRN211228898,CSE,SE,Advanced DSA,Great Learning,Machine Learning,76,2024-04-11
+Priya Gupta,PRN216510106,Mechanical,BE,Network Security Basics,edX,Data Structures,41,2025-03-08
+Rahul Sharma,PRN218973031,CSE,BE,Full Stack Web Dev,NPTEL,Web Development,42,2023-05-29
+Sneha Nair,PRN211780658,ENTC,BE,Advanced DSA,Great Learning,Machine Learning,58,2025-06-15

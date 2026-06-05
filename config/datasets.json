@@ -1,0 +1,175 @@
+{
+  "datasets": [
+    {
+      "id": "industry_projects",
+      "label": "Industry Projects",
+      "csv_path": "data/csv/industry_projects.csv",
+      "index_path": "data/vector_store/industry_projects_index.faiss",
+      "metadata_path": "data/vector_store/industry_projects_metadata.json",
+      "student_key": "PRN_or_Roll_No",
+      "searchable_columns": [
+        "Student_Name",
+        "PRN_or_Roll_No",
+        "Branch",
+        "Year",
+        "Company_Name",
+        "Project_Title",
+        "Project_Domain"
+      ],
+      "summary_columns": [
+        "Student_Name",
+        "PRN_or_Roll_No",
+        "Branch",
+        "Year",
+        "Company_Name",
+        "Project_Title",
+        "Project_Domain",
+        "Project_Start_Date",
+        "Project_End_Date"
+      ]
+    },
+    {
+      "id": "academic_projects",
+      "label": "Academic Projects",
+      "csv_path": "data/csv/academic_projects.csv",
+      "index_path": "data/vector_store/academic_projects_index.faiss",
+      "metadata_path": "data/vector_store/academic_projects_metadata.json",
+      "student_key": "PRN_or_Roll_No",
+      "searchable_columns": [
+        "Student_Name",
+        "PRN_or_Roll_No",
+        "Branch",
+        "Year",
+        "Project_Title",
+        "Project_Category",
+        "Project_Domain",
+        "Project_Status"
+      ],
+      "summary_columns": [
+        "Student_Name",
+        "PRN_or_Roll_No",
+        "Branch",
+        "Year",
+        "Project_Title",
+        "Project_Category",
+        "Project_Domain",
+        "Project_Status"
+      ]
+    },
+    {
+      "id": "internships",
+      "label": "Internships",
+      "csv_path": "data/csv/internships.csv",
+      "index_path": "data/vector_store/internships_index.faiss",
+      "metadata_path": "data/vector_store/internships_metadata.json",
+      "student_key": "PRN_or_Roll_No",
+      "searchable_columns": [
+        "Student_Name",
+        "PRN_or_Roll_No",
+        "Branch",
+        "Year",
+        "Internship_Company_Name",
+        "Internship_Role",
+        "Internship_Mode",
+        "Stipend_Amount"
+      ],
+      "summary_columns": [
+        "Student_Name",
+        "PRN_or_Roll_No",
+        "Branch",
+        "Year",
+        "Internship_Company_Name",
+        "Internship_Role",
+        "Internship_Mode",
+        "Internship_Start_Date",
+        "Internship_End_Date",
+        "Stipend_Amount"
+      ]
+    },
+    {
+      "id": "hackathons",
+      "label": "Hackathons",
+      "csv_path": "data/csv/hackathons.csv",
+      "index_path": "data/vector_store/hackathons_index.faiss",
+      "metadata_path": "data/vector_store/hackathons_metadata.json",
+      "student_key": "PRN_or_Roll_No",
+      "searchable_columns": [
+        "Student_Name",
+        "PRN_or_Roll_No",
+        "Hackathon_Name",
+        "Hackathon_Level",
+        "Hackathon_Mode",
+        "Team_Name",
+        "Result_Status"
+      ],
+      "summary_columns": [
+        "Student_Name",
+        "PRN_or_Roll_No",
+        "Hackathon_Name",
+        "Hackathon_Level",
+        "Hackathon_Mode",
+        "Team_Name",
+        "Result_Status"
+      ]
+    },
+    {
+      "id": "certifications",
+      "label": "Certifications",
+      "csv_path": "data/csv/certifications.csv",
+      "index_path": "data/vector_store/certifications_index.faiss",
+      "metadata_path": "data/vector_store/certifications_metadata.json",
+      "student_key": "PRN_or_Roll_No",
+      "searchable_columns": [
+        "Student_Name",
+        "PRN_or_Roll_No",
+        "Branch",
+        "Year",
+        "Certification_Title",
+        "Platform_or_Provider",
+        "Certification_Domain",
+        "Score_or_Grade"
+      ],
+      "summary_columns": [
+        "Student_Name",
+        "PRN_or_Roll_No",
+        "Branch",
+        "Year",
+        "Certification_Title",
+        "Platform_or_Provider",
+        "Certification_Domain",
+        "Score_or_Grade",
+        "Completion_Date"
+      ]
+    },
+    {
+      "id": "research_papers",
+      "label": "Research Papers",
+      "csv_path": "data/csv/research_papers.csv",
+      "index_path": "data/vector_store/research_papers_index.faiss",
+      "metadata_path": "data/vector_store/research_papers_metadata.json",
+      "student_key": "PRN_or_Roll_No",
+      "searchable_columns": [
+        "Student_Name",
+        "PRN_or_Roll_No",
+        "Paper_Title",
+        "Paper_Domain",
+        "Publication_Type",
+        "Venue_Name",
+        "Publication_Status",
+        "Publication_Year",
+        "DOI_or_Paper_URL"
+      ],
+      "summary_columns": [
+        "Student_Name",
+        "PRN_or_Roll_No",
+        "Paper_Title",
+        "Paper_Domain",
+        "Publication_Type",
+        "Venue_Name",
+        "Publication_Status",
+        "Publication_Year",
+        "DOI_or_Paper_URL"
+      ]
+    }
+  ]
+}

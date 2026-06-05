@@ -1,0 +1,101 @@
+Student_Name,PRN_or_Roll_No,Branch,Year,Company_Name,Project_Title,Project_Domain,Project_Start_Date,Project_End_Date
+Tanvi Joshi,PRN214108603,IT,SE,TechNova Pvt Ltd,Attendance Tracker App,Web Development,2/21/2023,8/17/2023
+Aarav Sharma,PRN213668136,IT,BE,NextGen Systems,Smart Campus Portal,Android,3/7/2023,5/14/2025
+Karan Reddy,PRN219886237,ENTC,SE,InnoSoft Solutions,Secure File Storage,IoT,2/12/2024,5/9/2025
+Karan Deshmukh,PRN211714803,CSE,TE,TechNova Pvt Ltd,IoT Based Home Automation,IoT,11/15/2023,7/23/2024
+Tanvi Reddy,PRN218996414,CSE,TE,TechNova Pvt Ltd,Attendance Tracker App,IoT,3/30/2023,6/25/2024
+Tanvi Sharma,PRN210768805,IT,TE,TechNova Pvt Ltd,Sales Prediction System,Web Development,1/29/2024,1/10/2025
+Rohit Deshmukh,PRN212728882,ENTC,TE,InnoSoft Solutions,IoT Based Home Automation,Web Development,7/23/2024,2/17/2025
+Tanvi Kulkarni,PRN212741438,Mechanical,TE,DataSphere Labs,Attendance Tracker App,Machine Learning,12/17/2023,12/29/2025
+Karan Patil,PRN215292423,Mechanical,TE,TechNova Pvt Ltd,Sales Prediction System,Android,4/25/2023,10/26/2024
+Rahul Reddy,PRN216637601,Mechanical,SE,DataSphere Labs,Sales Prediction System,Machine Learning,3/11/2024,10/6/2024
+Siddhi Gupta,PRN216073292,IT,SE,NextGen Systems,Secure File Storage,Web Development,6/22/2024,5/27/2025
+Aditya Verma,PRN217082668,Electrical,SE,CodeCrafters,Secure File Storage,Android,4/7/2023,8/13/2023
+Priya Nair,PRN210192619,CSE,BE,NextGen Systems,IoT Based Home Automation,IoT,8/16/2025,12/19/2025
+Isha Verma,PRN217612220,CSE,BE,DataSphere Labs,Attendance Tracker App,Machine Learning,8/17/2023,8/24/2024
+Rahul Joshi,PRN218517169,Electrical,SE,InnoSoft Solutions,IoT Based Home Automation,Machine Learning,8/6/2023,11/5/2025
+Siddhi Deshmukh,PRN218197443,CSE,SE,DataSphere Labs,IoT Based Home Automation,Machine Learning,1/2/2023,12/22/2025
+Siddhi Sharma,PRN211437026,Mechanical,SE,NextGen Systems,Sales Prediction System,Machine Learning,4/29/2023,5/8/2024
+Priya Nair,PRN217099076,IT,BE,InnoSoft Solutions,IoT Based Home Automation,Cybersecurity,12/5/2023,8/31/2025
+Neha Reddy,PRN212030113,IT,SE,TechNova Pvt Ltd,IoT Based Home Automation,Web Development,2/3/2025,6/16/2025
+Aarav Sharma,PRN210987737,IT,SE,TechNova Pvt Ltd,IoT Based Home Automation,Web Development,3/27/2024,4/16/2024
+Priya Reddy,PRN213594297,Electrical,SE,NextGen Systems,Attendance Tracker App,Cybersecurity,5/2/2024,11/18/2025
+Isha Kulkarni,PRN211582524,CSE,BE,CodeCrafters,IoT Based Home Automation,Cybersecurity,5/12/2024,8/26/2025
+Tanvi Patil,PRN211651177,CSE,TE,DataSphere Labs,Smart Campus Portal,Machine Learning,4/21/2025,8/14/2025
+Neha Reddy,PRN212351868,Mechanical,SE,DataSphere Labs,Secure File Storage,Machine Learning,1/25/2024,1/28/2024
+Neha Sharma,PRN210848731,Electrical,SE,TechNova Pvt Ltd,Sales Prediction System,Machine Learning,6/4/2023,6/26/2025
+Rohit Kulkarni,PRN216728339,CSE,SE,CodeCrafters,Smart Campus Portal,Cybersecurity,4/12/2025,9/21/2025
+Priya Gupta,PRN219324245,Mechanical,SE,InnoSoft Solutions,IoT Based Home Automation,Machine Learning,6/27/2024,7/20/2025
+Tanvi Deshmukh,PRN210959074,CSE,BE,CodeCrafters,Attendance Tracker App,Android,4/30/2023,5/5/2023
+Neha Sharma,PRN213117625,CSE,BE,TechNova Pvt Ltd,Sales Prediction System,Cybersecurity,4/27/2023,11/19/2023
+Siddhi Singh,PRN210666754,Electrical,SE,CodeCrafters,Attendance Tracker App,Android,9/3/2023,5/19/2024
+Priya Kulkarni,PRN215271130,IT,TE,CodeCrafters,Sales Prediction System,IoT,10/9/2024,12/6/2025
+Vivaan Patil,PRN217688755,Electrical,BE,TechNova Pvt Ltd,Smart Campus Portal,Android,10/9/2024,7/25/2025
+Priya Verma,PRN215855396,CSE,SE,DataSphere Labs,IoT Based Home Automation,Machine Learning,3/12/2024,11/2/2025
+Siddhi Nair,PRN210131249,Electrical,TE,TechNova Pvt Ltd,Sales Prediction System,IoT,9/11/2024,6/16/2025
+Tanvi Nair,PRN212607983,ENTC,TE,NextGen Systems,Sales Prediction System,IoT,8/8/2023,8/25/2023
+Neha Reddy,PRN214213115,CSE,SE,CodeCrafters,IoT Based Home Automation,Web Development,2/21/2024,6/24/2024
+Aditya Joshi,PRN212710895,Mechanical,BE,CodeCrafters,Attendance Tracker App,Web Development,1/8/2023,11/14/2024
+Tanvi Verma,PRN219153486,CSE,TE,NextGen Systems,Attendance Tracker App,Machine Learning,6/4/2023,8/18/2023
+Aarav Joshi,PRN216117837,CSE,TE,InnoSoft Solutions,Sales Prediction System,Web Development,9/19/2023,5/30/2025
+Siddhi Verma,PRN213971793,IT,SE,CodeCrafters,Smart Campus Portal,Machine Learning,12/25/2024,4/12/2025
+Rahul Kulkarni,PRN214476257,IT,BE,TechNova Pvt Ltd,Secure File Storage,Web Development,11/11/2024,4/23/2025
+Karan Reddy,PRN215866294,ENTC,SE,InnoSoft Solutions,Smart Campus Portal,Machine Learning,3/31/2024,8/21/2025
+Priya Sharma,PRN214682940,ENTC,BE,NextGen Systems,Secure File Storage,Android,11/3/2024,3/27/2025
+Vivaan Joshi,PRN212995870,Electrical,TE,TechNova Pvt Ltd,Smart Campus Portal,Android,2/26/2023,11/9/2024
+Tanvi Deshmukh,PRN217321474,Electrical,BE,TechNova Pvt Ltd,Secure File Storage,Android,12/8/2024,6/8/2025
+Aarav Gupta,PRN210028374,Electrical,BE,InnoSoft Solutions,IoT Based Home Automation,Cybersecurity,1/25/2024,6/5/2024
+Siddhi Deshmukh,PRN212090865,ENTC,BE,DataSphere Labs,Secure File Storage,IoT,5/24/2023,11/7/2024
+Neha Verma,PRN213218542,Mechanical,BE,CodeCrafters,Sales Prediction System,Android,8/28/2024,4/4/2025
+Neha Patil,PRN215098175,ENTC,SE,CodeCrafters,Attendance Tracker App,Android,9/8/2024,4/11/2025
+Rohit Reddy,PRN213585314,Electrical,TE,InnoSoft Solutions,Smart Campus Portal,IoT,10/21/2024,8/10/2025
+Vivaan Kulkarni,PRN215207974,IT,SE,InnoSoft Solutions,Smart Campus Portal,Web Development,11/17/2024,11/21/2025
+Siddhi Sharma,PRN217640615,Mechanical,BE,NextGen Systems,Sales Prediction System,Cybersecurity,5/16/2024,8/31/2025
+Karan Verma,PRN210093026,CSE,TE,InnoSoft Solutions,Sales Prediction System,Android,3/29/2025,10/9/2025
+Neha Kulkarni,PRN212036059,Mechanical,SE,CodeCrafters,Attendance Tracker App,Android,4/13/2023,8/9/2025
+Siddhi Nair,PRN217159521,Electrical,TE,InnoSoft Solutions,Secure File Storage,Cybersecurity,10/11/2024,6/25/2025
+Rahul Joshi,PRN218745959,Mechanical,BE,InnoSoft Solutions,IoT Based Home Automation,Cybersecurity,5/21/2024,6/14/2024
+Karan Joshi,PRN215634586,ENTC,BE,TechNova Pvt Ltd,Sales Prediction System,Machine Learning,6/8/2023,8/8/2024
+Tanvi Verma,PRN213589533,CSE,TE,CodeCrafters,IoT Based Home Automation,Android,4/18/2024,2/23/2025
+Aarav Kulkarni,PRN217048838,Mechanical,BE,TechNova Pvt Ltd,Attendance Tracker App,Cybersecurity,5/1/2025,8/12/2025
+Sneha Joshi,PRN216542890,Mechanical,BE,NextGen Systems,Attendance Tracker App,Machine Learning,1/13/2023,9/3/2025
+Priya Gupta,PRN218147720,CSE,TE,DataSphere Labs,Secure File Storage,Machine Learning,3/25/2024,9/26/2025
+Siddhi Nair,PRN210452421,Mechanical,BE,NextGen Systems,Smart Campus Portal,Web Development,9/19/2023,8/15/2025
+Rohit Verma,PRN210843636,ENTC,TE,DataSphere Labs,Sales Prediction System,Cybersecurity,10/5/2023,5/27/2025
+Isha Joshi,PRN217072684,ENTC,SE,CodeCrafters,Smart Campus Portal,Android,10/31/2024,11/22/2024
+Karan Sharma,PRN210675419,CSE,SE,InnoSoft Solutions,Smart Campus Portal,Android,4/17/2023,12/17/2024
+Aditya Reddy,PRN211919136,Electrical,SE,CodeCrafters,IoT Based Home Automation,IoT,11/9/2023,5/3/2024
+Aditya Joshi,PRN211813596,Electrical,SE,DataSphere Labs,Attendance Tracker App,Cybersecurity,8/23/2023,12/10/2023
+Vivaan Singh,PRN214074336,CSE,BE,DataSphere Labs,Attendance Tracker App,Web Development,2/11/2024,3/23/2025
+Neha Gupta,PRN216217147,CSE,BE,DataSphere Labs,Smart Campus Portal,Cybersecurity,3/26/2023,12/12/2024
+Isha Deshmukh,PRN217713146,IT,TE,InnoSoft Solutions,Attendance Tracker App,IoT,8/5/2023,9/30/2025
+Isha Singh,PRN214502929,ENTC,SE,TechNova Pvt Ltd,IoT Based Home Automation,Cybersecurity,8/10/2025,9/17/2025
+Siddhi Singh,PRN216358385,ENTC,SE,CodeCrafters,IoT Based Home Automation,Machine Learning,5/14/2024,8/9/2025
+Sneha Joshi,PRN215709938,ENTC,BE,DataSphere Labs,Attendance Tracker App,Web Development,3/10/2024,9/25/2025
+Vivaan Kulkarni,PRN216818732,Mechanical,BE,InnoSoft Solutions,Secure File Storage,Cybersecurity,1/27/2024,11/24/2025
+Vivaan Joshi,PRN213717770,Mechanical,BE,InnoSoft Solutions,IoT Based Home Automation,Android,2/5/2023,7/6/2025
+Neha Nair,PRN215767292,Mechanical,BE,NextGen Systems,IoT Based Home Automation,IoT,1/25/2025,8/27/2025
+Priya Joshi,PRN213867786,CSE,BE,InnoSoft Solutions,IoT Based Home Automation,Web Development,7/8/2024,7/18/2025
+Karan Reddy,PRN214638893,Electrical,BE,NextGen Systems,IoT Based Home Automation,Web Development,1/15/2024,1/28/2024
+Karan Deshmukh,PRN213010529,ENTC,SE,NextGen Systems,Sales Prediction System,IoT,2/2/2024,8/29/2024
+Neha Joshi,PRN212118618,Mechanical,SE,TechNova Pvt Ltd,Attendance Tracker App,IoT,4/4/2023,4/22/2023
+Rohit Deshmukh,PRN213093109,CSE,TE,CodeCrafters,Smart Campus Portal,Web Development,8/19/2025,9/7/2025
+Vivaan Singh,PRN210899411,IT,SE,NextGen Systems,IoT Based Home Automation,Web Development,3/31/2025,10/4/2025
+Neha Gupta,PRN213786401,Electrical,TE,CodeCrafters,Secure File Storage,IoT,8/31/2023,5/23/2024
+Siddhi Singh,PRN211010496,Electrical,BE,TechNova Pvt Ltd,Sales Prediction System,Machine Learning,9/17/2024,5/28/2025
+Aditya Kulkarni,PRN212916107,Electrical,SE,InnoSoft Solutions,Smart Campus Portal,Cybersecurity,6/16/2023,6/25/2024
+Priya Patil,PRN213883526,ENTC,BE,DataSphere Labs,Secure File Storage,Web Development,7/11/2025,8/20/2025
+Rahul Singh,PRN213318855,Mechanical,SE,NextGen Systems,Sales Prediction System,Machine Learning,4/23/2024,6/25/2024
+Vivaan Patil,PRN212783722,ENTC,BE,NextGen Systems,IoT Based Home Automation,Cybersecurity,10/19/2023,6/28/2024
+Tanvi Joshi,PRN216752972,ENTC,BE,NextGen Systems,Secure File Storage,Cybersecurity,9/12/2023,8/17/2025
+Isha Deshmukh,PRN214200476,CSE,SE,InnoSoft Solutions,Attendance Tracker App,Android,3/23/2023,6/14/2023
+Siddhi Patil,PRN212939212,Mechanical,BE,CodeCrafters,IoT Based Home Automation,Machine Learning,2/12/2023,7/5/2024
+Vivaan Reddy,PRN215837817,Mechanical,TE,DataSphere Labs,Smart Campus Portal,Machine Learning,6/11/2025,10/4/2025
+Tanvi Reddy,PRN214835492,Mechanical,BE,TechNova Pvt Ltd,Secure File Storage,Web Development,11/6/2024,4/23/2025
+Sneha Sharma,PRN216780932,Electrical,SE,NextGen Systems,Secure File Storage,Cybersecurity,5/31/2024,10/6/2024
+Neha Deshmukh,PRN218363326,Mechanical,SE,InnoSoft Solutions,IoT Based Home Automation,Android,4/22/2023,1/20/2024
+Rohit Reddy,PRN212037191,CSE,BE,NextGen Systems,Sales Prediction System,Machine Learning,9/26/2023,8/12/2024
+Neha Gupta,PRN211563790,IT,SE,CodeCrafters,Smart Campus Portal,Machine Learning,1/29/2023,9/28/2024
+Neha Joshi,PRN216970771,Mechanical,TE,InnoSoft Solutions,Secure File Storage,Android,8/20/2024,10/17/2025
+Karan Singh,PRN218526867,IT,SE,DataSphere Labs,Secure File Storage,IoT,10/24/2023,2/24/2025
+Aarav Joshi,PRN215008935,Electrical,BE,CodeCrafters,Sales Prediction System,Cybersecurity,7/1/2024,11/5/2025

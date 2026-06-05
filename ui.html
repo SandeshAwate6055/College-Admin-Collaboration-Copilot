@@ -1,0 +1,998 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>College Admin Copilot</title>
+    <style>
+        :root {
+            --ink: #182230;
+            --muted: #667085;
+            --line: #d0d5dd;
+            --soft: #f2f4f7;
+            --panel: #ffffff;
+            --brand: #2563eb;
+            --brand-dark: #1d4ed8;
+            --accent: #0f766e;
+            --warn: #b42318;
+            --ok: #027a48;
+            --shadow: 0 10px 28px rgba(16, 24, 40, 0.10);
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: "Segoe UI", Arial, sans-serif;
+            color: var(--ink);
+            background: #eef2f6;
+        }
+
+        button, input, select, textarea {
+            font: inherit;
+        }
+
+        .shell {
+            min-height: 100vh;
+            display: grid;
+            grid-template-columns: 260px 1fr;
+        }
+
+        .sidebar {
+            background: #111827;
+            color: #e5e7eb;
+            padding: 24px 18px;
+            position: sticky;
+            top: 0;
+            height: 100vh;
+        }
+
+        .brand {
+            padding: 0 10px 22px;
+            border-bottom: 1px solid rgba(255,255,255,0.12);
+            margin-bottom: 18px;
+        }
+
+        .brand h1 {
+            font-size: 21px;
+            line-height: 1.2;
+            margin: 0 0 6px;
+        }
+
+        .brand p {
+            margin: 0;
+            color: #aeb8c8;
+            font-size: 13px;
+        }
+
+        .nav {
+            display: grid;
+            gap: 8px;
+        }
+
+        .nav button {
+            width: 100%;
+            border: 0;
+            background: transparent;
+            color: #d0d5dd;
+            text-align: left;
+            padding: 11px 12px;
+            border-radius: 8px;
+            cursor: pointer;
+        }
+
+        .nav button.active,
+        .nav button:hover {
+            color: white;
+            background: rgba(37, 99, 235, 0.95);
+        }
+
+        .main {
+            padding: 28px;
+            max-width: 1280px;
+            width: 100%;
+        }
+
+        .topbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 16px;
+            margin-bottom: 22px;
+        }
+
+        .topbar h2 {
+            margin: 0;
+            font-size: 28px;
+        }
+
+        .topbar p {
+            margin: 5px 0 0;
+            color: var(--muted);
+        }
+
+        .page {
+            display: none;
+        }
+
+        .page.active {
+            display: block;
+        }
+
+        .grid {
+            display: grid;
+            gap: 16px;
+        }
+
+        .grid.cards {
+            grid-template-columns: repeat(3, minmax(0, 1fr));
+        }
+
+        .grid.two {
+            grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+        }
+
+        .card, .panel {
+            background: var(--panel);
+            border: 1px solid var(--line);
+            border-radius: 8px;
+            box-shadow: var(--shadow);
+        }
+
+        .card {
+            padding: 18px;
+        }
+
+        .card h3 {
+            margin: 0 0 6px;
+            font-size: 18px;
+        }
+
+        .card p {
+            margin: 0;
+            color: var(--muted);
+            line-height: 1.45;
+        }
+
+        .metric {
+            font-size: 34px;
+            font-weight: 750;
+            color: var(--brand);
+            margin-bottom: 4px;
+        }
+
+        .panel-head {
+            padding: 18px 20px;
+            border-bottom: 1px solid var(--line);
+            display: flex;
+            justify-content: space-between;
+            gap: 16px;
+            align-items: center;
+        }
+
+        .panel-head h3 {
+            margin: 0;
+            font-size: 18px;
+        }
+
+        .panel-body {
+            padding: 20px;
+        }
+
+        .form-grid {
+            display: grid;
+            grid-template-columns: 240px 1fr 130px;
+            gap: 12px;
+            align-items: end;
+        }
+
+        .field {
+            display: grid;
+            gap: 7px;
+        }
+
+        .field label {
+            color: #344054;
+            font-weight: 650;
+            font-size: 14px;
+        }
+
+        .field input,
+        .field select,
+        .field textarea {
+            width: 100%;
+            border: 1px solid var(--line);
+            border-radius: 8px;
+            padding: 11px 12px;
+            background: white;
+            color: var(--ink);
+        }
+
+        .field textarea {
+            min-height: 92px;
+            resize: vertical;
+        }
+
+        .button {
+            border: 0;
+            background: var(--brand);
+            color: white;
+            padding: 11px 14px;
+            border-radius: 8px;
+            font-weight: 700;
+            cursor: pointer;
+        }
+
+        .button:hover {
+            background: var(--brand-dark);
+        }
+
+        .button.secondary {
+            background: #344054;
+        }
+
+        .button.ghost {
+            color: var(--brand);
+            background: #eff6ff;
+            border: 1px solid #bfdbfe;
+        }
+
+        .button:disabled {
+            opacity: 0.65;
+            cursor: wait;
+        }
+
+        .quick {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-top: 12px;
+        }
+
+        .quick button {
+            border: 1px solid var(--line);
+            background: var(--soft);
+            color: #344054;
+            border-radius: 8px;
+            padding: 8px 10px;
+            cursor: pointer;
+        }
+
+        .chat-box {
+            height: 420px;
+            overflow-y: auto;
+            background: #f8fafc;
+            border: 1px solid var(--line);
+            border-radius: 8px;
+            padding: 16px;
+        }
+
+        .message {
+            max-width: 82%;
+            padding: 12px 14px;
+            border-radius: 8px;
+            margin-bottom: 12px;
+            line-height: 1.5;
+        }
+
+        .message.user {
+            margin-left: auto;
+            background: var(--brand);
+            color: white;
+        }
+
+        .message.bot {
+            background: white;
+            border: 1px solid var(--line);
+        }
+
+        .results {
+            display: grid;
+            gap: 12px;
+            margin-top: 18px;
+        }
+
+        .result {
+            border: 1px solid var(--line);
+            background: white;
+            border-radius: 8px;
+            padding: 15px;
+        }
+
+        .result-title {
+            font-weight: 750;
+            margin-bottom: 8px;
+        }
+
+        .kv {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 6px 16px;
+            color: var(--muted);
+            font-size: 14px;
+        }
+
+        .kv span strong {
+            color: #344054;
+        }
+
+        .badge {
+            display: inline-flex;
+            align-items: center;
+            border-radius: 999px;
+            padding: 3px 9px;
+            background: #ecfdf3;
+            color: var(--ok);
+            font-size: 12px;
+            font-weight: 700;
+            margin-bottom: 8px;
+        }
+
+        .notice {
+            padding: 12px 14px;
+            border-radius: 8px;
+            background: #eff6ff;
+            color: #1e40af;
+            border: 1px solid #bfdbfe;
+            margin-top: 14px;
+        }
+
+        .notice.error {
+            background: #fef3f2;
+            border-color: #fecdca;
+            color: var(--warn);
+        }
+
+        .profile-head {
+            display: grid;
+            grid-template-columns: repeat(4, minmax(0, 1fr));
+            gap: 12px;
+            margin-bottom: 16px;
+        }
+
+        .profile-stat {
+            background: var(--soft);
+            border: 1px solid var(--line);
+            border-radius: 8px;
+            padding: 12px;
+        }
+
+        .profile-stat strong {
+            display: block;
+            font-size: 13px;
+            color: var(--muted);
+            margin-bottom: 5px;
+        }
+
+        .dataset-section {
+            margin-top: 14px;
+        }
+
+        .dataset-section h4 {
+            margin: 0 0 8px;
+        }
+
+        @media (max-width: 980px) {
+            .shell {
+                grid-template-columns: 1fr;
+            }
+
+            .sidebar {
+                position: static;
+                height: auto;
+            }
+
+            .nav {
+                grid-template-columns: repeat(3, minmax(0, 1fr));
+            }
+
+            .grid.cards,
+            .grid.two,
+            .form-grid,
+            .profile-head {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="shell">
+        <aside class="sidebar">
+            <div class="brand">
+                <h1>College Admin Copilot</h1>
+                <p>Student intelligence, support, and policy assistant</p>
+            </div>
+            <nav class="nav">
+                <button class="active" data-page="dashboard" onclick="switchPage('dashboard', this)">Dashboard</button>
+                <button data-page="chat" onclick="switchPage('chat', this)">Chat</button>
+                <button data-page="dataset-search" onclick="switchPage('dataset-search', this)">Dataset Search</button>
+                <button data-page="profile" onclick="switchPage('profile', this)">Student Profile</button>
+                <button data-page="student-360" onclick="switchPage('student-360', this)">Student 360</button>
+                <button data-page="recommend" onclick="switchPage('recommend', this)">Recommend</button>
+                <button data-page="portfolio" onclick="switchPage('portfolio', this)">Portfolio</button>
+                <button data-page="analytics" onclick="switchPage('analytics', this)">Analytics</button>
+                <button data-page="tickets" onclick="switchPage('tickets', this)">Tickets</button>
+            </nav>
+        </aside>
+
+        <main class="main">
+            <section id="dashboard" class="page active">
+                <div class="topbar">
+                    <div>
+                        <h2>Dashboard</h2>
+                        <p>Search all student activities, inspect profiles, and answer admin questions from one place.</p>
+                    </div>
+                    <button class="button ghost" onclick="refreshAnalytics()">Refresh</button>
+                </div>
+                <div class="grid cards" id="metricCards"></div>
+                <div class="panel" style="margin-top: 18px;">
+                    <div class="panel-head">
+                        <h3>Quick Search</h3>
+                    </div>
+                    <div class="panel-body">
+                        <div class="form-grid">
+                            <div class="field">
+                                <label for="quickDataset">Dataset</label>
+                                <select id="quickDataset"></select>
+                            </div>
+                            <div class="field">
+                                <label for="quickQuery">Query</label>
+                                <input id="quickQuery" placeholder="NPTEL machine learning, offline internship, national winner">
+                            </div>
+                            <button class="button" onclick="runDatasetSearch('quick')">Search</button>
+                        </div>
+                        <div class="results" id="quickResults"></div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="chat" class="page">
+                <div class="topbar">
+                    <div>
+                        <h2>AI Chat</h2>
+                        <p>Ask policies, dataset questions, student matching, or create a complaint ticket.</p>
+                    </div>
+                </div>
+                <div class="panel">
+                    <div class="panel-body">
+                        <div class="chat-box" id="chatMessages">
+                            <div class="message bot">Hello. Ask me about internships, certifications, projects, papers, hackathons, policies, or complaints.</div>
+                        </div>
+                        <div class="grid two" style="margin-top: 14px;">
+                            <div class="field">
+                                <label for="studentId">Student ID</label>
+                                <input id="studentId" value="STU123">
+                            </div>
+                            <div class="field">
+                                <label for="message">Message</label>
+                                <textarea id="message" placeholder="Find NPTEL certifications in machine learning"></textarea>
+                            </div>
+                        </div>
+                        <div class="quick">
+                            <button onclick="fillExample('cert')">Certification</button>
+                            <button onclick="fillExample('intern')">Internship</button>
+                            <button onclick="fillExample('hack')">Hackathon</button>
+                            <button onclick="fillExample('paper')">Research Paper</button>
+                            <button onclick="fillExample('complaint')">Complaint</button>
+                        </div>
+                        <button class="button" id="sendBtn" onclick="sendMessage()" style="margin-top: 14px;">Send Message</button>
+                    </div>
+                </div>
+            </section>
+
+            <section id="dataset-search" class="page">
+                <div class="topbar">
+                    <div>
+                        <h2>Dataset Search</h2>
+                        <p>Semantic search across industry projects, academic projects, internships, hackathons, certifications, and papers.</p>
+                    </div>
+                </div>
+                <div class="panel">
+                    <div class="panel-body">
+                        <div class="form-grid">
+                            <div class="field">
+                                <label for="datasetSelect">Dataset</label>
+                                <select id="datasetSelect"></select>
+                            </div>
+                            <div class="field">
+                                <label for="datasetQuery">Search Query</label>
+                                <input id="datasetQuery" placeholder="cloud internship with stipend">
+                            </div>
+                            <button class="button" onclick="runDatasetSearch('main')">Search</button>
+                        </div>
+                        <div class="results" id="datasetResults"></div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="profile" class="page">
+                <div class="topbar">
+                    <div>
+                        <h2>Student Profile</h2>
+                        <p>Lookup all known activity records for a student by PRN or roll number.</p>
+                    </div>
+                </div>
+                <div class="panel">
+                    <div class="panel-body">
+                        <div class="form-grid">
+                            <div class="field" style="grid-column: span 2;">
+                                <label for="profilePrn">PRN or Roll No</label>
+                                <input id="profilePrn" placeholder="PRN214108603">
+                            </div>
+                            <button class="button" onclick="loadProfile()">Load Profile</button>
+                        </div>
+                        <div class="results" id="profileResults"></div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="analytics" class="page">
+                <div class="topbar">
+                    <div>
+                        <h2>Analytics</h2>
+                        <p>Dataset totals, branch counts, and year-wise distribution.</p>
+                    </div>
+                    <button class="button ghost" onclick="refreshAnalytics()">Refresh Analytics</button>
+                </div>
+                <div class="results" id="analyticsResults"></div>
+            </section>
+
+            <section id="student-360" class="page">
+                <div class="topbar">
+                    <div>
+                        <h2>Student 360</h2>
+                        <p>Summarize a student profile with strengths, activity counts, companies, and suggested career track.</p>
+                    </div>
+                </div>
+                <div class="panel">
+                    <div class="panel-body">
+                        <div class="form-grid">
+                            <div class="field" style="grid-column: span 2;">
+                                <label for="student360Prn">PRN or Roll No</label>
+                                <input id="student360Prn" placeholder="PRN211756994">
+                            </div>
+                            <button class="button" onclick="loadStudent360()">Build 360</button>
+                        </div>
+                        <div class="results" id="student360Results"></div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="recommend" class="page">
+                <div class="topbar">
+                    <div>
+                        <h2>Smart Recommendation</h2>
+                        <p>Enter a faculty requirement and get ranked students with explainable evidence.</p>
+                    </div>
+                </div>
+                <div class="panel">
+                    <div class="panel-body">
+                        <div class="field">
+                            <label for="recommendRequirement">Requirement</label>
+                            <textarea id="recommendRequirement" placeholder="Need students for AI project with machine learning, cloud, and web dashboard experience"></textarea>
+                        </div>
+                        <button class="button" onclick="loadRecommendations()" style="margin-top: 12px;">Recommend Students</button>
+                        <div class="results" id="recommendResults"></div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="portfolio" class="page">
+                <div class="topbar">
+                    <div>
+                        <h2>Portfolio Builder</h2>
+                        <p>Generate a professional portfolio summary from student activity records.</p>
+                    </div>
+                </div>
+                <div class="panel">
+                    <div class="panel-body">
+                        <div class="form-grid">
+                            <div class="field" style="grid-column: span 2;">
+                                <label for="portfolioPrn">PRN or Roll No</label>
+                                <input id="portfolioPrn" placeholder="PRN211756994">
+                            </div>
+                            <button class="button" onclick="loadPortfolio()">Generate</button>
+                        </div>
+                        <div class="results" id="portfolioResults"></div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="tickets" class="page">
+                <div class="topbar">
+                    <div>
+                        <h2>Tickets</h2>
+                        <p>View complaints created through chat.</p>
+                    </div>
+                </div>
+                <div class="panel">
+                    <div class="panel-body">
+                        <div class="form-grid">
+                            <div class="field" style="grid-column: span 2;">
+                                <label for="ticketStudentId">Student ID</label>
+                                <input id="ticketStudentId" value="STU123">
+                            </div>
+                            <button class="button" onclick="loadTickets()">Load Tickets</button>
+                        </div>
+                        <div class="results" id="ticketResults"></div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script>
+        const API_BASE = window.location.origin;
+        let datasets = [];
+
+        function escapeHtml(value) {
+            return String(value ?? "")
+                .replaceAll("&", "&amp;")
+                .replaceAll("<", "&lt;")
+                .replaceAll(">", "&gt;")
+                .replaceAll('"', "&quot;")
+                .replaceAll("'", "&#039;");
+        }
+
+        function switchPage(pageId, button) {
+            document.querySelectorAll(".page").forEach(page => page.classList.remove("active"));
+            document.querySelectorAll(".nav button").forEach(item => item.classList.remove("active"));
+            document.getElementById(pageId).classList.add("active");
+            if (button) button.classList.add("active");
+            if (pageId === "analytics") refreshAnalytics();
+        }
+
+        async function api(path, options = {}) {
+            const response = await fetch(`${API_BASE}${path}`, options);
+            const text = await response.text();
+            const data = text ? JSON.parse(text) : {};
+            if (!response.ok) {
+                throw new Error(data.detail || `Server error: ${response.status}`);
+            }
+            return data;
+        }
+
+        async function init() {
+            try {
+                const data = await api("/api/datasets");
+                datasets = data.datasets || [];
+                populateDatasetSelects();
+                await refreshAnalytics();
+            } catch (error) {
+                document.getElementById("metricCards").innerHTML = `<div class="notice error">${escapeHtml(error.message)}</div>`;
+            }
+        }
+
+        function populateDatasetSelects() {
+            const options = datasets.map(dataset => `<option value="${dataset.id}">${escapeHtml(dataset.label)}</option>`).join("");
+            document.getElementById("datasetSelect").innerHTML = options;
+            document.getElementById("quickDataset").innerHTML = options;
+        }
+
+        async function refreshAnalytics() {
+            const data = await api("/api/analytics/datasets");
+            const rows = data.datasets || [];
+            const total = rows.reduce((sum, row) => sum + row.total_records, 0);
+            document.getElementById("metricCards").innerHTML = `
+                <div class="card"><div class="metric">${rows.length}</div><h3>Datasets</h3><p>Configured student activity datasets</p></div>
+                <div class="card"><div class="metric">${total}</div><h3>Total Records</h3><p>Indexed records across all CSV files</p></div>
+                <div class="card"><div class="metric">6</div><h3>Search Types</h3><p>Projects, internships, hackathons, certifications, papers, profiles</p></div>
+            `;
+            document.getElementById("analyticsResults").innerHTML = rows.map(renderAnalyticsCard).join("");
+        }
+
+        function renderAnalyticsCard(row) {
+            const branches = Object.entries(row.branch_counts || {}).map(([key, value]) => `${escapeHtml(key)}: ${value}`).join(", ");
+            const years = Object.entries(row.year_counts || {}).map(([key, value]) => `${escapeHtml(key)}: ${value}`).join(", ");
+            return `
+                <div class="result">
+                    <span class="badge">${row.total_records} records</span>
+                    <div class="result-title">${escapeHtml(row.dataset_label)}</div>
+                    <div class="kv">
+                        <span><strong>Branches:</strong> ${branches || "Not available"}</span>
+                        <span><strong>Years:</strong> ${years || "Not available"}</span>
+                    </div>
+                </div>
+            `;
+        }
+
+        async function runDatasetSearch(mode) {
+            const datasetId = document.getElementById(mode === "quick" ? "quickDataset" : "datasetSelect").value;
+            const query = document.getElementById(mode === "quick" ? "quickQuery" : "datasetQuery").value.trim();
+            const target = document.getElementById(mode === "quick" ? "quickResults" : "datasetResults");
+            if (!query) {
+                target.innerHTML = `<div class="notice error">Enter a search query.</div>`;
+                return;
+            }
+            target.innerHTML = `<div class="notice">Searching...</div>`;
+            try {
+                const data = await api(`/api/search/datasets/${datasetId}?q=${encodeURIComponent(query)}&top_k=8`);
+                target.innerHTML = renderDatasetResults(data.results || []);
+            } catch (error) {
+                target.innerHTML = `<div class="notice error">${escapeHtml(error.message)}</div>`;
+            }
+        }
+
+        function renderDatasetResults(results) {
+            if (!results.length) return `<div class="notice">No matching records found.</div>`;
+            return results.map((item, index) => {
+                const title = item.Project_Title || item.Paper_Title || item.Certification_Title || item.Hackathon_Name || item.Internship_Role || item.Student_Name || "Record";
+                const details = Object.entries(item)
+                    .filter(([key, value]) => !["text", "score"].includes(key) && value !== "" && value !== null && value !== undefined)
+                    .slice(0, 10)
+                    .map(([key, value]) => `<span><strong>${escapeHtml(key)}:</strong> ${escapeHtml(value)}</span>`)
+                    .join("");
+                return `
+                    <div class="result">
+                        <span class="badge">Rank ${index + 1}</span>
+                        <div class="result-title">${escapeHtml(title)}</div>
+                        <div class="kv">${details}</div>
+                    </div>
+                `;
+            }).join("");
+        }
+
+        function fillExample(type) {
+            const examples = {
+                cert: "Find NPTEL certifications in machine learning",
+                intern: "Show offline internships with stipend",
+                hack: "National hackathon winners",
+                paper: "Research papers on computer vision",
+                complaint: "My grade sheet is wrong"
+            };
+            document.getElementById("message").value = examples[type];
+        }
+
+        function addMessage(role, content) {
+            const box = document.getElementById("chatMessages");
+            const item = document.createElement("div");
+            item.className = `message ${role}`;
+            item.innerHTML = content;
+            box.appendChild(item);
+            box.scrollTop = box.scrollHeight;
+        }
+
+        async function sendMessage() {
+            const studentId = document.getElementById("studentId").value.trim();
+            const message = document.getElementById("message").value.trim();
+            const button = document.getElementById("sendBtn");
+            if (!studentId || !message) {
+                addMessage("bot", "Please enter both Student ID and message.");
+                return;
+            }
+            addMessage("user", escapeHtml(message));
+            document.getElementById("message").value = "";
+            button.disabled = true;
+            try {
+                const data = await api("/chat", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({ student_id: studentId, message })
+                });
+                const answer = data.answer || data.message || "No response returned.";
+                const results = data.data && data.data.length ? renderDatasetResults(data.data) : "";
+                addMessage("bot", `<strong>${escapeHtml(data.type || "Response")}</strong><br>${escapeHtml(answer)}${results}`);
+            } catch (error) {
+                addMessage("bot", `<span style="color: var(--warn);">${escapeHtml(error.message)}</span>`);
+            } finally {
+                button.disabled = false;
+            }
+        }
+
+        async function loadProfile() {
+            const prn = document.getElementById("profilePrn").value.trim();
+            const target = document.getElementById("profileResults");
+            if (!prn) {
+                target.innerHTML = `<div class="notice error">Enter a PRN or roll number.</div>`;
+                return;
+            }
+            target.innerHTML = `<div class="notice">Loading profile...</div>`;
+            try {
+                const data = await api(`/api/student/${encodeURIComponent(prn)}/profile`);
+                target.innerHTML = renderProfile(data);
+            } catch (error) {
+                target.innerHTML = `<div class="notice error">${escapeHtml(error.message)}</div>`;
+            }
+        }
+
+        function renderProfile(profile) {
+            const sections = Object.entries(profile.datasets || {}).map(([id, group]) => {
+                const records = group.records && group.records.length ? renderDatasetResults(group.records) : `<div class="notice">No records.</div>`;
+                return `<div class="dataset-section"><h4>${escapeHtml(group.label)} (${group.count})</h4>${records}</div>`;
+            }).join("");
+            return `
+                <div class="profile-head">
+                    <div class="profile-stat"><strong>Name</strong>${escapeHtml(profile.student_name || "Unknown")}</div>
+                    <div class="profile-stat"><strong>PRN</strong>${escapeHtml(profile.prn_or_roll_no)}</div>
+                    <div class="profile-stat"><strong>Branch</strong>${escapeHtml(profile.branch || "Unknown")}</div>
+                    <div class="profile-stat"><strong>Total Records</strong>${profile.total_records}</div>
+                </div>
+                ${sections}
+            `;
+        }
+
+        function renderStudent360(profile) {
+            const domains = profile.strongest_domains && profile.strongest_domains.length ? profile.strongest_domains.join(", ") : "Not enough evidence";
+            const companies = profile.top_companies && profile.top_companies.length ? profile.top_companies.join(", ") : "Not available";
+            const platforms = profile.top_platforms && profile.top_platforms.length ? profile.top_platforms.join(", ") : "Not available";
+            const counts = Object.entries(profile.dataset_counts || {})
+                .map(([key, value]) => `<span><strong>${escapeHtml(key)}:</strong> ${value}</span>`)
+                .join("");
+            return `
+                <div class="profile-head">
+                    <div class="profile-stat"><strong>Name</strong>${escapeHtml(profile.student_name || "Unknown")}</div>
+                    <div class="profile-stat"><strong>Track</strong>${escapeHtml(profile.suggested_career_track)}</div>
+                    <div class="profile-stat"><strong>Branch</strong>${escapeHtml(profile.branch || "Unknown")}</div>
+                    <div class="profile-stat"><strong>Total Records</strong>${profile.total_records}</div>
+                </div>
+                <div class="result">
+                    <span class="badge">Student Intelligence</span>
+                    <div class="result-title">${escapeHtml(profile.prn_or_roll_no)}</div>
+                    <div class="kv">
+                        <span><strong>Strongest Domains:</strong> ${escapeHtml(domains)}</span>
+                        <span><strong>Companies:</strong> ${escapeHtml(companies)}</span>
+                        <span><strong>Platforms:</strong> ${escapeHtml(platforms)}</span>
+                        <span><strong>Suggested Track:</strong> ${escapeHtml(profile.suggested_career_track)}</span>
+                    </div>
+                </div>
+                <div class="result">
+                    <div class="result-title">Dataset Coverage</div>
+                    <div class="kv">${counts}</div>
+                </div>
+            `;
+        }
+
+        async function loadStudent360() {
+            const prn = document.getElementById("student360Prn").value.trim();
+            const target = document.getElementById("student360Results");
+            if (!prn) {
+                target.innerHTML = `<div class="notice error">Enter a PRN or roll number.</div>`;
+                return;
+            }
+            target.innerHTML = `<div class="notice">Building Student 360...</div>`;
+            try {
+                const data = await api(`/api/intelligence/student/${encodeURIComponent(prn)}`);
+                target.innerHTML = renderStudent360(data);
+            } catch (error) {
+                target.innerHTML = `<div class="notice error">${escapeHtml(error.message)}</div>`;
+            }
+        }
+
+        async function loadRecommendations() {
+            const requirement = document.getElementById("recommendRequirement").value.trim();
+            const target = document.getElementById("recommendResults");
+            if (!requirement) {
+                target.innerHTML = `<div class="notice error">Enter a requirement.</div>`;
+                return;
+            }
+            target.innerHTML = `<div class="notice">Ranking students...</div>`;
+            try {
+                const data = await api("/api/intelligence/recommend", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({ requirement, top_k: 6 })
+                });
+                target.innerHTML = renderRecommendations(data.recommendations || []);
+            } catch (error) {
+                target.innerHTML = `<div class="notice error">${escapeHtml(error.message)}</div>`;
+            }
+        }
+
+        function renderRecommendations(items) {
+            if (!items.length) return `<div class="notice">No recommendations found.</div>`;
+            return items.map((item, index) => {
+                const evidence = (item.evidence || []).map(ev => `
+                    <div class="notice">
+                        <strong>${escapeHtml(ev.dataset_label)}</strong><br>
+                        ${escapeHtml(ev.reason)}<br>
+                        Matched terms: ${ev.matched_terms}
+                    </div>
+                `).join("");
+                return `
+                    <div class="result">
+                        <span class="badge">Rank ${index + 1} | Score ${item.score}</span>
+                        <div class="result-title">${escapeHtml(item.student_name || item.prn_or_roll_no)}</div>
+                        <div class="kv">
+                            <span><strong>PRN:</strong> ${escapeHtml(item.prn_or_roll_no)}</span>
+                            <span><strong>Branch:</strong> ${escapeHtml(item.branch || "Unknown")}</span>
+                            <span><strong>Track:</strong> ${escapeHtml(item.suggested_career_track)}</span>
+                            <span><strong>Domains:</strong> ${escapeHtml((item.strongest_domains || []).join(", ") || "Not enough evidence")}</span>
+                        </div>
+                        <div class="notice">${escapeHtml(item.recommendation_reason)}</div>
+                        ${evidence}
+                    </div>
+                `;
+            }).join("");
+        }
+
+        async function loadPortfolio() {
+            const prn = document.getElementById("portfolioPrn").value.trim();
+            const target = document.getElementById("portfolioResults");
+            if (!prn) {
+                target.innerHTML = `<div class="notice error">Enter a PRN or roll number.</div>`;
+                return;
+            }
+            target.innerHTML = `<div class="notice">Generating portfolio...</div>`;
+            try {
+                const data = await api(`/api/intelligence/portfolio/${encodeURIComponent(prn)}`);
+                target.innerHTML = renderPortfolio(data.portfolio);
+            } catch (error) {
+                target.innerHTML = `<div class="notice error">${escapeHtml(error.message)}</div>`;
+            }
+        }
+
+        function renderPortfolio(portfolio) {
+            const highlights = (portfolio.highlights || []).map(item => `<span><strong>Highlight:</strong> ${escapeHtml(item)}</span>`).join("");
+            const domains = (portfolio.skills_or_domains || []).map(item => `<span><strong>Domain:</strong> ${escapeHtml(item)}</span>`).join("");
+            const sections = Object.entries(portfolio.sections || {}).map(([id, group]) => {
+                if (!group.count) return "";
+                return `<div class="dataset-section"><h4>${escapeHtml(group.label)} (${group.count})</h4>${renderDatasetResults(group.records || [])}</div>`;
+            }).join("");
+            return `
+                <div class="result">
+                    <span class="badge">Generated Portfolio</span>
+                    <div class="result-title">${escapeHtml(portfolio.headline)}</div>
+                    <p>${escapeHtml(portfolio.summary)}</p>
+                    <div class="kv" style="margin-top: 12px;">${highlights}${domains}</div>
+                </div>
+                ${sections}
+            `;
+        }
+
+        async function loadTickets() {
+            const id = document.getElementById("ticketStudentId").value.trim();
+            const target = document.getElementById("ticketResults");
+            if (!id) {
+                target.innerHTML = `<div class="notice error">Enter a Student ID.</div>`;
+                return;
+            }
+            target.innerHTML = `<div class="notice">Loading tickets...</div>`;
+            try {
+                const tickets = await api(`/tickets/${encodeURIComponent(id)}`);
+                if (!tickets.length) {
+                    target.innerHTML = `<div class="notice">No tickets found.</div>`;
+                    return;
+                }
+                target.innerHTML = tickets.map(ticket => `
+                    <div class="result">
+                        <span class="badge">${escapeHtml(ticket.status)}</span>
+                        <div class="result-title">Ticket #${ticket.ticket_id}</div>
+                        <div class="kv">
+                            <span><strong>Category:</strong> ${escapeHtml(ticket.category)}</span>
+                            <span><strong>Created:</strong> ${escapeHtml(ticket.created_at)}</span>
+                            <span style="grid-column: 1 / -1;"><strong>Description:</strong> ${escapeHtml(ticket.description)}</span>
+                        </div>
+                    </div>
+                `).join("");
+            } catch (error) {
+                target.innerHTML = `<div class="notice error">${escapeHtml(error.message)}</div>`;
+            }
+        }
+
+        document.getElementById("message").addEventListener("keydown", event => {
+            if (event.key === "Enter" && !event.shiftKey) {
+                event.preventDefault();
+                sendMessage();
+            }
+        });
+
+        ["datasetQuery", "quickQuery", "profilePrn", "student360Prn", "portfolioPrn", "ticketStudentId"].forEach(id => {
+            document.getElementById(id).addEventListener("keydown", event => {
+                if (event.key === "Enter") {
+                    event.preventDefault();
+                    if (id === "datasetQuery") runDatasetSearch("main");
+                    if (id === "quickQuery") runDatasetSearch("quick");
+                    if (id === "profilePrn") loadProfile();
+                    if (id === "student360Prn") loadStudent360();
+                    if (id === "portfolioPrn") loadPortfolio();
+                    if (id === "ticketStudentId") loadTickets();
+                }
+            });
+        });
+
+        init();
+    </script>
+</body>
+</html>

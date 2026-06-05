@@ -1,0 +1,207 @@
+{
+  "endpoints": {
+    "1_root": {
+      "method": "GET",
+      "url": "http://localhost:8000/",
+      "description": "Root endpoint - Check if server is running",
+      "test_with_curl": "curl http://localhost:8000/",
+      "expected_response": {
+        "message": "College Admin Copilot is running ✅"
+      }
+    },
+
+    "2_chat_policy_question": {
+      "method": "POST",
+      "url": "http://localhost:8000/chat",
+      "description": "Chat endpoint - Policy question (asks about college policies)",
+      "test_with_curl": "curl -X POST http://localhost:8000/chat -H \"Content-Type: application/json\" -d \"{\\\"student_id\\\": \\\"STU123\\\", \\\"message\\\": \\\"What is the CGPA to percentage conversion formula?\\\"}\"",
+      "request_body": {
+        "student_id": "STU123",
+        "message": "What is the CGPA to percentage conversion formula?"
+      },
+      "expected_response_type": "answer",
+      "note": "Returns policy answer with citations from knowledge base"
+    },
+
+    "3_chat_complaint": {
+      "method": "POST",
+      "url": "http://localhost:8000/chat",
+      "description": "Chat endpoint - Submit a complaint",
+      "test_with_curl": "curl -X POST http://localhost:8000/chat -H \"Content-Type: application/json\" -d \"{\\\"student_id\\\": \\\"STU456\\\", \\\"message\\\": \\\"I am facing issues with the library booking system. It keeps crashing when I try to reserve a room.\\\"}\"",
+      "request_body": {
+        "student_id": "STU456",
+        "message": "I am facing issues with the library booking system. It keeps crashing when I try to reserve a room."
+      },
+      "expected_response_type": "ticket",
+      "note": "Creates a support ticket and returns ticket ID"
+    },
+
+    "4_chat_project_search": {
+      "method": "POST",
+      "url": "http://localhost:8000/chat",
+      "description": "Chat endpoint - Search for projects",
+      "test_with_curl": "curl -X POST http://localhost:8000/chat -H \"Content-Type: application/json\" -d \"{\\\"student_id\\\": \\\"STU789\\\", \\\"message\\\": \\\"Find me machine learning projects in healthcare\\\"}\"",
+      "request_body": {
+        "student_id": "STU789",
+        "message": "Find me machine learning projects in healthcare"
+      },
+      "expected_response_type": "project_results",
+      "note": "Returns matching student projects"
+    },
+
+    "5_chat_paper_search": {
+      "method": "POST",
+      "url": "http://localhost:8000/chat",
+      "description": "Chat endpoint - Search for research papers",
+      "test_with_curl": "curl -X POST http://localhost:8000/chat -H \"Content-Type: application/json\" -d \"{\\\"student_id\\\": \\\"STU101\\\", \\\"message\\\": \\\"Show me papers about deep learning and neural networks\\\"}\"",
+      "request_body": {
+        "student_id": "STU101",
+        "message": "Show me papers about deep learning and neural networks"
+      },
+      "expected_response_type": "paper_results",
+      "note": "Returns matching research papers"
+    },
+
+    "6_chat_student_match": {
+      "method": "POST",
+      "url": "http://localhost:8000/chat",
+      "description": "Chat endpoint - Match students for team formation",
+      "test_with_curl": "curl -X POST http://localhost:8000/chat -H \"Content-Type: application/json\" -d \"{\\\"student_id\\\": \\\"STU202\\\", \\\"message\\\": \\\"I need students with Python and React skills for web development project\\\"}\"",
+      "request_body": {
+        "student_id": "STU202",
+        "message": "I need students with Python and React skills for web development project"
+      },
+      "expected_response_type": "student_match",
+      "note": "Returns matched students based on requirements"
+    },
+
+    "7_get_tickets": {
+      "method": "GET",
+      "url": "http://localhost:8000/tickets/STU456",
+      "description": "Get all tickets for a specific student",
+      "test_with_curl": "curl http://localhost:8000/tickets/STU456",
+      "url_parameter": "student_id = STU456",
+      "expected_response": [
+        {
+          "ticket_id": 1,
+          "category": "general",
+          "description": "Library booking system issue",
+          "status": "pending",
+          "created_at": "2026-03-26T10:30:00"
+        }
+      ]
+    },
+
+    "8_search_projects": {
+      "method": "GET",
+      "url": "http://localhost:8000/api/search/projects",
+      "description": "Search student projects by query",
+      "test_with_curl": "curl \"http://localhost:8000/api/search/projects?q=machine+learning&top_k=5\"",
+      "query_parameters": {
+        "q": "machine learning",
+        "top_k": 5
+      },
+      "expected_response": {
+        "query": "machine learning",
+        "answer": "Generated answer about ML projects",
+        "results": [
+          {
+            "student_name": "John Doe",
+            "project_title": "ML Healthcare System",
+            "company": "Tech Corp",
+            "technologies": "Python, TensorFlow",
+            "domain": "Healthcare AI",
+            "similarity_rank": 1
+          }
+        ]
+      }
+    },
+
+    "9_search_papers": {
+      "method": "GET",
+      "url": "http://localhost:8000/api/search/papers",
+      "description": "Search research papers by query",
+      "test_with_curl": "curl \"http://localhost:8000/api/search/papers?q=neural+networks&top_k=3\"",
+      "query_parameters": {
+        "q": "neural networks",
+        "top_k": 3
+      },
+      "expected_response": {
+        "query": "neural networks",
+        "answer": "Generated answer about neural network papers",
+        "results": [
+          {
+            "paper_title": "Deep Learning in Computer Vision",
+            "authors": "Smith et al.",
+            "year": 2023,
+            "conference_journal": "CVPR",
+            "abstract": "...",
+            "keywords": "deep learning, CNN",
+            "domain": "Computer Vision",
+            "similarity_rank": 1
+          }
+        ]
+      }
+    },
+
+    "10_match_students": {
+      "method": "GET",
+      "url": "http://localhost:8000/api/match/students",
+      "description": "Match students based on skill requirements",
+      "test_with_curl": "curl \"http://localhost:8000/api/match/students?requirement=Need+students+with+Python+and+AWS+skills&top_k=5\"",
+      "query_parameters": {
+        "requirement": "Need students with Python and AWS skills",
+        "top_k": 5
+      },
+      "expected_response": {
+        "requirement": "Need students with Python and AWS skills",
+        "recommendation": "Recommendation text",
+        "matched_students": [
+          {
+            "student_name": "Jane Smith",
+            "project_title": "Cloud Platform",
+            "technologies": "Python, AWS, Docker",
+            "company": "Amazon",
+            "domain": "Cloud Computing",
+            "match_rank": 1
+          }
+        ]
+      }
+    }
+  },
+
+  "quick_test_commands": [
+    "# Test 1: Root endpoint",
+    "curl http://localhost:8000/",
+    "",
+    "# Test 2: Chat - Policy Question",
+    "curl -X POST http://localhost:8000/chat -H \"Content-Type: application/json\" -d \"{\\\"student_id\\\": \\\"STU123\\\", \\\"message\\\": \\\"What is the grading system?\\\"}\"",
+    "",
+    "# Test 3: Chat - Complaint",
+    "curl -X POST http://localhost:8000/chat -H \"Content-Type: application/json\" -d \"{\\\"student_id\\\": \\\"STU456\\\", \\\"message\\\": \\\"Cafeteria food quality is poor\\\"}\"",
+    "",
+    "# Test 4: Get Student Tickets",
+    "curl http://localhost:8000/tickets/STU456",
+    "",
+    "# Test 5: Search Projects",
+    "curl \"http://localhost:8000/api/search/projects?q=artificial+intelligence\"",
+    "",
+    "# Test 6: Search Papers",
+    "curl \"http://localhost:8000/api/search/papers?q=deep+learning\"",
+    "",
+    "# Test 7: Match Students",
+    "curl \"http://localhost:8000/api/match/students?requirement=python+developer\""
+  ],
+
+  "notes": {
+    "important": [
+      "The RAG (Retrieval-Augmented Generation) features require the vector store to be populated.",
+      "Run 'python scripts/ingest_csv_data.py' if you get 'Knowledge index not ready' errors.",
+      "Some endpoints may return empty results if the FAISS vector indexes don't exist yet.",
+      "The Groq API key in .env is used for generating answers via LLM.",
+      "PostgreSQL database should be running for ticket-related endpoints to work."
+    ],
+    "api_documentation": "Visit http://localhost:8000/docs for interactive Swagger UI documentation",
+    "alternative_docs": "Visit http://localhost:8000/redoc for ReDoc documentation"
+  }
+}

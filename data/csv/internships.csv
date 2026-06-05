@@ -1,0 +1,101 @@
+Student_Name,PRN_or_Roll_No,Branch,Year,Internship_Company_Name,Internship_Role,Internship_Mode,Internship_Start_Date,Internship_End_Date,Stipend_Amount
+Rahul Reddy,PRN216223751,ENTC,TE,TechNova Pvt Ltd,ML Engineer Intern,Online,2023-03-08,2023-11-11,10000
+Sneha Joshi,PRN214187788,CSE,SE,InnoSoft Solutions,Android Intern,Hybrid,2025-01-21,2025-03-26,8000
+Priya Reddy,PRN213599894,Electrical,TE,CodeCrafters,Data Science Intern,Online,2023-08-30,2024-06-20,3000
+Aditya Reddy,PRN211472884,ENTC,BE,DataSphere Labs,SDE Intern,Hybrid,2023-06-01,2025-07-14,10000
+Aditya Verma,PRN216064832,Electrical,SE,TechNova Pvt Ltd,Data Science Intern,Online,2024-08-17,2024-09-06,3000
+Sneha Nair,PRN219601221,ENTC,TE,NextGen Systems,Data Science Intern,Hybrid,2023-02-23,2025-10-08,0
+Isha Reddy,PRN218819709,Mechanical,TE,NextGen Systems,SDE Intern,Online,2023-05-15,2024-09-25,5000
+Rohit Nair,PRN215779998,IT,BE,NextGen Systems,Data Science Intern,Online,2023-06-01,2025-07-10,8000
+Vivaan Nair,PRN212567173,ENTC,SE,InnoSoft Solutions,Backend Intern,Hybrid,2023-04-24,2025-10-26,3000
+Priya Sharma,PRN214204459,IT,BE,NextGen Systems,Backend Intern,Online,2024-12-09,2025-11-28,15000
+Vivaan Nair,PRN212829240,Electrical,BE,InnoSoft Solutions,Data Science Intern,Hybrid,2024-09-12,2025-12-28,10000
+Aarav Sharma,PRN210762722,Electrical,TE,InnoSoft Solutions,ML Engineer Intern,Offline,2023-03-26,2024-11-22,10000
+Rahul Nair,PRN214859883,ENTC,TE,InnoSoft Solutions,Android Intern,Offline,2023-03-04,2025-10-16,8000
+Aditya Reddy,PRN216972975,Mechanical,TE,InnoSoft Solutions,Backend Intern,Hybrid,2023-05-03,2023-05-30,3000
+Tanvi Deshmukh,PRN216689354,IT,TE,NextGen Systems,ML Engineer Intern,Online,2024-10-02,2024-10-15,5000
+Vivaan Joshi,PRN217542969,IT,SE,TechNova Pvt Ltd,SDE Intern,Offline,2024-05-10,2025-08-13,8000
+Aditya Deshmukh,PRN219691980,ENTC,SE,InnoSoft Solutions,Android Intern,Hybrid,2024-05-23,2025-05-06,8000
+Rohit Patil,PRN211510773,Mechanical,BE,CodeCrafters,Data Science Intern,Online,2024-09-23,2025-10-18,10000
+Aarav Joshi,PRN218302946,Electrical,BE,CodeCrafters,Backend Intern,Hybrid,2023-04-10,2024-12-23,0
+Aditya Joshi,PRN216136730,Mechanical,TE,TechNova Pvt Ltd,Android Intern,Online,2023-08-09,2025-06-01,10000
+Neha Joshi,PRN211233658,Mechanical,BE,CodeCrafters,ML Engineer Intern,Offline,2024-02-03,2025-01-12,10000
+Vivaan Gupta,PRN216261229,ENTC,BE,DataSphere Labs,Data Science Intern,Online,2023-09-01,2023-09-21,10000
+Neha Patil,PRN210760064,CSE,SE,DataSphere Labs,Android Intern,Hybrid,2025-04-02,2025-11-08,8000
+Aditya Deshmukh,PRN215344047,IT,TE,NextGen Systems,Backend Intern,Hybrid,2023-11-02,2025-11-21,5000
+Neha Reddy,PRN219444301,ENTC,TE,TechNova Pvt Ltd,Backend Intern,Offline,2025-11-04,2025-11-09,15000
+Siddhi Joshi,PRN210447065,Electrical,TE,DataSphere Labs,ML Engineer Intern,Hybrid,2023-08-13,2025-05-03,3000
+Aditya Nair,PRN216378535,IT,BE,InnoSoft Solutions,SDE Intern,Hybrid,2023-04-16,2025-09-10,15000
+Aarav Reddy,PRN215262886,Mechanical,SE,CodeCrafters,Data Science Intern,Offline,2023-08-14,2024-01-26,10000
+Tanvi Verma,PRN218702060,IT,BE,DataSphere Labs,Android Intern,Hybrid,2023-05-08,2025-08-23,8000
+Rohit Nair,PRN215743294,Electrical,TE,DataSphere Labs,ML Engineer Intern,Offline,2023-12-21,2024-10-04,3000
+Neha Joshi,PRN213772642,ENTC,TE,InnoSoft Solutions,Android Intern,Offline,2024-05-19,2024-07-25,8000
+Priya Sharma,PRN219621344,Electrical,TE,CodeCrafters,Backend Intern,Online,2024-07-14,2024-12-15,5000
+Tanvi Sharma,PRN215811015,Mechanical,BE,DataSphere Labs,Android Intern,Online,2023-03-28,2024-08-12,3000
+Aditya Sharma,PRN219845382,IT,SE,TechNova Pvt Ltd,ML Engineer Intern,Online,2024-07-09,2024-07-10,15000
+Vivaan Gupta,PRN215541407,Mechanical,SE,InnoSoft Solutions,SDE Intern,Hybrid,2023-04-18,2024-04-21,3000
+Rohit Kulkarni,PRN214819172,ENTC,TE,TechNova Pvt Ltd,SDE Intern,Hybrid,2025-04-13,2025-09-01,10000
+Tanvi Patil,PRN212937099,Mechanical,SE,TechNova Pvt Ltd,Android Intern,Offline,2024-04-20,2025-12-31,3000
+Aarav Joshi,PRN219528818,Electrical,SE,DataSphere Labs,Backend Intern,Offline,2023-03-18,2024-08-15,15000
+Aditya Nair,PRN217852085,ENTC,SE,TechNova Pvt Ltd,Backend Intern,Online,2025-10-08,2025-12-09,15000
+Tanvi Verma,PRN210236293,ENTC,TE,NextGen Systems,Data Science Intern,Online,2024-06-10,2025-07-28,10000
+Neha Deshmukh,PRN211455218,Mechanical,BE,TechNova Pvt Ltd,Data Science Intern,Online,2025-04-10,2025-05-25,8000
+Aarav Joshi,PRN216435310,IT,TE,DataSphere Labs,Backend Intern,Offline,2024-05-23,2024-10-24,10000
+Rahul Deshmukh,PRN213964499,CSE,BE,TechNova Pvt Ltd,Android Intern,Offline,2023-01-24,2024-06-19,3000
+Tanvi Joshi,PRN211969909,ENTC,TE,NextGen Systems,Data Science Intern,Online,2025-04-10,2025-10-26,3000
+Rohit Singh,PRN216268384,Mechanical,BE,NextGen Systems,Android Intern,Hybrid,2023-11-10,2025-09-06,15000
+Rahul Singh,PRN211373555,Electrical,TE,NextGen Systems,Backend Intern,Online,2024-03-23,2024-05-21,10000
+Neha Nair,PRN213391627,Electrical,BE,InnoSoft Solutions,Data Science Intern,Offline,2023-05-07,2023-08-18,10000
+Rahul Kulkarni,PRN219783594,Mechanical,SE,NextGen Systems,Android Intern,Online,2023-08-27,2025-06-23,8000
+Isha Reddy,PRN219460859,CSE,BE,CodeCrafters,Backend Intern,Hybrid,2023-09-28,2025-11-17,0
+Aarav Kulkarni,PRN219702453,CSE,SE,CodeCrafters,Backend Intern,Hybrid,2024-06-05,2025-03-21,0
+Rohit Patil,PRN214816582,Mechanical,SE,InnoSoft Solutions,Android Intern,Offline,2023-05-04,2023-05-22,8000
+Isha Sharma,PRN219047957,IT,BE,DataSphere Labs,SDE Intern,Online,2025-02-12,2025-07-07,10000
+Aditya Kulkarni,PRN210058272,CSE,TE,CodeCrafters,ML Engineer Intern,Offline,2025-03-15,2025-12-19,10000
+Karan Reddy,PRN215807596,IT,TE,InnoSoft Solutions,SDE Intern,Online,2024-04-15,2025-02-15,15000
+Karan Kulkarni,PRN211128954,CSE,BE,TechNova Pvt Ltd,Android Intern,Hybrid,2023-02-02,2025-05-08,15000
+Tanvi Patil,PRN216748892,Mechanical,SE,NextGen Systems,Data Science Intern,Online,2023-04-10,2024-05-16,3000
+Karan Singh,PRN215350316,Electrical,BE,DataSphere Labs,Data Science Intern,Offline,2024-08-15,2025-10-28,3000
+Isha Joshi,PRN214616316,CSE,BE,NextGen Systems,Data Science Intern,Hybrid,2024-03-28,2025-12-03,15000
+Aarav Deshmukh,PRN216394713,Electrical,TE,CodeCrafters,Android Intern,Online,2025-05-24,2025-10-12,5000
+Neha Reddy,PRN214042775,IT,TE,InnoSoft Solutions,Android Intern,Online,2024-01-12,2025-02-09,10000
+Neha Nair,PRN212249703,Mechanical,SE,DataSphere Labs,Data Science Intern,Offline,2025-04-25,2025-05-03,15000
+Sneha Sharma,PRN218986473,IT,SE,DataSphere Labs,Android Intern,Hybrid,2023-06-11,2025-07-10,10000
+Karan Singh,PRN219375955,IT,TE,InnoSoft Solutions,Backend Intern,Offline,2023-03-22,2023-05-30,0
+Tanvi Sharma,PRN218034958,IT,BE,NextGen Systems,Data Science Intern,Offline,2024-01-25,2024-03-09,3000
+Isha Reddy,PRN218953163,ENTC,TE,DataSphere Labs,Backend Intern,Hybrid,2024-08-02,2024-10-20,8000
+Tanvi Reddy,PRN215372622,IT,TE,DataSphere Labs,Android Intern,Online,2023-07-21,2025-08-12,10000
+Aarav Joshi,PRN219283027,Electrical,BE,CodeCrafters,Backend Intern,Online,2023-10-26,2024-03-29,3000
+Isha Singh,PRN214122665,Mechanical,BE,DataSphere Labs,Backend Intern,Offline,2024-04-16,2024-11-06,15000
+Aditya Deshmukh,PRN212839807,IT,BE,NextGen Systems,Android Intern,Online,2025-08-01,2025-10-01,10000
+Aarav Sharma,PRN210813936,CSE,TE,InnoSoft Solutions,Data Science Intern,Online,2023-05-01,2025-12-09,15000
+Karan Nair,PRN217650572,ENTC,SE,NextGen Systems,ML Engineer Intern,Offline,2023-01-19,2023-11-06,15000
+Aarav Nair,PRN219255043,Mechanical,SE,TechNova Pvt Ltd,ML Engineer Intern,Hybrid,2023-02-02,2025-09-26,5000
+Neha Gupta,PRN213007598,CSE,SE,NextGen Systems,Data Science Intern,Online,2023-02-05,2024-08-10,3000
+Sneha Joshi,PRN216658817,CSE,TE,CodeCrafters,Android Intern,Hybrid,2024-05-31,2025-12-14,3000
+Rahul Sharma,PRN210531577,CSE,TE,CodeCrafters,Android Intern,Hybrid,2024-04-07,2024-09-06,8000
+Tanvi Verma,PRN211387242,Mechanical,TE,DataSphere Labs,ML Engineer Intern,Online,2023-01-20,2023-04-25,10000
+Karan Singh,PRN217977571,ENTC,SE,TechNova Pvt Ltd,Backend Intern,Hybrid,2023-03-29,2024-04-15,10000
+Sneha Patil,PRN213475536,Electrical,SE,CodeCrafters,SDE Intern,Offline,2023-03-09,2024-01-03,3000
+Rahul Nair,PRN215565503,Mechanical,BE,InnoSoft Solutions,SDE Intern,Hybrid,2024-05-07,2025-03-07,15000
+Vivaan Gupta,PRN213894730,CSE,TE,NextGen Systems,ML Engineer Intern,Hybrid,2023-04-20,2024-12-09,8000
+Rahul Joshi,PRN217558977,Mechanical,SE,DataSphere Labs,ML Engineer Intern,Offline,2023-03-02,2024-10-30,8000
+Vivaan Singh,PRN214955645,IT,BE,TechNova Pvt Ltd,SDE Intern,Offline,2024-01-16,2025-02-17,3000
+Tanvi Gupta,PRN215312979,ENTC,SE,TechNova Pvt Ltd,SDE Intern,Offline,2023-11-12,2025-02-17,8000
+Vivaan Verma,PRN211464604,IT,TE,CodeCrafters,ML Engineer Intern,Hybrid,2024-07-06,2025-01-07,10000
+Aarav Sharma,PRN215937696,Electrical,SE,NextGen Systems,ML Engineer Intern,Offline,2023-07-31,2025-04-15,8000
+Isha Gupta,PRN211421022,Electrical,SE,NextGen Systems,ML Engineer Intern,Online,2023-01-26,2024-08-20,15000
+Aditya Joshi,PRN215052144,ENTC,TE,InnoSoft Solutions,SDE Intern,Online,2023-12-14,2025-02-18,8000
+Priya Reddy,PRN211290526,ENTC,TE,InnoSoft Solutions,Android Intern,Hybrid,2024-07-19,2025-05-12,10000
+Vivaan Verma,PRN215111313,CSE,TE,DataSphere Labs,ML Engineer Intern,Offline,2024-02-05,2025-07-26,5000
+Isha Singh,PRN212283789,ENTC,TE,NextGen Systems,Data Science Intern,Offline,2024-11-16,2025-06-20,5000
+Sneha Joshi,PRN218237735,Electrical,SE,DataSphere Labs,Android Intern,Offline,2023-12-30,2025-03-26,8000
+Siddhi Kulkarni,PRN219935920,Electrical,SE,NextGen Systems,SDE Intern,Hybrid,2023-08-22,2025-01-17,8000
+Priya Sharma,PRN216864256,Mechanical,SE,DataSphere Labs,Data Science Intern,Offline,2024-03-05,2025-06-16,15000
+Isha Sharma,PRN217534089,Electrical,TE,NextGen Systems,Android Intern,Hybrid,2023-11-12,2025-05-16,10000
+Sneha Nair,PRN219962645,CSE,SE,InnoSoft Solutions,Backend Intern,Online,2023-03-17,2025-05-06,15000
+Sneha Gupta,PRN211777454,CSE,SE,DataSphere Labs,Data Science Intern,Hybrid,2023-04-01,2025-03-29,15000
+Rohit Deshmukh,PRN216562142,Mechanical,BE,NextGen Systems,ML Engineer Intern,Online,2024-03-28,2025-11-28,5000
+Vivaan Joshi,PRN216978909,CSE,SE,InnoSoft Solutions,Backend Intern,Offline,2023-02-20,2025-09-15,5000
+Neha Reddy,PRN215843509,Mechanical,SE,CodeCrafters,Android Intern,Offline,2024-02-28,2025-07-21,0
+Tanvi Sharma,PRN210378915,ENTC,BE,TechNova Pvt Ltd,Data Science Intern,Hybrid,2023-04-02,2024-09-06,3000

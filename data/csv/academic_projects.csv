@@ -1,0 +1,101 @@
+Student_Name,PRN_or_Roll_No,Branch,Year,Project_Title,Project_Category,Project_Domain,Project_Status
+Neha Reddy,PRN215790218,ENTC,BE,Chatbot for College,Major,Cybersecurity,Ongoing
+Karan Kulkarni,PRN219593172,Mechanical,SE,Course Recommendation System,Mini,IoT,Completed
+Rohit Gupta,PRN216477326,IT,TE,Library Management System,Mini,Android,Completed
+Sneha Sharma,PRN217387112,CSE,BE,Course Recommendation System,Mini,Machine Learning,Ongoing
+Rahul Verma,PRN211255409,Mechanical,TE,FaceGuard AI,Major,Web Development,Ongoing
+Rahul Nair,PRN216375499,ENTC,BE,Course Recommendation System,Mini,Android,Proposed
+Karan Joshi,PRN213816586,CSE,TE,Library Management System,Mini,Cybersecurity,Proposed
+Tanvi Joshi,PRN210485654,CSE,TE,Library Management System,Major,IoT,Ongoing
+Isha Verma,PRN214096953,Electrical,TE,Chatbot for College,Mini,Machine Learning,Proposed
+Vivaan Singh,PRN216418028,Electrical,BE,Crime Pattern Detection,Major,Android,Proposed
+Karan Reddy,PRN214261032,Mechanical,TE,Library Management System,Major,IoT,Completed
+Neha Verma,PRN211239197,Mechanical,TE,Chatbot for College,Major,Cybersecurity,Completed
+Priya Reddy,PRN215068760,IT,TE,Course Recommendation System,Mini,Machine Learning,Ongoing
+Siddhi Deshmukh,PRN219643743,ENTC,BE,FaceGuard AI,Mini,Cybersecurity,Ongoing
+Aarav Singh,PRN210822825,Electrical,BE,Course Recommendation System,Major,Machine Learning,Completed
+Sneha Kulkarni,PRN213189885,Electrical,TE,Crime Pattern Detection,Mini,Web Development,Ongoing
+Rohit Patil,PRN219723634,ENTC,BE,Crime Pattern Detection,Mini,IoT,Ongoing
+Tanvi Gupta,PRN212946751,IT,SE,Chatbot for College,Major,Android,Completed
+Priya Verma,PRN214311242,Mechanical,TE,FaceGuard AI,Mini,Cybersecurity,Proposed
+Aditya Kulkarni,PRN216667458,Electrical,TE,Library Management System,Major,Web Development,Ongoing
+Neha Sharma,PRN217630043,ENTC,BE,FaceGuard AI,Major,IoT,Proposed
+Rahul Kulkarni,PRN217910069,CSE,BE,Chatbot for College,Major,Android,Proposed
+Rahul Sharma,PRN217789116,ENTC,BE,Course Recommendation System,Mini,Machine Learning,Proposed
+Aarav Joshi,PRN218264869,CSE,SE,Crime Pattern Detection,Mini,Cybersecurity,Ongoing
+Sneha Nair,PRN217031780,Electrical,BE,Crime Pattern Detection,Major,Web Development,Ongoing
+Siddhi Gupta,PRN214693260,CSE,BE,FaceGuard AI,Mini,Cybersecurity,Ongoing
+Karan Deshmukh,PRN211666893,ENTC,BE,FaceGuard AI,Mini,Cybersecurity,Ongoing
+Karan Sharma,PRN217628891,CSE,BE,Crime Pattern Detection,Mini,Web Development,Ongoing
+Karan Verma,PRN219472046,IT,SE,Chatbot for College,Mini,Android,Proposed
+Karan Deshmukh,PRN212475548,Electrical,SE,FaceGuard AI,Mini,Machine Learning,Completed
+Priya Verma,PRN211844258,CSE,SE,Library Management System,Major,Machine Learning,Completed
+Sneha Patil,PRN212923366,ENTC,SE,Crime Pattern Detection,Major,Android,Proposed
+Tanvi Sharma,PRN217990081,Mechanical,TE,Chatbot for College,Mini,Cybersecurity,Completed
+Karan Singh,PRN210727544,Electrical,TE,Course Recommendation System,Mini,Web Development,Ongoing
+Isha Gupta,PRN211811298,Mechanical,BE,Course Recommendation System,Mini,Web Development,Ongoing
+Siddhi Verma,PRN211101965,IT,TE,Chatbot for College,Major,Cybersecurity,Completed
+Neha Joshi,PRN217612081,Electrical,BE,Course Recommendation System,Mini,Web Development,Completed
+Rahul Nair,PRN213607488,Mechanical,TE,Crime Pattern Detection,Major,IoT,Ongoing
+Isha Gupta,PRN211595275,ENTC,TE,FaceGuard AI,Major,IoT,Proposed
+Rahul Reddy,PRN211126310,CSE,SE,Library Management System,Major,Web Development,Completed
+Tanvi Deshmukh,PRN212182975,Electrical,SE,Chatbot for College,Major,Web Development,Ongoing
+Sneha Gupta,PRN210863121,ENTC,BE,FaceGuard AI,Major,Web Development,Completed
+Neha Kulkarni,PRN212595941,Mechanical,SE,Library Management System,Major,Android,Ongoing
+Vivaan Joshi,PRN219631799,IT,TE,Chatbot for College,Mini,Android,Completed
+Tanvi Joshi,PRN210485753,IT,TE,FaceGuard AI,Major,IoT,Proposed
+Aditya Verma,PRN219501291,Mechanical,SE,Crime Pattern Detection,Mini,Web Development,Completed
+Neha Kulkarni,PRN216311494,Mechanical,TE,FaceGuard AI,Mini,IoT,Ongoing
+Tanvi Deshmukh,PRN219522639,Electrical,SE,Library Management System,Mini,Machine Learning,Completed
+Aarav Sharma,PRN214565128,Mechanical,BE,Course Recommendation System,Major,Android,Ongoing
+Isha Joshi,PRN213616647,Electrical,SE,FaceGuard AI,Major,Web Development,Ongoing
+Rahul Singh,PRN218164342,Electrical,BE,FaceGuard AI,Mini,Machine Learning,Ongoing
+Siddhi Patil,PRN210128967,IT,TE,Crime Pattern Detection,Mini,IoT,Ongoing
+Sneha Sharma,PRN210129686,Mechanical,BE,Course Recommendation System,Mini,Machine Learning,Ongoing
+Neha Kulkarni,PRN218393009,Electrical,BE,FaceGuard AI,Mini,Cybersecurity,Completed
+Aarav Gupta,PRN210314430,Mechanical,SE,FaceGuard AI,Major,Android,Ongoing
+Tanvi Gupta,PRN214857259,CSE,TE,Library Management System,Major,Machine Learning,Completed
+Rohit Deshmukh,PRN211478574,Mechanical,SE,Crime Pattern Detection,Major,Android,Ongoing
+Neha Sharma,PRN216639863,ENTC,BE,FaceGuard AI,Mini,IoT,Proposed
+Vivaan Nair,PRN211913049,Electrical,BE,Crime Pattern Detection,Major,IoT,Completed
+Rahul Verma,PRN213963933,CSE,SE,FaceGuard AI,Mini,Machine Learning,Completed
+Aditya Sharma,PRN212972018,Mechanical,TE,Chatbot for College,Major,Android,Completed
+Rahul Singh,PRN215422534,ENTC,SE,Course Recommendation System,Mini,Cybersecurity,Ongoing
+Rahul Joshi,PRN214608259,Electrical,SE,FaceGuard AI,Mini,IoT,Ongoing
+Rohit Patil,PRN210954456,ENTC,TE,Library Management System,Mini,Android,Completed
+Neha Gupta,PRN217763013,Electrical,BE,Library Management System,Major,Android,Completed
+Karan Deshmukh,PRN217979730,Electrical,SE,Library Management System,Major,Web Development,Ongoing
+Tanvi Sharma,PRN218464927,IT,SE,Crime Pattern Detection,Major,Cybersecurity,Completed
+Neha Singh,PRN212663319,ENTC,TE,FaceGuard AI,Major,Cybersecurity,Ongoing
+Rahul Singh,PRN210878547,ENTC,SE,FaceGuard AI,Mini,Android,Completed
+Isha Joshi,PRN214227787,Electrical,SE,FaceGuard AI,Mini,Android,Completed
+Aditya Deshmukh,PRN215204824,Mechanical,SE,Chatbot for College,Mini,IoT,Completed
+Isha Deshmukh,PRN212144023,Electrical,SE,Course Recommendation System,Major,Web Development,Ongoing
+Priya Verma,PRN213593556,ENTC,TE,Crime Pattern Detection,Mini,Machine Learning,Proposed
+Vivaan Joshi,PRN211696860,Electrical,BE,Chatbot for College,Mini,IoT,Completed
+Aditya Singh,PRN216320310,IT,SE,Crime Pattern Detection,Mini,Cybersecurity,Proposed
+Isha Deshmukh,PRN213985095,Mechanical,BE,FaceGuard AI,Major,Machine Learning,Completed
+Karan Joshi,PRN217868776,IT,TE,Chatbot for College,Major,Cybersecurity,Ongoing
+Isha Nair,PRN218849306,Mechanical,SE,Crime Pattern Detection,Mini,IoT,Proposed
+Rahul Reddy,PRN216227905,Electrical,SE,Chatbot for College,Mini,IoT,Proposed
+Aditya Joshi,PRN217538325,Electrical,SE,Course Recommendation System,Mini,Machine Learning,Ongoing
+Sneha Patil,PRN216960815,CSE,TE,Chatbot for College,Major,Machine Learning,Ongoing
+Vivaan Deshmukh,PRN213767135,CSE,TE,Library Management System,Major,Machine Learning,Proposed
+Aarav Joshi,PRN217926478,IT,BE,Course Recommendation System,Major,Android,Proposed
+Vivaan Patil,PRN214293691,IT,SE,Chatbot for College,Major,Web Development,Ongoing
+Karan Joshi,PRN212044276,CSE,SE,Course Recommendation System,Major,Web Development,Proposed
+Rohit Singh,PRN218993490,CSE,BE,Chatbot for College,Mini,Machine Learning,Ongoing
+Isha Patil,PRN215919270,IT,BE,Course Recommendation System,Mini,Web Development,Completed
+Sneha Sharma,PRN218825812,Electrical,BE,Chatbot for College,Mini,Cybersecurity,Ongoing
+Aarav Gupta,PRN216262974,ENTC,BE,Library Management System,Major,Web Development,Ongoing
+Karan Sharma,PRN219762717,ENTC,SE,Library Management System,Major,Android,Ongoing
+Rahul Verma,PRN217795078,Mechanical,BE,Crime Pattern Detection,Mini,Web Development,Completed
+Rohit Patil,PRN214923149,IT,SE,Crime Pattern Detection,Mini,IoT,Ongoing
+Neha Gupta,PRN219110543,Mechanical,TE,Library Management System,Mini,IoT,Ongoing
+Aarav Deshmukh,PRN214583814,CSE,TE,Course Recommendation System,Major,Cybersecurity,Ongoing
+Sneha Verma,PRN218324908,Mechanical,TE,Chatbot for College,Major,Web Development,Completed
+Isha Sharma,PRN217224389,Electrical,SE,Chatbot for College,Major,IoT,Proposed
+Vivaan Deshmukh,PRN214960015,ENTC,TE,Chatbot for College,Major,Machine Learning,Completed
+Rohit Deshmukh,PRN217501590,CSE,BE,FaceGuard AI,Major,IoT,Completed
+Aarav Sharma,PRN216815076,ENTC,BE,Crime Pattern Detection,Mini,Machine Learning,Completed
+Rahul Reddy,PRN210583829,IT,SE,Crime Pattern Detection,Major,IoT,Ongoing
