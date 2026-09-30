@@ -170,6 +170,70 @@
         "Publication_Year",
         "DOI_or_Paper_URL"
       ]
+    },
+    {
+      "id": "patents_and_copyrights",
+      "label": "Patents & Copyrights",
+      "csv_path": "data/csv/patents_and_copyrights.csv",
+      "index_path": "data/vector_store/patents_and_copyrights_index.faiss",
+      "metadata_path": "data/vector_store/patents_and_copyrights_metadata.json",
+      "student_key": "PRN_or_Roll_No",
+      "searchable_columns": [
+        "Student_Name",
+        "PRN_or_Roll_No",
+        "Branch",
+        "Year",
+        "Title",
+        "IP_Type",
+        "Application_or_Registration_No",
+        "Filing_Status",
+        "Domain",
+        "Filing_Year"
+      ],
+      "summary_columns": [
+        "Student_Name",
+        "PRN_or_Roll_No",
+        "Branch",
+        "Year",
+        "Title",
+        "IP_Type",
+        "Application_or_Registration_No",
+        "Filing_Status",
+        "Domain",
+        "Filing_Year"
+      ]
+    },
+    {
+      "id": "students_master",
+      "label": "Student Directory",
+      "csv_path": "data/csv/students_master.csv",
+      "index_path": "data/vector_store/students_index.faiss",
+      "metadata_path": "data/vector_store/students_metadata.json",
+      "student_key": "PRN_or_Roll_No",
+      "searchable_columns": [
+        "student_name",
+        "PRN_or_Roll_No",
+        "roll_no",
+        "branch",
+        "branch_code",
+        "year",
+        "cgpa",
+        "email",
+        "primary_domain",
+        "technologies"
+      ],
+      "summary_columns": [
+        "student_name",
+        "PRN_or_Roll_No",
+        "roll_no",
+        "branch",
+        "branch_code",
+        "year",
+        "cgpa",
+        "email",
+        "primary_domain",
+        "technologies"
+      ]
     }
   ]
 }

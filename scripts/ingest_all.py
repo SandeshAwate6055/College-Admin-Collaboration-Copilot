@@ -1,5 +1,8 @@
-#!/usr/bin/env python3
-"""Build FAISS indexes for policy PDFs and configured CSV datasets."""
+import sys
+from pathlib import Path
+
+# Add project root to Python module search path
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from app.datasets.service import ingest_all_datasets
 from app.rag.chunker import chunk_documents

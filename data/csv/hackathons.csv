@@ -1,101 +1,533 @@
 Student_Name,PRN_or_Roll_No,Hackathon_Name,Hackathon_Level,Hackathon_Mode,Team_Name,Result_Status
-Neha Verma,PRN219259518,CodeSprint,National,Hybrid,DataDynamos,Winner
-Karan Gupta,PRN213094587,CodeSprint,International,Offline,BugSlayers,Runner Up
-Karan Reddy,PRN219935520,InnoHack,International,Online,CodeWarriors,Shortlisted
-Priya Sharma,PRN219686290,Smart India Hackathon,State,Offline,AlgoNinjas,Shortlisted
-Rohit Sharma,PRN214401559,InnoHack,National,Hybrid,DataDynamos,Runner Up
-Isha Singh,PRN211916496,HackOverflow,National,Offline,BitBusters,Shortlisted
-Rahul Joshi,PRN219901382,Smart India Hackathon,State,Offline,BugSlayers,Shortlisted
-Priya Sharma,PRN213070977,HackOverflow,State,Hybrid,DataDynamos,Winner
-Siddhi Verma,PRN219643645,InnoHack,International,Online,DataDynamos,Runner Up
-Tanvi Verma,PRN219309888,CodeSprint,International,Offline,CodeWarriors,Shortlisted
-Sneha Reddy,PRN210899447,HackOverflow,College,Offline,CodeWarriors,Shortlisted
-Isha Nair,PRN218479842,InnoHack,International,Hybrid,DataDynamos,Winner
-Tanvi Reddy,PRN218199017,CodeSprint,College,Hybrid,BugSlayers,Shortlisted
-Priya Patil,PRN214611266,CodeSprint,National,Online,DataDynamos,Runner Up
-Tanvi Reddy,PRN219222874,DevJam,College,Hybrid,BugSlayers,Finalist
-Neha Deshmukh,PRN219093978,Smart India Hackathon,International,Hybrid,CodeWarriors,Winner
-Vivaan Kulkarni,PRN214994727,Smart India Hackathon,International,Offline,AlgoNinjas,Participated
-Rohit Sharma,PRN213975295,CodeSprint,National,Hybrid,BitBusters,Winner
-Aditya Singh,PRN212335975,CodeSprint,State,Online,BitBusters,Finalist
-Neha Joshi,PRN219039036,CodeSprint,National,Hybrid,AlgoNinjas,Finalist
-Siddhi Joshi,PRN218630451,Smart India Hackathon,State,Offline,BugSlayers,Finalist
-Rahul Verma,PRN212226183,CodeSprint,State,Hybrid,AlgoNinjas,Shortlisted
-Rahul Gupta,PRN218211754,CodeSprint,National,Hybrid,DataDynamos,Winner
-Rohit Sharma,PRN211561871,InnoHack,National,Hybrid,AlgoNinjas,Winner
-Rohit Deshmukh,PRN219763593,Smart India Hackathon,College,Hybrid,DataDynamos,Finalist
-Vivaan Nair,PRN216672565,CodeSprint,International,Online,DataDynamos,Finalist
-Sneha Joshi,PRN215666591,DevJam,State,Hybrid,DataDynamos,Finalist
-Rahul Patil,PRN210770794,Smart India Hackathon,International,Online,BugSlayers,Shortlisted
-Rohit Reddy,PRN210011340,InnoHack,State,Hybrid,CodeWarriors,Finalist
-Aditya Joshi,PRN211565985,HackOverflow,National,Online,AlgoNinjas,Shortlisted
-Aarav Gupta,PRN215125594,CodeSprint,International,Hybrid,BugSlayers,Participated
-Aarav Kulkarni,PRN217999489,Smart India Hackathon,State,Hybrid,CodeWarriors,Runner Up
-Rahul Reddy,PRN210155809,Smart India Hackathon,National,Online,DataDynamos,Shortlisted
-Rohit Sharma,PRN213841091,InnoHack,College,Hybrid,BugSlayers,Participated
-Sneha Deshmukh,PRN215020671,CodeSprint,International,Online,CodeWarriors,Participated
-Neha Singh,PRN210142182,DevJam,State,Offline,AlgoNinjas,Shortlisted
-Rahul Verma,PRN216907345,DevJam,International,Online,BugSlayers,Participated
-Aditya Sharma,PRN219891408,InnoHack,National,Offline,AlgoNinjas,Shortlisted
-Karan Joshi,PRN211413458,CodeSprint,National,Hybrid,BugSlayers,Finalist
-Karan Nair,PRN218548370,CodeSprint,International,Offline,BugSlayers,Shortlisted
-Rohit Gupta,PRN211891524,CodeSprint,International,Hybrid,BitBusters,Participated
-Neha Patil,PRN216058222,HackOverflow,State,Offline,BitBusters,Winner
-Sneha Nair,PRN212898604,InnoHack,College,Online,BitBusters,Participated
-Aarav Joshi,PRN213619565,Smart India Hackathon,College,Offline,BitBusters,Finalist
-Rahul Nair,PRN216969792,InnoHack,International,Online,BitBusters,Runner Up
-Siddhi Verma,PRN214655136,Smart India Hackathon,National,Online,BitBusters,Shortlisted
-Aditya Nair,PRN215481960,InnoHack,College,Offline,DataDynamos,Shortlisted
-Aarav Kulkarni,PRN211446410,InnoHack,College,Offline,BitBusters,Runner Up
-Aarav Joshi,PRN212946849,Smart India Hackathon,College,Hybrid,CodeWarriors,Participated
-Aditya Reddy,PRN215816746,DevJam,National,Online,AlgoNinjas,Shortlisted
-Tanvi Joshi,PRN211980663,Smart India Hackathon,National,Offline,AlgoNinjas,Runner Up
-Vivaan Joshi,PRN219674609,Smart India Hackathon,International,Offline,BitBusters,Finalist
-Aarav Reddy,PRN219510771,CodeSprint,National,Online,AlgoNinjas,Participated
-Siddhi Sharma,PRN213831990,DevJam,College,Online,BugSlayers,Shortlisted
-Aarav Reddy,PRN216106512,InnoHack,State,Online,BugSlayers,Runner Up
-Tanvi Gupta,PRN213766741,HackOverflow,State,Offline,AlgoNinjas,Finalist
-Vivaan Singh,PRN216254683,Smart India Hackathon,College,Online,CodeWarriors,Runner Up
-Aarav Gupta,PRN211156393,InnoHack,National,Offline,AlgoNinjas,Participated
-Neha Reddy,PRN210133700,HackOverflow,State,Offline,BitBusters,Finalist
-Tanvi Singh,PRN214069884,InnoHack,National,Hybrid,DataDynamos,Shortlisted
-Tanvi Nair,PRN214112546,CodeSprint,College,Offline,BugSlayers,Shortlisted
-Neha Deshmukh,PRN210160974,HackOverflow,College,Hybrid,DataDynamos,Finalist
-Vivaan Kulkarni,PRN218888812,CodeSprint,International,Offline,BugSlayers,Shortlisted
-Tanvi Joshi,PRN211560728,Smart India Hackathon,State,Hybrid,DataDynamos,Finalist
-Rohit Sharma,PRN219743714,Smart India Hackathon,State,Hybrid,DataDynamos,Participated
-Siddhi Singh,PRN211044933,InnoHack,State,Online,AlgoNinjas,Finalist
-Sneha Gupta,PRN215473593,HackOverflow,International,Offline,CodeWarriors,Participated
-Karan Verma,PRN219809773,Smart India Hackathon,State,Online,CodeWarriors,Winner
-Rohit Deshmukh,PRN216820148,Smart India Hackathon,National,Online,DataDynamos,Finalist
-Rohit Joshi,PRN212011815,Smart India Hackathon,State,Hybrid,AlgoNinjas,Runner Up
-Aarav Kulkarni,PRN215499465,CodeSprint,College,Hybrid,CodeWarriors,Finalist
-Isha Nair,PRN210821255,HackOverflow,National,Online,BugSlayers,Winner
-Rohit Nair,PRN219229497,CodeSprint,College,Offline,BugSlayers,Shortlisted
-Vivaan Patil,PRN211034637,CodeSprint,State,Online,DataDynamos,Finalist
-Rahul Sharma,PRN219769772,DevJam,National,Online,BugSlayers,Participated
-Karan Reddy,PRN212160763,Smart India Hackathon,National,Online,BugSlayers,Winner
-Aarav Verma,PRN219628179,InnoHack,International,Offline,BugSlayers,Winner
-Rahul Gupta,PRN212899223,HackOverflow,State,Online,AlgoNinjas,Finalist
-Rohit Verma,PRN210581321,DevJam,State,Hybrid,AlgoNinjas,Winner
-Isha Nair,PRN218036805,Smart India Hackathon,College,Offline,DataDynamos,Shortlisted
-Isha Kulkarni,PRN218821696,CodeSprint,College,Offline,AlgoNinjas,Winner
-Neha Reddy,PRN215771934,DevJam,National,Offline,AlgoNinjas,Shortlisted
-Aarav Deshmukh,PRN213674549,Smart India Hackathon,National,Online,DataDynamos,Runner Up
-Sneha Singh,PRN213905100,CodeSprint,College,Online,CodeWarriors,Finalist
-Neha Patil,PRN213681115,DevJam,International,Offline,CodeWarriors,Shortlisted
-Karan Singh,PRN215335227,HackOverflow,College,Hybrid,AlgoNinjas,Runner Up
-Siddhi Verma,PRN219447399,CodeSprint,International,Hybrid,AlgoNinjas,Shortlisted
-Rohit Patil,PRN211514267,Smart India Hackathon,State,Hybrid,CodeWarriors,Participated
-Neha Reddy,PRN210011467,HackOverflow,State,Online,AlgoNinjas,Shortlisted
-Sneha Patil,PRN210367637,CodeSprint,State,Online,BitBusters,Finalist
-Vivaan Deshmukh,PRN216636992,DevJam,College,Offline,AlgoNinjas,Finalist
-Aditya Verma,PRN217329435,InnoHack,National,Online,BitBusters,Runner Up
-Sneha Kulkarni,PRN219880943,CodeSprint,International,Offline,AlgoNinjas,Shortlisted
-Aditya Patil,PRN219610573,InnoHack,College,Online,BitBusters,Finalist
-Siddhi Kulkarni,PRN219488358,Smart India Hackathon,International,Online,AlgoNinjas,Participated
-Karan Deshmukh,PRN215360633,CodeSprint,College,Hybrid,AlgoNinjas,Winner
-Aarav Joshi,PRN213517918,CodeSprint,College,Offline,AlgoNinjas,Participated
-Tanvi Patil,PRN210807780,InnoHack,International,Hybrid,DataDynamos,Shortlisted
-Isha Reddy,PRN216353742,HackOverflow,International,Online,DataDynamos,Runner Up
-Rahul Kulkarni,PRN212728923,InnoHack,College,Online,AlgoNinjas,Participated
+Gauri Kulkarni,124113132,Kavach Cybersecurity Hackathon,National,Hybrid,Team Electric Titans,Top 10 Finalist
+Omkar Jadhav,123143718,Kavach Cybersecurity Hackathon,National,Hybrid,Team Smart Titans,Winner (1st Place)
+Pooja Shetty,121194146,ACM-ICPC Regional Prelims,National,Offline,Team Web Titans,Special Mention Award
+Atharva Bansal,121145489,MindSpark Pune,State,Online,Team Web Titans,Winner (1st Place)
+Pranav Iyer,122141646,HackVIT Pune,College,Hybrid,Team Polymer Titans,Runner Up (2nd Place)
+Kunal Agarwal,123144510,Kavach Cybersecurity Hackathon,National,Online,Team Cybersecurity Titans,Finalist
+Ananya Chavan,124192505,Kavach Cybersecurity Hackathon,National,Offline,Team Computational Titans,Top 10 Finalist
+Suyash Kadam,123184864,Smart India Hackathon (SIH),National,Hybrid,Team Water Titans,Top 10 Finalist
+Yash Shinde,122197911,MindSpark Pune,State,Hybrid,Team Process Titans,Winner (1st Place)
+Yash Sharma,123192887,HackVIT Pune,College,Online,Team CAD/CAM Titans,Runner Up (2nd Place)
+Neha Pawar,121143839,Hackerearth AI Challenge,National,Offline,Team IoT Titans,Winner (1st Place)
+Sakshi Patil,123149999,Smart India Hackathon (SIH),National,Offline,Team Natural Titans,Runner Up (2nd Place)
+Neha Chavan,122149830,Kavach Cybersecurity Hackathon,National,Online,Team CAD/CAM Titans,Top 10 Finalist
+Kunal Kulkarni,123175172,Flipkart GRiD,National,Online,Team Blockchain Titans,Winner (1st Place)
+Siddharth Sutar,123123919,ACM-ICPC Regional Prelims,National,Offline,Team Green Titans,Runner Up (2nd Place)
+Gauri Wagh,124145287,Tata Crucible Hackathon,National,Offline,Team Cloud Titans,Finalist
+Shruti Chopra,122110488,MindSpark Pune,State,Online,Team Cloud Titans,Runner Up (2nd Place)
+Mrunal Gaikwad,124134258,Smart India Hackathon (SIH),National,Hybrid,Team Embedded Titans,Special Mention Award
+Akanksha Gupta,121150865,Hackerearth AI Challenge,National,Online,Team Mechatronics Titans,Special Mention Award
+Aditi Mane,122175158,Melange Innovation Challenge,College,Hybrid,Team Biomedical Titans,Finalist
+Pranav Iyer,122125513,Kavach Cybersecurity Hackathon,National,Online,Team Cybersecurity Titans,Top 10 Finalist
+Harsh Shetty,121120734,Flipkart GRiD,National,Online,Team Mechatronics Titans,Winner (1st Place)
+Kavya Mane,123195309,Hackerearth AI Challenge,National,Online,Team Generative Titans,Runner Up (2nd Place)
+Prathamesh Sutar,123150568,Smart India Hackathon (SIH),National,Online,Team Cloud Titans,Winner (1st Place)
+Gauri Verma,121180783,ACM-ICPC Regional Prelims,National,Hybrid,Team Reinforcement Titans,Finalist
+Shreya Verma,121119214,Smart India Hackathon (SIH),National,Hybrid,Team Edge Titans,Runner Up (2nd Place)
+Omkar Jadhav,124129735,Hackerearth AI Challenge,National,Offline,Team Biomedical Titans,Finalist
+Abhishek Shah,122113522,MindSpark Pune,State,Online,Team Process Titans,Runner Up (2nd Place)
+Isha Shah,122130373,Barclays Hackathon,Corporate,Hybrid,Team Process Titans,Finalist
+Riya Bansal,124135327,Barclays Hackathon,Corporate,Hybrid,Team Full Titans,Runner Up (2nd Place)
+Sneha More,121145891,ACM-ICPC Regional Prelims,National,Online,Team Smart Titans,Runner Up (2nd Place)
+Gauri Bhosale,121143998,HackVIT Pune,College,Offline,Team Cloud Titans,Winner (1st Place)
+Ananya Sutar,123126667,Barclays Hackathon,Corporate,Hybrid,Team Polymer Titans,Special Mention Award
+Gaurav Chavan,123166576,Kavach Cybersecurity Hackathon,National,Offline,Team IoT Titans,Runner Up (2nd Place)
+Shubham Patil,122188586,Flipkart GRiD,National,Online,Team Computer Titans,Winner (1st Place)
+Mrunal Sawant,122199835,Smart India Hackathon (SIH),National,Offline,Team Polymer Titans,Finalist
+Harsh Shinde,121123868,Tata Crucible Hackathon,National,Offline,Team Green Titans,Winner (1st Place)
+Aditi Wagh,122191960,Tata Crucible Hackathon,National,Offline,Team NLP Titans,Winner (1st Place)
+Sakshi Nair,123119550,Melange Innovation Challenge,College,Online,Team Distributed Titans,Special Mention Award
+Shubham Verma,121162524,Smart India Hackathon (SIH),National,Hybrid,Team Information Titans,Special Mention Award
+Isha Deshmukh,124184498,MindSpark Pune,State,Offline,Team Cloud Titans,Winner (1st Place)
+Kavya Sutar,121148460,Barclays Hackathon,Corporate,Offline,Team Signal Titans,Winner (1st Place)
+Gauri Gupta,122138599,Tata Crucible Hackathon,National,Online,Team Polymer Titans,Runner Up (2nd Place)
+Neha Shinde,124116286,HackVIT Pune,College,Online,Team Process Titans,Finalist
+Prathamesh Agarwal,124179119,Flipkart GRiD,National,Offline,Team Cloud Titans,Finalist
+Aditya Iyer,122170229,Tata Crucible Hackathon,National,Offline,Team Microservices Titans,Winner (1st Place)
+Kavya Sharma,124135832,Tata Crucible Hackathon,National,Offline,Team Edge Titans,Winner (1st Place)
+Harsh Joshi,123197970,HackVIT Pune,College,Hybrid,Team Process Titans,Finalist
+Kavya Shah,123164645,Tata Crucible Hackathon,National,Hybrid,Team Computer Titans,Runner Up (2nd Place)
+Vaishnavi Nair,121163969,Kavach Cybersecurity Hackathon,National,Hybrid,Team Deep Titans,Special Mention Award
+Neha Jadhav,124129824,Kavach Cybersecurity Hackathon,National,Hybrid,Team Water Titans,Finalist
+Chinmay Iyer,124165576,ACM-ICPC Regional Prelims,National,Online,Team Process Titans,Finalist
+Ananya Bansal,121167385,Kavach Cybersecurity Hackathon,National,Online,Team Information Titans,Runner Up (2nd Place)
+Chinmay Ingale,122140187,Hackerearth AI Challenge,National,Online,Team Full Titans,Finalist
+Atharva Gaikwad,124141808,Flipkart GRiD,National,Offline,Team Microservices Titans,Finalist
+Gauri Mehta,122137296,Hackerearth AI Challenge,National,Hybrid,Team Computational Titans,Runner Up (2nd Place)
+Varun Gaikwad,122115380,MindSpark Pune,State,Hybrid,Team Cybersecurity Titans,Finalist
+Gaurav Verma,124111205,MindSpark Pune,State,Hybrid,Team Information Titans,Runner Up (2nd Place)
+Bhakti Iyer,122176894,Barclays Hackathon,Corporate,Offline,Team Smart Titans,Special Mention Award
+Sanket Bansal,124182412,Hackerearth AI Challenge,National,Offline,Team Mechatronics Titans,Special Mention Award
+Omkar Mehta,122194370,Hackerearth AI Challenge,National,Hybrid,Team Distributed Titans,Runner Up (2nd Place)
+Neha Joshi,122129763,Kavach Cybersecurity Hackathon,National,Hybrid,Team Electric Titans,Finalist
+Pranav Deshmukh,123182709,Barclays Hackathon,Corporate,Hybrid,Team Information Titans,Top 10 Finalist
+Yash Wagh,123161816,Kavach Cybersecurity Hackathon,National,Hybrid,Team Water Titans,Top 10 Finalist
+Akanksha Patil,123115690,Tata Crucible Hackathon,National,Offline,Team Biomedical Titans,Runner Up (2nd Place)
+Shruti Bansal,121179773,HackVIT Pune,College,Hybrid,Team Robotics Titans,Finalist
+Tejas Mane,124166740,Barclays Hackathon,Corporate,Online,Team Generative Titans,Runner Up (2nd Place)
+Chinmay Ingale,123199548,HackVIT Pune,College,Offline,Team Cloud Titans,Winner (1st Place)
+Bhakti Shah,122180418,Flipkart GRiD,National,Offline,Team Information Titans,Runner Up (2nd Place)
+Atharva Kadam,121125572,HackVIT Pune,College,Offline,Team Biomedical Titans,Finalist
+Sakshi Malhotra,123144621,HackVIT Pune,College,Online,Team Polymer Titans,Finalist
+Suyash Bansal,123163891,ACM-ICPC Regional Prelims,National,Online,Team DevOps Titans,Finalist
+Vaishnavi More,121148389,Melange Innovation Challenge,College,Online,Team Smart Titans,Top 10 Finalist
+Sneha Bansal,124190424,Kavach Cybersecurity Hackathon,National,Offline,Team Polymer Titans,Finalist
+Sayali Pawar,123115129,Hackerearth AI Challenge,National,Offline,Team Process Titans,Top 10 Finalist
+Sakshi Malhotra,122169337,Tata Crucible Hackathon,National,Offline,Team Thermal Titans,Top 10 Finalist
+Prathamesh Sharma,124196394,Tata Crucible Hackathon,National,Offline,Team Computer Titans,Top 10 Finalist
+Sayali Jadhav,123164754,HackVIT Pune,College,Offline,Team Thermal Titans,Runner Up (2nd Place)
+Kunal Iyer,123191324,Kavach Cybersecurity Hackathon,National,Offline,Team Process Titans,Special Mention Award
+Suyash Kulkarni,123163865,Flipkart GRiD,National,Hybrid,Team Generative Titans,Top 10 Finalist
+Gauri Chopra,123131950,Barclays Hackathon,Corporate,Offline,Team Computer Titans,Winner (1st Place)
+Akanksha Sutar,123196210,Hackerearth AI Challenge,National,Online,Team Industrial Titans,Winner (1st Place)
+Manasi Chopra,123138724,Tata Crucible Hackathon,National,Online,Team Thermal Titans,Special Mention Award
+Sanket Nair,121115243,Hackerearth AI Challenge,National,Hybrid,Team VLSI Titans,Winner (1st Place)
+Sakshi Joshi,122127650,HackVIT Pune,College,Hybrid,Team Cloud Titans,Special Mention Award
+Gauri Sawant,122193524,Tata Crucible Hackathon,National,Online,Team Thermal Titans,Runner Up (2nd Place)
+Manasi Sawant,121157806,ACM-ICPC Regional Prelims,National,Online,Team Computer Titans,Top 10 Finalist
+Harsh Bansal,121157802,MindSpark Pune,State,Offline,Team Reinforcement Titans,Runner Up (2nd Place)
+Tanvi Deshmukh,123125294,Melange Innovation Challenge,College,Offline,Team Signal Titans,Top 10 Finalist
+Harsh Shetty,121143278,MindSpark Pune,State,Offline,Team Reinforcement Titans,Finalist
+Radhika Gaikwad,121171162,Tata Crucible Hackathon,National,Hybrid,Team Signal Titans,Winner (1st Place)
+Omkar Tambe,124120175,MindSpark Pune,State,Offline,Team Green Titans,Special Mention Award
+Vaishnavi Iyer,121199912,Kavach Cybersecurity Hackathon,National,Hybrid,Team Edge Titans,Top 10 Finalist
+Shreya Gupta,122167540,Hackerearth AI Challenge,National,Hybrid,Team Smart Titans,Finalist
+Prathamesh Jadhav,124121168,Tata Crucible Hackathon,National,Offline,Team Cloud Titans,Finalist
+Neha Joshi,123126931,Barclays Hackathon,Corporate,Offline,Team Water Titans,Winner (1st Place)
+Shreya Ingale,121155520,Kavach Cybersecurity Hackathon,National,Online,Team Computer Titans,Top 10 Finalist
+Siddharth Gaikwad,123123460,Melange Innovation Challenge,College,Offline,Team Electric Titans,Winner (1st Place)
+Shubham Sharma,122123967,HackVIT Pune,College,Hybrid,Team Wireless Titans,Runner Up (2nd Place)
+Bhakti Malhotra,123133129,Hackerearth AI Challenge,National,Online,Team Computational Titans,Special Mention Award
+Sneha Jadhav,122128990,HackVIT Pune,College,Hybrid,Team Full Titans,Runner Up (2nd Place)
+Mrunal Bhosale,123151419,Smart India Hackathon (SIH),National,Offline,Team Microservices Titans,Runner Up (2nd Place)
+Bhakti Kulkarni,122189261,MindSpark Pune,State,Hybrid,Team Computer Titans,Top 10 Finalist
+Chinmay Wagh,124187597,Smart India Hackathon (SIH),National,Hybrid,Team Computational Titans,Winner (1st Place)
+Tanmay Mehta,121165453,Flipkart GRiD,National,Hybrid,Team Mechatronics Titans,Special Mention Award
+Sakshi Mane,123138146,MindSpark Pune,State,Online,Team Water Titans,Runner Up (2nd Place)
+Gauri Verma,123160173,Tata Crucible Hackathon,National,Online,Team Cloud Titans,Top 10 Finalist
+Neha Patil,121150982,MindSpark Pune,State,Online,Team Wireless Titans,Special Mention Award
+Abhishek Shah,124198951,HackVIT Pune,College,Offline,Team Robotics Titans,Runner Up (2nd Place)
+Shruti Bansal,123152326,HackVIT Pune,College,Online,Team Deep Titans,Special Mention Award
+Shubham Kadam,122135362,MindSpark Pune,State,Offline,Team Natural Titans,Top 10 Finalist
+Kavya Nair,123190984,Melange Innovation Challenge,College,Online,Team Polymer Titans,Top 10 Finalist
+Pranav Tambe,123145915,Barclays Hackathon,Corporate,Offline,Team VLSI Titans,Finalist
+Pranav Nair,121186729,Kavach Cybersecurity Hackathon,National,Online,Team Smart Titans,Top 10 Finalist
+Radhika Mane,122157472,ACM-ICPC Regional Prelims,National,Hybrid,Team Thermal Titans,Top 10 Finalist
+Shubham Bhosale,122149458,ACM-ICPC Regional Prelims,National,Hybrid,Team Blockchain Titans,Finalist
+Shruti Shinde,121181417,HackVIT Pune,College,Online,Team CAD/CAM Titans,Special Mention Award
+Suyash Sharma,121195761,HackVIT Pune,College,Hybrid,Team Computational Titans,Winner (1st Place)
+Suyash Iyer,122133266,Flipkart GRiD,National,Online,Team Wireless Titans,Finalist
+Abhishek Gupta,121156520,Kavach Cybersecurity Hackathon,National,Online,Team IoT Titans,Special Mention Award
+Siddharth Nair,123123667,Tata Crucible Hackathon,National,Online,Team Wireless Titans,Special Mention Award
+Atharva Patil,122129955,HackVIT Pune,College,Hybrid,Team Reinforcement Titans,Top 10 Finalist
+Siddharth Kadam,124124164,ACM-ICPC Regional Prelims,National,Hybrid,Team Signal Titans,Winner (1st Place)
+Bhakti Ingale,122128835,Flipkart GRiD,National,Online,Team Computer Titans,Finalist
+Pooja Kulkarni,121170499,Kavach Cybersecurity Hackathon,National,Offline,Team Thermal Titans,Special Mention Award
+Pooja More,121118465,Flipkart GRiD,National,Offline,Team Process Titans,Finalist
+Akanksha Gupta,123115236,Barclays Hackathon,Corporate,Online,Team Process Titans,Finalist
+Rohan Bhosale,124179934,ACM-ICPC Regional Prelims,National,Offline,Team Deep Titans,Finalist
+Tejas Gaikwad,121193986,Kavach Cybersecurity Hackathon,National,Hybrid,Team Deep Titans,Special Mention Award
+Sakshi Jadhav,123120920,Tata Crucible Hackathon,National,Hybrid,Team Industrial Titans,Special Mention Award
+Neha Iyer,122147658,Flipkart GRiD,National,Hybrid,Team Industrial Titans,Runner Up (2nd Place)
+Ananya Sharma,123187556,Kavach Cybersecurity Hackathon,National,Offline,Team Generative Titans,Top 10 Finalist
+Sayali Jadhav,121155844,Barclays Hackathon,Corporate,Online,Team Signal Titans,Finalist
+Vaishnavi Shah,122128131,Kavach Cybersecurity Hackathon,National,Offline,Team Polymer Titans,Finalist
+Kavya Deshmukh,122167795,Barclays Hackathon,Corporate,Hybrid,Team CAD/CAM Titans,Top 10 Finalist
+Sayali Mehta,122156642,Melange Innovation Challenge,College,Online,Team Blockchain Titans,Top 10 Finalist
+Chinmay Kadam,121133853,Hackerearth AI Challenge,National,Hybrid,Team Full Titans,Finalist
+Shreya Joshi,123167820,Barclays Hackathon,Corporate,Offline,Team NLP Titans,Finalist
+Gaurav Verma,122127225,Barclays Hackathon,Corporate,Hybrid,Team Signal Titans,Top 10 Finalist
+Tanvi Verma,123130407,Barclays Hackathon,Corporate,Online,Team Blockchain Titans,Winner (1st Place)
+Varun Shah,122135224,HackVIT Pune,College,Online,Team Generative Titans,Winner (1st Place)
+Sakshi Patil,123180578,HackVIT Pune,College,Online,Team Deep Titans,Winner (1st Place)
+Pranav Gaikwad,124162638,Flipkart GRiD,National,Offline,Team Wireless Titans,Winner (1st Place)
+Yash Mane,123130268,ACM-ICPC Regional Prelims,National,Offline,Team Big Titans,Winner (1st Place)
+Kunal Jadhav,123120966,ACM-ICPC Regional Prelims,National,Hybrid,Team Mechatronics Titans,Finalist
+Chinmay Shinde,123178729,Melange Innovation Challenge,College,Offline,Team Green Titans,Runner Up (2nd Place)
+Prathamesh Nair,124191732,Hackerearth AI Challenge,National,Online,Team Big Titans,Runner Up (2nd Place)
+Gauri Gaikwad,123141594,Hackerearth AI Challenge,National,Hybrid,Team Polymer Titans,Finalist
+Tanmay Bhosale,122150420,Barclays Hackathon,Corporate,Offline,Team CAD/CAM Titans,Special Mention Award
+Riya Bansal,124130354,ACM-ICPC Regional Prelims,National,Online,Team Mechatronics Titans,Top 10 Finalist
+Ananya Chavan,122175610,Melange Innovation Challenge,College,Online,Team Process Titans,Runner Up (2nd Place)
+Sakshi Patil,124168617,ACM-ICPC Regional Prelims,National,Offline,Team Natural Titans,Runner Up (2nd Place)
+Aditi Gaikwad,121123967,Smart India Hackathon (SIH),National,Offline,Team CAD/CAM Titans,Finalist
+Pooja Mehta,123161146,ACM-ICPC Regional Prelims,National,Online,Team Wireless Titans,Top 10 Finalist
+Tejas Jadhav,123159175,HackVIT Pune,College,Offline,Team Mechatronics Titans,Top 10 Finalist
+Shreya Jadhav,122187303,Barclays Hackathon,Corporate,Hybrid,Team Industrial Titans,Top 10 Finalist
+Rohan Deshmukh,123170923,Flipkart GRiD,National,Offline,Team Distributed Titans,Top 10 Finalist
+Bhakti Chopra,122188435,Hackerearth AI Challenge,National,Online,Team Thermal Titans,Finalist
+Manasi Gupta,123153707,Hackerearth AI Challenge,National,Hybrid,Team Smart Titans,Top 10 Finalist
+Siddharth Shetty,122190636,HackVIT Pune,College,Hybrid,Team Signal Titans,Top 10 Finalist
+Shubham Agarwal,122183132,Barclays Hackathon,Corporate,Offline,Team Process Titans,Runner Up (2nd Place)
+Tejas Patil,123129528,Barclays Hackathon,Corporate,Online,Team IoT Titans,Runner Up (2nd Place)
+Mrunal Malhotra,123155659,Tata Crucible Hackathon,National,Offline,Team CAD/CAM Titans,Special Mention Award
+Manasi Tambe,122181385,HackVIT Pune,College,Online,Team Web Titans,Winner (1st Place)
+Gaurav Verma,124171424,Kavach Cybersecurity Hackathon,National,Online,Team Big Titans,Top 10 Finalist
+Chinmay Gaikwad,124154504,Barclays Hackathon,Corporate,Hybrid,Team DevOps Titans,Top 10 Finalist
+Prathamesh Gupta,122178306,Flipkart GRiD,National,Online,Team Wireless Titans,Runner Up (2nd Place)
+Chinmay Shinde,122116348,Flipkart GRiD,National,Online,Team Cybersecurity Titans,Runner Up (2nd Place)
+Kunal Nair,121162202,ACM-ICPC Regional Prelims,National,Hybrid,Team Information Titans,Special Mention Award
+Rohan Agarwal,124147290,Melange Innovation Challenge,College,Offline,Team Embedded Titans,Runner Up (2nd Place)
+Sanket Shetty,121146443,Hackerearth AI Challenge,National,Offline,Team Mechatronics Titans,Finalist
+Radhika Tambe,124134379,Flipkart GRiD,National,Online,Team Web Titans,Runner Up (2nd Place)
+Abhishek Gupta,123133835,Barclays Hackathon,Corporate,Online,Team VLSI Titans,Runner Up (2nd Place)
+Gaurav Shetty,122188279,Flipkart GRiD,National,Offline,Team Polymer Titans,Special Mention Award
+Neha Mane,121195510,HackVIT Pune,College,Hybrid,Team Generative Titans,Winner (1st Place)
+Gauri Shah,122141880,Tata Crucible Hackathon,National,Online,Team Water Titans,Runner Up (2nd Place)
+Atharva Mane,123182179,Melange Innovation Challenge,College,Hybrid,Team Wireless Titans,Winner (1st Place)
+Vaishnavi Chavan,122151268,HackVIT Pune,College,Online,Team Thermal Titans,Runner Up (2nd Place)
+Yash Sharma,124175193,Tata Crucible Hackathon,National,Hybrid,Team Cloud Titans,Finalist
+Sanket Gupta,124110360,MindSpark Pune,State,Offline,Team Cybersecurity Titans,Winner (1st Place)
+Pranav Deshmukh,123118817,MindSpark Pune,State,Online,Team Embedded Titans,Special Mention Award
+Isha Jadhav,124158990,Smart India Hackathon (SIH),National,Online,Team Edge Titans,Runner Up (2nd Place)
+Gauri Shinde,123132221,Tata Crucible Hackathon,National,Offline,Team Polymer Titans,Runner Up (2nd Place)
+Radhika Shinde,122110954,ACM-ICPC Regional Prelims,National,Online,Team Computational Titans,Special Mention Award
+Mrunal Jadhav,123124293,Tata Crucible Hackathon,National,Offline,Team Big Titans,Winner (1st Place)
+Sayali Iyer,121115350,ACM-ICPC Regional Prelims,National,Offline,Team Green Titans,Winner (1st Place)
+Kavya Bhosale,123148342,Flipkart GRiD,National,Online,Team Mechatronics Titans,Special Mention Award
+Riya Shah,123163813,Hackerearth AI Challenge,National,Hybrid,Team CAD/CAM Titans,Top 10 Finalist
+Mrunal Malhotra,124181526,Hackerearth AI Challenge,National,Online,Team Full Titans,Special Mention Award
+Bhakti Deshmukh,121185292,Flipkart GRiD,National,Hybrid,Team Biomedical Titans,Top 10 Finalist
+Aditi Chavan,123111410,Tata Crucible Hackathon,National,Offline,Team Biomedical Titans,Winner (1st Place)
+Yash Gupta,124199348,ACM-ICPC Regional Prelims,National,Online,Team Biomedical Titans,Finalist
+Shruti Malhotra,123146894,Barclays Hackathon,Corporate,Online,Team Microservices Titans,Top 10 Finalist
+Tanvi Gaikwad,123173625,Smart India Hackathon (SIH),National,Online,Team Reinforcement Titans,Top 10 Finalist
+Aditi Mehta,123157308,Smart India Hackathon (SIH),National,Offline,Team Industrial Titans,Top 10 Finalist
+Kavya Agarwal,124193663,ACM-ICPC Regional Prelims,National,Hybrid,Team Web Titans,Runner Up (2nd Place)
+Abhishek Gupta,123127273,Melange Innovation Challenge,College,Offline,Team Smart Titans,Winner (1st Place)
+Shubham Patil,124117482,Barclays Hackathon,Corporate,Online,Team Big Titans,Top 10 Finalist
+Manasi Malhotra,124110116,Melange Innovation Challenge,College,Online,Team Signal Titans,Runner Up (2nd Place)
+Aarav Patil,123146648,Smart India Hackathon (SIH),National,Offline,Team Thermal Titans,Runner Up (2nd Place)
+Kavya Kadam,122197407,Smart India Hackathon (SIH),National,Online,Team Process Titans,Top 10 Finalist
+Kavya Tambe,121197176,Flipkart GRiD,National,Online,Team NLP Titans,Special Mention Award
+Akanksha Shinde,124148178,Tata Crucible Hackathon,National,Offline,Team Biomedical Titans,Finalist
+Kavya Agarwal,124179793,Flipkart GRiD,National,Hybrid,Team Biomedical Titans,Runner Up (2nd Place)
+Atharva Mane,123122154,HackVIT Pune,College,Offline,Team Process Titans,Special Mention Award
+Sneha Iyer,124151892,Smart India Hackathon (SIH),National,Hybrid,Team Process Titans,Runner Up (2nd Place)
+Akanksha Sharma,121189890,Tata Crucible Hackathon,National,Online,Team IoT Titans,Finalist
+Ananya Jadhav,121149105,ACM-ICPC Regional Prelims,National,Online,Team DevOps Titans,Finalist
+Chinmay Joshi,121165291,Hackerearth AI Challenge,National,Hybrid,Team Microservices Titans,Winner (1st Place)
+Shreya Chopra,122158801,Hackerearth AI Challenge,National,Offline,Team Web Titans,Special Mention Award
+Bhakti Iyer,124127209,MindSpark Pune,State,Online,Team Information Titans,Finalist
+Bhakti Shinde,123198717,Flipkart GRiD,National,Offline,Team Predictive Titans,Runner Up (2nd Place)
+Harsh Bhosale,123160936,ACM-ICPC Regional Prelims,National,Online,Team Wireless Titans,Finalist
+Tejas Shetty,122180798,Smart India Hackathon (SIH),National,Offline,Team Thermal Titans,Finalist
+Tanmay Wagh,123198951,MindSpark Pune,State,Offline,Team Smart Titans,Top 10 Finalist
+Riya Kulkarni,124161696,MindSpark Pune,State,Online,Team Edge Titans,Special Mention Award
+Shruti Mehta,124111208,HackVIT Pune,College,Offline,Team Generative Titans,Winner (1st Place)
+Vaishnavi Gupta,122157556,Tata Crucible Hackathon,National,Offline,Team Mechatronics Titans,Runner Up (2nd Place)
+Vaishnavi Shinde,121123594,MindSpark Pune,State,Hybrid,Team Deep Titans,Top 10 Finalist
+Yash Agarwal,122149456,Tata Crucible Hackathon,National,Online,Team Green Titans,Special Mention Award
+Ananya Kulkarni,121124929,Tata Crucible Hackathon,National,Online,Team Predictive Titans,Special Mention Award
+Tanmay Chavan,121123691,Kavach Cybersecurity Hackathon,National,Hybrid,Team NLP Titans,Runner Up (2nd Place)
+Varun Ingale,124127395,Smart India Hackathon (SIH),National,Online,Team Information Titans,Top 10 Finalist
+Manasi Deshmukh,123172109,Hackerearth AI Challenge,National,Online,Team Smart Titans,Top 10 Finalist
+Kunal Ingale,122168899,ACM-ICPC Regional Prelims,National,Online,Team Computer Titans,Finalist
+Shreya Mane,121179374,MindSpark Pune,State,Hybrid,Team Cloud Titans,Runner Up (2nd Place)
+Omkar Gupta,122114404,Melange Innovation Challenge,College,Online,Team Process Titans,Runner Up (2nd Place)
+Siddharth Shetty,123178711,Barclays Hackathon,Corporate,Hybrid,Team Reinforcement Titans,Top 10 Finalist
+Gaurav Gaikwad,123175978,Kavach Cybersecurity Hackathon,National,Online,Team Robotics Titans,Winner (1st Place)
+Suyash Mehta,124145160,ACM-ICPC Regional Prelims,National,Online,Team Biomedical Titans,Winner (1st Place)
+Atharva Sutar,123157811,Barclays Hackathon,Corporate,Online,Team Thermal Titans,Runner Up (2nd Place)
+Ananya Shetty,121168848,Smart India Hackathon (SIH),National,Online,Team Blockchain Titans,Finalist
+Tanvi Bansal,124164323,Melange Innovation Challenge,College,Online,Team Full Titans,Top 10 Finalist
+Sneha Chopra,121122147,Melange Innovation Challenge,College,Online,Team Polymer Titans,Top 10 Finalist
+Tejas Verma,123145262,ACM-ICPC Regional Prelims,National,Offline,Team Web Titans,Finalist
+Prathamesh Kulkarni,122160153,Kavach Cybersecurity Hackathon,National,Hybrid,Team Reinforcement Titans,Top 10 Finalist
+Pranav Shinde,122197631,HackVIT Pune,College,Hybrid,Team Robotics Titans,Winner (1st Place)
+Sneha Agarwal,124126810,Barclays Hackathon,Corporate,Online,Team Natural Titans,Winner (1st Place)
+Isha Iyer,124137980,Smart India Hackathon (SIH),National,Offline,Team Process Titans,Top 10 Finalist
+Suyash Mehta,124164459,MindSpark Pune,State,Online,Team Natural Titans,Finalist
+Radhika Chopra,123126424,MindSpark Pune,State,Online,Team DevOps Titans,Finalist
+Kavya Sawant,122170881,ACM-ICPC Regional Prelims,National,Offline,Team Deep Titans,Winner (1st Place)
+Gauri Ingale,122120384,MindSpark Pune,State,Online,Team Mechatronics Titans,Top 10 Finalist
+Tanmay Shah,123185500,ACM-ICPC Regional Prelims,National,Online,Team Big Titans,Special Mention Award
+Neha Joshi,121195416,ACM-ICPC Regional Prelims,National,Online,Team Edge Titans,Runner Up (2nd Place)
+Varun Joshi,122111818,ACM-ICPC Regional Prelims,National,Online,Team Cloud Titans,Runner Up (2nd Place)
+Prathamesh Verma,121168608,ACM-ICPC Regional Prelims,National,Offline,Team Robotics Titans,Finalist
+Sakshi Bansal,122130476,Kavach Cybersecurity Hackathon,National,Hybrid,Team Robotics Titans,Runner Up (2nd Place)
+Shreya Shah,124151329,Hackerearth AI Challenge,National,Online,Team Computational Titans,Finalist
+Sanket Bhosale,124157108,Melange Innovation Challenge,College,Online,Team Cybersecurity Titans,Finalist
+Sanket Gupta,122157575,Tata Crucible Hackathon,National,Offline,Team Thermal Titans,Runner Up (2nd Place)
+Tejas Gupta,122110254,Smart India Hackathon (SIH),National,Hybrid,Team Robotics Titans,Winner (1st Place)
+Kunal Ingale,121110443,Tata Crucible Hackathon,National,Offline,Team Computer Titans,Runner Up (2nd Place)
+Chinmay Kulkarni,122176965,Kavach Cybersecurity Hackathon,National,Hybrid,Team Cloud Titans,Finalist
+Gaurav More,123160920,HackVIT Pune,College,Hybrid,Team Process Titans,Special Mention Award
+Omkar Shinde,122169560,Melange Innovation Challenge,College,Online,Team Computer Titans,Winner (1st Place)
+Gauri Jadhav,122149562,Barclays Hackathon,Corporate,Offline,Team Industrial Titans,Finalist
+Atharva Pawar,123199946,Smart India Hackathon (SIH),National,Online,Team Biomedical Titans,Top 10 Finalist
+Ananya Shinde,122160464,Tata Crucible Hackathon,National,Online,Team Blockchain Titans,Top 10 Finalist
+Kunal Shinde,124197481,Kavach Cybersecurity Hackathon,National,Hybrid,Team Big Titans,Top 10 Finalist
+Varun More,124114252,MindSpark Pune,State,Online,Team NLP Titans,Top 10 Finalist
+Harsh Nair,124180521,Kavach Cybersecurity Hackathon,National,Offline,Team Deep Titans,Winner (1st Place)
+Harsh Nair,121155491,ACM-ICPC Regional Prelims,National,Online,Team Smart Titans,Finalist
+Akanksha Kadam,121194353,Smart India Hackathon (SIH),National,Hybrid,Team Microservices Titans,Finalist
+Kavya Shetty,122173956,Smart India Hackathon (SIH),National,Offline,Team Distributed Titans,Top 10 Finalist
+Ananya Deshmukh,122128700,MindSpark Pune,State,Online,Team DevOps Titans,Special Mention Award
+Radhika Bansal,121194482,Barclays Hackathon,Corporate,Hybrid,Team Deep Titans,Special Mention Award
+Riya Gaikwad,123132230,Smart India Hackathon (SIH),National,Online,Team Water Titans,Special Mention Award
+Shruti Bansal,121187286,Hackerearth AI Challenge,National,Online,Team Biomedical Titans,Winner (1st Place)
+Kavya Joshi,122119439,Smart India Hackathon (SIH),National,Online,Team VLSI Titans,Special Mention Award
+Isha Pawar,124154487,Barclays Hackathon,Corporate,Online,Team Embedded Titans,Special Mention Award
+Aditya Sawant,122165721,Flipkart GRiD,National,Online,Team Process Titans,Winner (1st Place)
+Atharva Gaikwad,124122304,Smart India Hackathon (SIH),National,Hybrid,Team Biomedical Titans,Runner Up (2nd Place)
+Gaurav Kulkarni,121160415,Tata Crucible Hackathon,National,Offline,Team Edge Titans,Top 10 Finalist
+Prathamesh Kulkarni,124157289,Smart India Hackathon (SIH),National,Offline,Team Computational Titans,Finalist
+Varun Wagh,123169550,Hackerearth AI Challenge,National,Online,Team DevOps Titans,Winner (1st Place)
+Chinmay Shetty,122199870,Flipkart GRiD,National,Hybrid,Team Computer Titans,Winner (1st Place)
+Tanvi Shah,124185874,ACM-ICPC Regional Prelims,National,Offline,Team Robotics Titans,Special Mention Award
+Kavya Chopra,124120406,HackVIT Pune,College,Offline,Team Big Titans,Top 10 Finalist
+Tanmay Shah,122164143,Hackerearth AI Challenge,National,Hybrid,Team Big Titans,Runner Up (2nd Place)
+Neha Chavan,122186954,Barclays Hackathon,Corporate,Offline,Team Industrial Titans,Finalist
+Yash Sawant,122185680,MindSpark Pune,State,Hybrid,Team Cloud Titans,Finalist
+Omkar Shetty,121146904,Flipkart GRiD,National,Hybrid,Team Process Titans,Finalist
+Isha More,124187685,Barclays Hackathon,Corporate,Offline,Team IoT Titans,Runner Up (2nd Place)
+Chinmay Sutar,124160139,Flipkart GRiD,National,Online,Team Web Titans,Special Mention Award
+Suyash Gaikwad,124163375,MindSpark Pune,State,Offline,Team Process Titans,Winner (1st Place)
+Siddharth Mane,122149167,Flipkart GRiD,National,Offline,Team Smart Titans,Winner (1st Place)
+Siddharth Kadam,124156151,Hackerearth AI Challenge,National,Hybrid,Team Cloud Titans,Top 10 Finalist
+Pooja Agarwal,124125750,Tata Crucible Hackathon,National,Hybrid,Team IoT Titans,Special Mention Award
+Pooja Tambe,124170281,HackVIT Pune,College,Online,Team CAD/CAM Titans,Winner (1st Place)
+Tanvi Pawar,123198866,Barclays Hackathon,Corporate,Offline,Team Industrial Titans,Special Mention Award
+Ananya Bansal,123193771,Kavach Cybersecurity Hackathon,National,Offline,Team Generative Titans,Special Mention Award
+Suyash Gupta,124143402,Tata Crucible Hackathon,National,Hybrid,Team Full Titans,Finalist
+Riya Gupta,122138451,Barclays Hackathon,Corporate,Online,Team Blockchain Titans,Winner (1st Place)
+Varun Sharma,121155327,MindSpark Pune,State,Offline,Team Predictive Titans,Special Mention Award
+Sneha Sawant,124150246,Melange Innovation Challenge,College,Hybrid,Team Electric Titans,Top 10 Finalist
+Chinmay Chavan,122130690,Kavach Cybersecurity Hackathon,National,Hybrid,Team Industrial Titans,Finalist
+Suyash Iyer,124164513,Smart India Hackathon (SIH),National,Offline,Team Signal Titans,Top 10 Finalist
+Aarav Deshmukh,122157848,ACM-ICPC Regional Prelims,National,Online,Team CAD/CAM Titans,Winner (1st Place)
+Neha Chopra,122172450,Smart India Hackathon (SIH),National,Online,Team Green Titans,Top 10 Finalist
+Abhishek Malhotra,124139119,HackVIT Pune,College,Hybrid,Team Biomedical Titans,Special Mention Award
+Rohan Sutar,123178889,MindSpark Pune,State,Online,Team Water Titans,Top 10 Finalist
+Suyash Sawant,121189623,Smart India Hackathon (SIH),National,Hybrid,Team Industrial Titans,Finalist
+Omkar Tambe,122143896,Hackerearth AI Challenge,National,Online,Team Distributed Titans,Finalist
+Tanvi Verma,123115264,HackVIT Pune,College,Offline,Team IoT Titans,Finalist
+Abhishek Bhosale,124144736,Barclays Hackathon,Corporate,Offline,Team Deep Titans,Special Mention Award
+Pooja Agarwal,122161216,Tata Crucible Hackathon,National,Online,Team Computer Titans,Finalist
+Chinmay Agarwal,124163919,Smart India Hackathon (SIH),National,Online,Team IoT Titans,Finalist
+Yash Shinde,121130964,HackVIT Pune,College,Offline,Team Water Titans,Special Mention Award
+Sayali Deshmukh,123150770,HackVIT Pune,College,Online,Team DevOps Titans,Finalist
+Radhika Mehta,122153785,HackVIT Pune,College,Offline,Team Water Titans,Special Mention Award
+Omkar Sawant,122154593,HackVIT Pune,College,Offline,Team Polymer Titans,Winner (1st Place)
+Shubham Agarwal,121192111,Hackerearth AI Challenge,National,Hybrid,Team Smart Titans,Winner (1st Place)
+Chinmay Deshmukh,122192663,ACM-ICPC Regional Prelims,National,Hybrid,Team Electric Titans,Special Mention Award
+Atharva Wagh,124173190,Hackerearth AI Challenge,National,Hybrid,Team Embedded Titans,Finalist
+Sakshi Gupta,121161205,Barclays Hackathon,Corporate,Offline,Team Water Titans,Finalist
+Vaishnavi Ingale,124156449,Kavach Cybersecurity Hackathon,National,Online,Team Distributed Titans,Winner (1st Place)
+Mrunal Bhosale,124194833,HackVIT Pune,College,Hybrid,Team Thermal Titans,Winner (1st Place)
+Yash Joshi,122153102,Tata Crucible Hackathon,National,Offline,Team Process Titans,Top 10 Finalist
+Isha Joshi,122125292,HackVIT Pune,College,Online,Team Computer Titans,Runner Up (2nd Place)
+Akanksha Tambe,122184808,MindSpark Pune,State,Offline,Team Electric Titans,Special Mention Award
+Harsh More,123167401,Smart India Hackathon (SIH),National,Online,Team IoT Titans,Runner Up (2nd Place)
+Shreya Nair,122189314,Hackerearth AI Challenge,National,Offline,Team Big Titans,Top 10 Finalist
+Tanvi Malhotra,122193827,Hackerearth AI Challenge,National,Online,Team Green Titans,Special Mention Award
+Aarav Mane,121128490,Hackerearth AI Challenge,National,Offline,Team Computer Titans,Winner (1st Place)
+Tejas More,122197393,ACM-ICPC Regional Prelims,National,Hybrid,Team Industrial Titans,Top 10 Finalist
+Gaurav Chavan,121167467,Hackerearth AI Challenge,National,Online,Team Biomedical Titans,Finalist
+Shreya Sutar,123195809,ACM-ICPC Regional Prelims,National,Online,Team Information Titans,Special Mention Award
+Riya Sawant,123116665,Melange Innovation Challenge,College,Hybrid,Team Process Titans,Winner (1st Place)
+Akanksha Ingale,122134894,ACM-ICPC Regional Prelims,National,Online,Team Green Titans,Winner (1st Place)
+Prathamesh Shinde,123152105,Melange Innovation Challenge,College,Hybrid,Team Distributed Titans,Finalist
+Manasi Malhotra,122197140,Smart India Hackathon (SIH),National,Offline,Team Thermal Titans,Runner Up (2nd Place)
+Pranav Chavan,122197985,Melange Innovation Challenge,College,Online,Team Process Titans,Winner (1st Place)
+Manasi Kulkarni,121119817,HackVIT Pune,College,Online,Team Industrial Titans,Runner Up (2nd Place)
+Gaurav Shah,123121721,MindSpark Pune,State,Hybrid,Team Polymer Titans,Winner (1st Place)
+Shruti Shah,123128749,Barclays Hackathon,Corporate,Online,Team Process Titans,Special Mention Award
+Gauri Ingale,123154315,Melange Innovation Challenge,College,Hybrid,Team Blockchain Titans,Runner Up (2nd Place)
+Vaishnavi Shinde,122188326,Kavach Cybersecurity Hackathon,National,Offline,Team Distributed Titans,Runner Up (2nd Place)
+Yash Pawar,121180971,Flipkart GRiD,National,Online,Team Water Titans,Winner (1st Place)
+Pranav Gaikwad,121122356,Barclays Hackathon,Corporate,Online,Team Water Titans,Runner Up (2nd Place)
+Sakshi Bhosale,122193787,Smart India Hackathon (SIH),National,Hybrid,Team Predictive Titans,Top 10 Finalist
+Manasi Kulkarni,123167597,Melange Innovation Challenge,College,Online,Team Big Titans,Winner (1st Place)
+Neha Pawar,123138352,Flipkart GRiD,National,Offline,Team Blockchain Titans,Top 10 Finalist
+Mrunal Wagh,123180598,Hackerearth AI Challenge,National,Offline,Team Reinforcement Titans,Special Mention Award
+Bhakti Kulkarni,123127979,Flipkart GRiD,National,Hybrid,Team Biomedical Titans,Runner Up (2nd Place)
+Prathamesh Gupta,121119844,Flipkart GRiD,National,Online,Team Water Titans,Top 10 Finalist
+Aditya Agarwal,124185887,Tata Crucible Hackathon,National,Offline,Team Robotics Titans,Top 10 Finalist
+Akanksha Gupta,123169237,Melange Innovation Challenge,College,Hybrid,Team Industrial Titans,Top 10 Finalist
+Shruti Jadhav,121140778,Hackerearth AI Challenge,National,Hybrid,Team Mechatronics Titans,Runner Up (2nd Place)
+Abhishek Mehta,122130556,Kavach Cybersecurity Hackathon,National,Hybrid,Team Mechatronics Titans,Finalist
+Kunal Kulkarni,123115339,Hackerearth AI Challenge,National,Online,Team NLP Titans,Top 10 Finalist
+Pooja Sutar,124115147,ACM-ICPC Regional Prelims,National,Offline,Team VLSI Titans,Runner Up (2nd Place)
+Varun Sutar,124185474,Melange Innovation Challenge,College,Hybrid,Team Process Titans,Special Mention Award
+Vaishnavi Deshmukh,122131157,Smart India Hackathon (SIH),National,Online,Team Electric Titans,Special Mention Award
+Radhika Sutar,121194999,Kavach Cybersecurity Hackathon,National,Offline,Team Robotics Titans,Top 10 Finalist
+Tanmay Wagh,124171988,HackVIT Pune,College,Hybrid,Team Thermal Titans,Finalist
+Sneha Malhotra,121158335,Flipkart GRiD,National,Hybrid,Team Embedded Titans,Runner Up (2nd Place)
+Riya Jadhav,121127535,Barclays Hackathon,Corporate,Online,Team Electric Titans,Special Mention Award
+Atharva Gaikwad,124134363,Melange Innovation Challenge,College,Online,Team Robotics Titans,Winner (1st Place)
+Ananya Sawant,121164258,Melange Innovation Challenge,College,Hybrid,Team Predictive Titans,Finalist
+Prathamesh Bansal,124156678,Barclays Hackathon,Corporate,Hybrid,Team Thermal Titans,Winner (1st Place)
+Prathamesh Gaikwad,123160892,MindSpark Pune,State,Offline,Team Robotics Titans,Top 10 Finalist
+Shreya Iyer,121159264,Barclays Hackathon,Corporate,Hybrid,Team Process Titans,Winner (1st Place)
+Atharva Agarwal,124165714,Hackerearth AI Challenge,National,Online,Team Web Titans,Runner Up (2nd Place)
+Kunal Jadhav,121159841,Melange Innovation Challenge,College,Offline,Team Full Titans,Finalist
+Manasi Nair,123186828,Flipkart GRiD,National,Offline,Team Electric Titans,Special Mention Award
+Sakshi Wagh,122194970,Flipkart GRiD,National,Hybrid,Team Cybersecurity Titans,Special Mention Award
+Shruti Sutar,122111630,Melange Innovation Challenge,College,Hybrid,Team Robotics Titans,Winner (1st Place)
+Atharva Ingale,123145455,Flipkart GRiD,National,Hybrid,Team Generative Titans,Special Mention Award
+Gauri Agarwal,123166810,Tata Crucible Hackathon,National,Hybrid,Team Smart Titans,Finalist
+Harsh Mehta,124168797,Smart India Hackathon (SIH),National,Online,Team Deep Titans,Runner Up (2nd Place)
+Prathamesh Kadam,121196508,Hackerearth AI Challenge,National,Hybrid,Team Predictive Titans,Runner Up (2nd Place)
+Chinmay Pawar,122135610,Barclays Hackathon,Corporate,Hybrid,Team Green Titans,Finalist
+Sakshi Chopra,123133602,HackVIT Pune,College,Hybrid,Team Mechatronics Titans,Special Mention Award
+Chinmay Sutar,122177155,Flipkart GRiD,National,Offline,Team Information Titans,Runner Up (2nd Place)
+Yash Verma,124198423,Smart India Hackathon (SIH),National,Hybrid,Team Electric Titans,Runner Up (2nd Place)
+Riya Shetty,123188470,Melange Innovation Challenge,College,Offline,Team Natural Titans,Runner Up (2nd Place)
+Shreya More,123188582,Smart India Hackathon (SIH),National,Hybrid,Team Distributed Titans,Top 10 Finalist
+Sakshi Sawant,124157817,MindSpark Pune,State,Offline,Team Information Titans,Winner (1st Place)
+Shubham Tambe,121163280,Flipkart GRiD,National,Hybrid,Team Process Titans,Top 10 Finalist
+Sakshi Gaikwad,121122507,HackVIT Pune,College,Offline,Team Deep Titans,Top 10 Finalist
+Tanmay Agarwal,124190959,MindSpark Pune,State,Online,Team Reinforcement Titans,Winner (1st Place)
+Sneha More,123181673,Barclays Hackathon,Corporate,Offline,Team Predictive Titans,Winner (1st Place)
+Kavya Shetty,122146899,MindSpark Pune,State,Online,Team Water Titans,Winner (1st Place)
+Sakshi Mehta,124158180,MindSpark Pune,State,Online,Team Polymer Titans,Special Mention Award
+Chinmay Iyer,124166377,ACM-ICPC Regional Prelims,National,Hybrid,Team Computational Titans,Finalist
+Harsh Sharma,121131315,ACM-ICPC Regional Prelims,National,Hybrid,Team Deep Titans,Special Mention Award
+Pranav Malhotra,121160126,Tata Crucible Hackathon,National,Online,Team Embedded Titans,Runner Up (2nd Place)
+Abhishek Patil,123151981,Flipkart GRiD,National,Hybrid,Team Full Titans,Runner Up (2nd Place)
+Isha More,123110110,Flipkart GRiD,National,Online,Team Distributed Titans,Special Mention Award
+Tanvi Gaikwad,121172804,HackVIT Pune,College,Hybrid,Team Signal Titans,Winner (1st Place)
+Shreya Jadhav,124165674,Smart India Hackathon (SIH),National,Offline,Team Distributed Titans,Special Mention Award
+Radhika Mehta,123193391,Tata Crucible Hackathon,National,Online,Team Process Titans,Special Mention Award
+Gauri Patil,121144388,MindSpark Pune,State,Hybrid,Team Information Titans,Runner Up (2nd Place)
+Sanket Shah,124169480,Smart India Hackathon (SIH),National,Hybrid,Team Industrial Titans,Special Mention Award
+Sneha Kulkarni,122144157,HackVIT Pune,College,Offline,Team Industrial Titans,Special Mention Award
+Yash Mehta,122166494,Hackerearth AI Challenge,National,Offline,Team Process Titans,Finalist
+Tejas Wagh,121195633,Hackerearth AI Challenge,National,Offline,Team Polymer Titans,Runner Up (2nd Place)
+Riya Sharma,123190262,Tata Crucible Hackathon,National,Offline,Team Reinforcement Titans,Runner Up (2nd Place)
+Siddharth Bansal,122140215,HackVIT Pune,College,Hybrid,Team Computational Titans,Runner Up (2nd Place)
+Aarav Deshmukh,124186804,Hackerearth AI Challenge,National,Offline,Team Robotics Titans,Finalist
+Harsh Pawar,121189802,Flipkart GRiD,National,Online,Team Edge Titans,Winner (1st Place)
+Siddharth Deshmukh,122178818,Smart India Hackathon (SIH),National,Offline,Team Generative Titans,Winner (1st Place)
+Shreya Gaikwad,124182294,MindSpark Pune,State,Hybrid,Team CAD/CAM Titans,Special Mention Award
+Ananya Gupta,123186988,Melange Innovation Challenge,College,Online,Team Wireless Titans,Winner (1st Place)
+Abhishek Kulkarni,122147560,Hackerearth AI Challenge,National,Hybrid,Team Mechatronics Titans,Finalist
+Pooja Wagh,124133851,ACM-ICPC Regional Prelims,National,Offline,Team Cybersecurity Titans,Runner Up (2nd Place)
+Riya Chavan,124180884,HackVIT Pune,College,Hybrid,Team CAD/CAM Titans,Finalist
+Rohan Agarwal,122114994,HackVIT Pune,College,Hybrid,Team Information Titans,Runner Up (2nd Place)
+Tanmay Nair,121191579,Tata Crucible Hackathon,National,Hybrid,Team Wireless Titans,Winner (1st Place)
+Isha Agarwal,121188943,Flipkart GRiD,National,Hybrid,Team Deep Titans,Special Mention Award
+Kunal Ingale,122177297,Tata Crucible Hackathon,National,Offline,Team Wireless Titans,Special Mention Award
+Varun Ingale,124123864,Smart India Hackathon (SIH),National,Offline,Team Water Titans,Special Mention Award
+Tanvi Sharma,124131206,Flipkart GRiD,National,Offline,Team Wireless Titans,Top 10 Finalist
+Shruti Mane,122186646,Kavach Cybersecurity Hackathon,National,Offline,Team Predictive Titans,Finalist
+Ananya Iyer,122180484,MindSpark Pune,State,Online,Team Web Titans,Top 10 Finalist
+Aditya Mane,123148106,MindSpark Pune,State,Online,Team Distributed Titans,Special Mention Award
+Ananya Patil,123175666,Kavach Cybersecurity Hackathon,National,Online,Team Biomedical Titans,Winner (1st Place)
+Omkar Deshmukh,123127259,MindSpark Pune,State,Hybrid,Team Wireless Titans,Top 10 Finalist
+Kavya Agarwal,123183138,Tata Crucible Hackathon,National,Offline,Team DevOps Titans,Top 10 Finalist
+Siddharth Malhotra,123165456,Barclays Hackathon,Corporate,Hybrid,Team Industrial Titans,Special Mention Award
+Kunal Sawant,124126251,ACM-ICPC Regional Prelims,National,Hybrid,Team Computer Titans,Special Mention Award
+Kavya Gupta,124120368,HackVIT Pune,College,Offline,Team Full Titans,Finalist
+Tanvi Chavan,123193708,Hackerearth AI Challenge,National,Offline,Team Predictive Titans,Special Mention Award
+Harsh Iyer,123153114,Flipkart GRiD,National,Hybrid,Team Cloud Titans,Runner Up (2nd Place)
+Sanket Wagh,121136439,Tata Crucible Hackathon,National,Online,Team IoT Titans,Runner Up (2nd Place)
+Tanmay Ingale,123171661,Barclays Hackathon,Corporate,Hybrid,Team Electric Titans,Runner Up (2nd Place)
+Aditya Sutar,121131361,HackVIT Pune,College,Online,Team Electric Titans,Finalist
+Manasi More,124111770,HackVIT Pune,College,Offline,Team Blockchain Titans,Top 10 Finalist
+Kunal Sutar,121172423,MindSpark Pune,State,Hybrid,Team Mechatronics Titans,Special Mention Award
+Tanvi Jadhav,123174341,Flipkart GRiD,National,Offline,Team Process Titans,Winner (1st Place)
+Prathamesh Chopra,121145668,Barclays Hackathon,Corporate,Hybrid,Team VLSI Titans,Runner Up (2nd Place)
+Shruti Sharma,121158847,Hackerearth AI Challenge,National,Online,Team Big Titans,Runner Up (2nd Place)
+Manasi Bansal,122140527,Flipkart GRiD,National,Offline,Team Polymer Titans,Top 10 Finalist
+Suyash Sawant,122182771,Barclays Hackathon,Corporate,Offline,Team Process Titans,Finalist
+Aditya Mehta,124148521,Flipkart GRiD,National,Offline,Team Reinforcement Titans,Runner Up (2nd Place)
+Chinmay Shinde,122126209,Melange Innovation Challenge,College,Hybrid,Team Process Titans,Finalist
+Bhakti Shetty,122139710,MindSpark Pune,State,Online,Team Robotics Titans,Runner Up (2nd Place)
+Kunal Deshmukh,121162376,HackVIT Pune,College,Online,Team Edge Titans,Top 10 Finalist
+Tejas Mehta,121166281,Flipkart GRiD,National,Online,Team Information Titans,Special Mention Award
+Rohan Mane,124115567,Smart India Hackathon (SIH),National,Offline,Team Natural Titans,Winner (1st Place)
+Radhika Ingale,121159671,Hackerearth AI Challenge,National,Hybrid,Team Edge Titans,Special Mention Award
+Siddharth Chavan,124148507,Flipkart GRiD,National,Online,Team Predictive Titans,Runner Up (2nd Place)
+Mrunal Pawar,123116727,Smart India Hackathon (SIH),National,Hybrid,Team IoT Titans,Finalist
+Mrunal Agarwal,124174192,Smart India Hackathon (SIH),National,Online,Team Water Titans,Runner Up (2nd Place)
+Gauri Shinde,124167431,Melange Innovation Challenge,College,Offline,Team Signal Titans,Finalist
+Akanksha Chopra,122121565,Hackerearth AI Challenge,National,Online,Team Green Titans,Special Mention Award
+Yash Kulkarni,124156749,HackVIT Pune,College,Online,Team Blockchain Titans,Runner Up (2nd Place)
+Isha Gaikwad,124190395,ACM-ICPC Regional Prelims,National,Online,Team Generative Titans,Special Mention Award
+Tejas Patil,123168112,HackVIT Pune,College,Hybrid,Team Thermal Titans,Winner (1st Place)
+Mrunal Sawant,121186715,ACM-ICPC Regional Prelims,National,Offline,Team Wireless Titans,Runner Up (2nd Place)
+Chinmay Iyer,122133150,MindSpark Pune,State,Online,Team Computational Titans,Finalist
+Sneha Malhotra,121163211,Barclays Hackathon,Corporate,Offline,Team Natural Titans,Winner (1st Place)
+Sneha Mane,122136812,Kavach Cybersecurity Hackathon,National,Online,Team Embedded Titans,Winner (1st Place)
+Kavya Gupta,121198595,Hackerearth AI Challenge,National,Online,Team Computational Titans,Special Mention Award
+Suyash Iyer,124190632,Smart India Hackathon (SIH),National,Offline,Team Electric Titans,Runner Up (2nd Place)
+Manasi Kadam,123110298,Smart India Hackathon (SIH),National,Offline,Team Polymer Titans,Special Mention Award
+Yash Gupta,122188918,Barclays Hackathon,Corporate,Offline,Team Smart Titans,Special Mention Award
+Rohan Bhosale,122191111,ACM-ICPC Regional Prelims,National,Hybrid,Team Predictive Titans,Winner (1st Place)
+Prathamesh Shah,123174407,Barclays Hackathon,Corporate,Online,Team DevOps Titans,Top 10 Finalist
+Aditya Agarwal,122153438,Flipkart GRiD,National,Hybrid,Team Information Titans,Winner (1st Place)
+Yash Bansal,123150822,ACM-ICPC Regional Prelims,National,Online,Team Process Titans,Runner Up (2nd Place)
+Tanmay Mane,122157214,ACM-ICPC Regional Prelims,National,Offline,Team Generative Titans,Winner (1st Place)
+Radhika Joshi,123197145,Flipkart GRiD,National,Offline,Team DevOps Titans,Runner Up (2nd Place)
+Atharva Bhosale,121176205,Tata Crucible Hackathon,National,Online,Team Edge Titans,Winner (1st Place)
+Shubham Pawar,121189115,MindSpark Pune,State,Hybrid,Team Deep Titans,Runner Up (2nd Place)
+Sayali Deshmukh,121196582,HackVIT Pune,College,Offline,Team Information Titans,Top 10 Finalist
+Siddharth Kulkarni,124186283,Kavach Cybersecurity Hackathon,National,Online,Team Edge Titans,Winner (1st Place)
+Sayali Iyer,123135440,Smart India Hackathon (SIH),National,Hybrid,Team Reinforcement Titans,Finalist
+Gauri Kulkarni,124126681,Hackerearth AI Challenge,National,Online,Team Smart Titans,Winner (1st Place)
+Mrunal Bansal,123154886,Tata Crucible Hackathon,National,Online,Team Distributed Titans,Top 10 Finalist
+Vaishnavi Joshi,121181433,Smart India Hackathon (SIH),National,Hybrid,Team VLSI Titans,Winner (1st Place)
+Gauri Wagh,124189344,MindSpark Pune,State,Online,Team IoT Titans,Winner (1st Place)
+Omkar Agarwal,122161415,Melange Innovation Challenge,College,Online,Team Embedded Titans,Top 10 Finalist
+Bhakti Mehta,124173435,ACM-ICPC Regional Prelims,National,Offline,Team Industrial Titans,Winner (1st Place)
+Atharva Chavan,122191694,Tata Crucible Hackathon,National,Offline,Team Biomedical Titans,Finalist
+Tanmay Sharma,123196683,MindSpark Pune,State,Offline,Team Computer Titans,Finalist
+Gaurav Deshmukh,121181100,Barclays Hackathon,Corporate,Hybrid,Team Predictive Titans,Special Mention Award
+Yash Bansal,121165340,ACM-ICPC Regional Prelims,National,Offline,Team Computer Titans,Top 10 Finalist
+Varun Tambe,122159668,Hackerearth AI Challenge,National,Hybrid,Team Web Titans,Runner Up (2nd Place)
+Shreya Agarwal,124138463,Smart India Hackathon (SIH),National,Offline,Team Wireless Titans,Runner Up (2nd Place)
+Aarav Shetty,122174829,Hackerearth AI Challenge,National,Offline,Team Wireless Titans,Special Mention Award
+Mrunal Mane,121170351,Melange Innovation Challenge,College,Online,Team Blockchain Titans,Special Mention Award
+Mrunal Mane,123155531,Barclays Hackathon,Corporate,Offline,Team VLSI Titans,Runner Up (2nd Place)
+Gaurav Pawar,123182844,Kavach Cybersecurity Hackathon,National,Hybrid,Team Blockchain Titans,Winner (1st Place)
+Aditi Shetty,121147772,Kavach Cybersecurity Hackathon,National,Online,Team Microservices Titans,Winner (1st Place)
+Prathamesh Shinde,123142381,Kavach Cybersecurity Hackathon,National,Hybrid,Team Robotics Titans,Special Mention Award
+Sneha Kulkarni,122173957,MindSpark Pune,State,Offline,Team Information Titans,Top 10 Finalist
+Shruti Tambe,124178864,ACM-ICPC Regional Prelims,National,Hybrid,Team Reinforcement Titans,Special Mention Award
+Tejas Mane,122180420,Flipkart GRiD,National,Hybrid,Team Deep Titans,Special Mention Award
+Mrunal Malhotra,124195808,Hackerearth AI Challenge,National,Online,Team Predictive Titans,Runner Up (2nd Place)
+Prathamesh Pawar,121117383,Kavach Cybersecurity Hackathon,National,Hybrid,Team Process Titans,Top 10 Finalist
+Tanmay Iyer,121143552,ACM-ICPC Regional Prelims,National,Offline,Team Process Titans,Finalist
+Pranav Shetty,123167895,Hackerearth AI Challenge,National,Online,Team Polymer Titans,Special Mention Award
+Pranav Ingale,121198493,MindSpark Pune,State,Offline,Team Information Titans,Winner (1st Place)
+Yash Shetty,123197441,Melange Innovation Challenge,College,Online,Team Robotics Titans,Runner Up (2nd Place)
+Tejas Pawar,121194493,ACM-ICPC Regional Prelims,National,Hybrid,Team Thermal Titans,Winner (1st Place)
+Omkar Nair,123120598,Smart India Hackathon (SIH),National,Hybrid,Team Polymer Titans,Top 10 Finalist
+Tejas Shinde,122185125,HackVIT Pune,College,Online,Team Full Titans,Top 10 Finalist
+Aditya Deshmukh,121115445,Tata Crucible Hackathon,National,Offline,Team Generative Titans,Runner Up (2nd Place)
+Radhika Wagh,122184858,Melange Innovation Challenge,College,Hybrid,Team Process Titans,Special Mention Award
+Rohan Gupta,124112769,ACM-ICPC Regional Prelims,National,Online,Team Microservices Titans,Runner Up (2nd Place)
+Omkar Wagh,122185955,Hackerearth AI Challenge,National,Offline,Team Robotics Titans,Finalist
+Manasi Sutar,122172116,MindSpark Pune,State,Hybrid,Team Industrial Titans,Special Mention Award
+Aditi Verma,122191246,Hackerearth AI Challenge,National,Offline,Team Information Titans,Top 10 Finalist
+Atharva Nair,123163456,MindSpark Pune,State,Online,Team Biomedical Titans,Finalist
+Tejas Joshi,121156733,Hackerearth AI Challenge,National,Online,Team Mechatronics Titans,Special Mention Award
+Vaishnavi Kadam,122116383,Barclays Hackathon,Corporate,Hybrid,Team IoT Titans,Winner (1st Place)
+Gaurav Chavan,123188442,Hackerearth AI Challenge,National,Online,Team Signal Titans,Top 10 Finalist
+Rohan Joshi,121132650,MindSpark Pune,State,Offline,Team Process Titans,Special Mention Award
+Sakshi Mane,121166340,Kavach Cybersecurity Hackathon,National,Offline,Team Cloud Titans,Finalist
+Sakshi Deshmukh,122188321,MindSpark Pune,State,Offline,Team Signal Titans,Special Mention Award
+Sneha Shinde,121127387,Hackerearth AI Challenge,National,Online,Team Full Titans,Winner (1st Place)
+Tanmay Shetty,124111385,Melange Innovation Challenge,College,Offline,Team Edge Titans,Winner (1st Place)
+Shubham Malhotra,121115527,ACM-ICPC Regional Prelims,National,Online,Team Thermal Titans,Top 10 Finalist
+Vaishnavi Deshmukh,124199590,Smart India Hackathon (SIH),National,Offline,Team Signal Titans,Top 10 Finalist
+Sakshi Kadam,121162809,HackVIT Pune,College,Offline,Team Natural Titans,Runner Up (2nd Place)
+Mrunal Bansal,121169565,Smart India Hackathon (SIH),National,Offline,Team Thermal Titans,Winner (1st Place)
+Varun Shah,123169741,Smart India Hackathon (SIH),National,Hybrid,Team Industrial Titans,Finalist
+Pranav Sutar,123114643,ACM-ICPC Regional Prelims,National,Offline,Team Computational Titans,Finalist
+Manasi Ingale,122197906,Barclays Hackathon,Corporate,Offline,Team CAD/CAM Titans,Special Mention Award
+Siddharth Mane,123124152,ACM-ICPC Regional Prelims,National,Online,Team Polymer Titans,Top 10 Finalist
+Shreya Verma,122152241,Kavach Cybersecurity Hackathon,National,Offline,Team Industrial Titans,Finalist
+Aditi Gupta,122138871,Tata Crucible Hackathon,National,Online,Team Process Titans,Top 10 Finalist
+Sakshi Mane,121178581,Smart India Hackathon (SIH),National,Hybrid,Team Mechatronics Titans,Top 10 Finalist
+Tanmay Mane,121163400,MindSpark Pune,State,Hybrid,Team Water Titans,Runner Up (2nd Place)
+Suyash Tambe,124192554,Hackerearth AI Challenge,National,Offline,Team Generative Titans,Top 10 Finalist
+Pooja Pawar,121150781,Flipkart GRiD,National,Offline,Team Distributed Titans,Top 10 Finalist
+Gauri Mane,123147585,Melange Innovation Challenge,College,Offline,Team NLP Titans,Runner Up (2nd Place)
+Shubham Shah,124198446,HackVIT Pune,College,Offline,Team Thermal Titans,Finalist
+Rohan Shinde,121113415,MindSpark Pune,State,Offline,Team Green Titans,Finalist
+Radhika Kadam,123112300,Tata Crucible Hackathon,National,Hybrid,Team Smart Titans,Winner (1st Place)

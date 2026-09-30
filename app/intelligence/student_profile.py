@@ -38,6 +38,7 @@ def build_student_360(prn_or_roll_no: str) -> dict:
     student_name = ""
     branch = ""
     year = ""
+    cgpa = None
 
     for dataset in list_datasets():
         grouped[dataset["id"]] = {
@@ -56,6 +57,13 @@ def build_student_360(prn_or_roll_no: str) -> dict:
         branch = branch or row.get("Branch", "")
         year = year or row.get("Year", "")
 
+        # Pick up CGPA from students_master (lowercase 'cgpa' column)
+        if cgpa is None and row.get("cgpa"):
+            try:
+                cgpa = float(row["cgpa"])
+            except (ValueError, TypeError):
+                cgpa = row["cgpa"]
+
         domain_counter.update(_record_domains(row))
         for column in ("Company_Name", "Internship_Company_Name"):
             if row.get(column):
@@ -71,6 +79,7 @@ def build_student_360(prn_or_roll_no: str) -> dict:
         "student_name": student_name,
         "branch": branch,
         "year": year,
+        "cgpa": cgpa,
         "total_records": achievement_count,
         "strongest_domains": strongest_domains,
         "top_companies": [item for item, _ in company_counter.most_common(5)],

@@ -22,8 +22,42 @@ def _keyword_overlap(requirement: str, evidence_text: str) -> int:
     return len(_tokens(requirement) & _tokens(evidence_text))
 
 
-def recommend_students(requirement: str, top_k: int = 5) -> dict:
+def recommend_students(
+    requirement: str,
+    top_k: int = 5,
+    branch: str = "",
+    year: str = "",
+    min_cgpa: float | None = None,
+    domain: str = "",
+) -> dict:
     grouped = defaultdict(lambda: {"evidence": [], "raw_score": 0.0})
+
+    # --- Build a set of PRNs that satisfy hard filters from students_master ---
+    allowed_prns: set[str] | None = None
+    try:
+        from app.datasets.service import get_dataset
+        master = get_dataset("students_master")
+        master_rows = read_dataset_rows(master)
+        filtered_rows = []
+        for row in master_rows:
+            if branch and row.get("branch_code", "").upper() != branch.upper():
+                # also try partial match on branch name
+                if branch.upper() not in row.get("branch", "").upper():
+                    continue
+            if year and row.get("year", "").upper() != year.upper():
+                continue
+            if min_cgpa is not None:
+                try:
+                    if float(row.get("cgpa", 0)) < min_cgpa:
+                        continue
+                except (ValueError, TypeError):
+                    continue
+            if domain and domain.lower() not in row.get("primary_domain", "").lower():
+                continue
+            filtered_rows.append(row)
+        allowed_prns = {r["PRN_or_Roll_No"] for r in filtered_rows}
+    except Exception:
+        allowed_prns = None  # if master unavailable, don't filter
 
     for dataset in list_datasets():
         try:
@@ -40,6 +74,9 @@ def recommend_students(requirement: str, top_k: int = 5) -> dict:
         for rank, hit in enumerate(hits, start=1):
             prn = hit.get("PRN_or_Roll_No", "")
             if not prn:
+                continue
+            # Skip students that don't meet hard-filter criteria
+            if allowed_prns is not None and prn not in allowed_prns:
                 continue
 
             source_row = rows_by_prn.get(prn, hit)
@@ -77,6 +114,7 @@ def recommend_students(requirement: str, top_k: int = 5) -> dict:
                 "prn_or_roll_no": prn,
                 "branch": profile["branch"],
                 "year": profile["year"],
+                "cgpa": profile.get("cgpa"),
                 "score": total_score,
                 "suggested_career_track": profile["suggested_career_track"],
                 "strongest_domains": profile["strongest_domains"],
@@ -89,6 +127,12 @@ def recommend_students(requirement: str, top_k: int = 5) -> dict:
     return {
         "requirement": requirement,
         "recommendations": recommendations[:top_k],
+        "filters_applied": {
+            "branch": branch or None,
+            "year": year or None,
+            "min_cgpa": min_cgpa,
+            "domain": domain or None,
+        },
     }
 
 

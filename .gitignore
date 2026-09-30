@@ -23,7 +23,7 @@ env/
 *.sqlite
 *.sqlite3
 
-# Generated vector indexes
+# Generated vector indexes (rebuild via scripts/ingest_all.py)
 data/vector_store/
 
 # Local binaries and archives
@@ -33,6 +33,13 @@ ngrok.zip
 # OS/editor files
 .DS_Store
 Thumbs.db
-.vscode/
-.idea/
 
+# Node
+frontend/node_modules/
+node_modules/
+
+# Frontend build output (built from source)
+frontend/dist/
+
+# Scratch test scripts
+test_*.py

@@ -11,6 +11,8 @@ def test_all_configured_datasets_are_readable():
         "hackathons",
         "certifications",
         "research_papers",
+        "patents_and_copyrights",
+        "students_master",
     }
     assert all(read_dataset_rows(dataset) for dataset in datasets)
 

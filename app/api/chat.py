@@ -7,7 +7,7 @@ from sqlalchemy.orm import Session
 from app.api import search as search_api
 from app.datasets.service import search_dataset
 from app.database.session import get_db
-from app.rag.generator import generate_answer
+from app.rag.generator import generate_answer, generate_conversational_response
 from app.rag.retriever import retrieve
 from app.router.intent import classify_intent
 from app.tickets.service import create_ticket
@@ -51,15 +51,44 @@ def _dataset_search_response(intent: str, message: str) -> dict:
         result = search_dataset(dataset_id, message, top_k=5)
         all_results.extend(result.get("results", []))
 
-    chunks = [
-        {
-            "source": item.get("dataset_label", ""),
-            "page": "1",
-            "text": ". ".join(f"{key}: {value}" for key, value in item.items() if value not in ("", None)),
-        }
-        for item in all_results[:5]
-    ]
-    answer = generate_answer(message, chunks).get("answer", "") if chunks else ""
+    if not all_results:
+        answer = f"I searched the {intent.replace('_', ' ')} records for '{message}', but couldn't find matching records. Try broader keywords or search the **Talent** / **Research** tabs above."
+    else:
+        items_summary = []
+        for i, item in enumerate(all_results[:5], 1):
+            title = (
+                item.get("Project_Title") 
+                or item.get("Paper_Title") 
+                or item.get("Hackathon_Name") 
+                or item.get("Certification_Title") 
+                or item.get("Internship_Role") 
+                or item.get("Title") 
+                or "Project/Record"
+            )
+            student = item.get("Student_Name", "")
+            prn = item.get("PRN_or_Roll_No", "")
+            org = (
+                item.get("Company_Name") 
+                or item.get("Internship_Company_Name") 
+                or item.get("Platform_or_Provider") 
+                or item.get("Venue_Name") 
+                or item.get("Team_Name") 
+                or ""
+            )
+            domain = item.get("Project_Domain") or item.get("Paper_Domain") or item.get("Domain") or item.get("Certification_Domain") or ""
+            
+            line = f"**{i}. {title}**"
+            meta = []
+            if student: meta.append(f"Student: *{student}* (PRN: {prn})")
+            if org: meta.append(f"Org/Venue: *{org}*")
+            if domain: meta.append(f"Domain: *{domain}*")
+            items_summary.append(f"{line}\n   - " + " | ".join(meta))
+
+        answer = (
+            f"Here are the top verified records matching **'{message}'**:\n\n"
+            + "\n\n".join(items_summary)
+            + f"\n\n*(Showing top {min(len(all_results), 5)} matches. Click the **Student 360 & Portfolio** tab to view complete portfolios.)*"
+        )
 
     return {
         "type": intent,
@@ -79,13 +108,24 @@ def chat(req: ChatRequest, db: Session = Depends(get_db)):
         logger.exception("Intent classification failed")
         intent = "policy_question"
 
+    if intent == "greeting":
+        answer = generate_conversational_response(req.message, intent="greeting")
+        return {
+            "type": "greeting",
+            "message": "Welcome to VIT Pune AI Copilot.",
+            "data": [],
+            "answer": answer,
+            "citations": [],
+            "ticket_id": None,
+        }
+
     if intent == "policy_question":
         try:
-            chunks = retrieve(req.message, top_k=3)
+            chunks = retrieve(req.message, top_k=8)
             result = generate_answer(req.message, chunks)
             return {
                 "type": "answer",
-                "message": "Here is the policy answer.",
+                "message": "Here is the information from official VIT Pune documents.",
                 "data": [],
                 "answer": result.get("answer", ""),
                 "citations": result.get("citations", []),
@@ -102,7 +142,8 @@ def chat(req: ChatRequest, db: Session = Depends(get_db)):
             return response
         except Exception:
             logger.exception("Policy question failed")
-            return _error_response("answer", "Could not answer this policy question right now.")
+            return _error_response("answer", "Could not answer this question right now.")
+
 
     if intent == "complaint":
         try:

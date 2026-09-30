@@ -1,101 +1,679 @@
 Student_Name,PRN_or_Roll_No,Branch,Year,Company_Name,Project_Title,Project_Domain,Project_Start_Date,Project_End_Date
-Tanvi Joshi,PRN214108603,IT,SE,TechNova Pvt Ltd,Attendance Tracker App,Web Development,2/21/2023,8/17/2023
-Aarav Sharma,PRN213668136,IT,BE,NextGen Systems,Smart Campus Portal,Android,3/7/2023,5/14/2025
-Karan Reddy,PRN219886237,ENTC,SE,InnoSoft Solutions,Secure File Storage,IoT,2/12/2024,5/9/2025
-Karan Deshmukh,PRN211714803,CSE,TE,TechNova Pvt Ltd,IoT Based Home Automation,IoT,11/15/2023,7/23/2024
-Tanvi Reddy,PRN218996414,CSE,TE,TechNova Pvt Ltd,Attendance Tracker App,IoT,3/30/2023,6/25/2024
-Tanvi Sharma,PRN210768805,IT,TE,TechNova Pvt Ltd,Sales Prediction System,Web Development,1/29/2024,1/10/2025
-Rohit Deshmukh,PRN212728882,ENTC,TE,InnoSoft Solutions,IoT Based Home Automation,Web Development,7/23/2024,2/17/2025
-Tanvi Kulkarni,PRN212741438,Mechanical,TE,DataSphere Labs,Attendance Tracker App,Machine Learning,12/17/2023,12/29/2025
-Karan Patil,PRN215292423,Mechanical,TE,TechNova Pvt Ltd,Sales Prediction System,Android,4/25/2023,10/26/2024
-Rahul Reddy,PRN216637601,Mechanical,SE,DataSphere Labs,Sales Prediction System,Machine Learning,3/11/2024,10/6/2024
-Siddhi Gupta,PRN216073292,IT,SE,NextGen Systems,Secure File Storage,Web Development,6/22/2024,5/27/2025
-Aditya Verma,PRN217082668,Electrical,SE,CodeCrafters,Secure File Storage,Android,4/7/2023,8/13/2023
-Priya Nair,PRN210192619,CSE,BE,NextGen Systems,IoT Based Home Automation,IoT,8/16/2025,12/19/2025
-Isha Verma,PRN217612220,CSE,BE,DataSphere Labs,Attendance Tracker App,Machine Learning,8/17/2023,8/24/2024
-Rahul Joshi,PRN218517169,Electrical,SE,InnoSoft Solutions,IoT Based Home Automation,Machine Learning,8/6/2023,11/5/2025
-Siddhi Deshmukh,PRN218197443,CSE,SE,DataSphere Labs,IoT Based Home Automation,Machine Learning,1/2/2023,12/22/2025
-Siddhi Sharma,PRN211437026,Mechanical,SE,NextGen Systems,Sales Prediction System,Machine Learning,4/29/2023,5/8/2024
-Priya Nair,PRN217099076,IT,BE,InnoSoft Solutions,IoT Based Home Automation,Cybersecurity,12/5/2023,8/31/2025
-Neha Reddy,PRN212030113,IT,SE,TechNova Pvt Ltd,IoT Based Home Automation,Web Development,2/3/2025,6/16/2025
-Aarav Sharma,PRN210987737,IT,SE,TechNova Pvt Ltd,IoT Based Home Automation,Web Development,3/27/2024,4/16/2024
-Priya Reddy,PRN213594297,Electrical,SE,NextGen Systems,Attendance Tracker App,Cybersecurity,5/2/2024,11/18/2025
-Isha Kulkarni,PRN211582524,CSE,BE,CodeCrafters,IoT Based Home Automation,Cybersecurity,5/12/2024,8/26/2025
-Tanvi Patil,PRN211651177,CSE,TE,DataSphere Labs,Smart Campus Portal,Machine Learning,4/21/2025,8/14/2025
-Neha Reddy,PRN212351868,Mechanical,SE,DataSphere Labs,Secure File Storage,Machine Learning,1/25/2024,1/28/2024
-Neha Sharma,PRN210848731,Electrical,SE,TechNova Pvt Ltd,Sales Prediction System,Machine Learning,6/4/2023,6/26/2025
-Rohit Kulkarni,PRN216728339,CSE,SE,CodeCrafters,Smart Campus Portal,Cybersecurity,4/12/2025,9/21/2025
-Priya Gupta,PRN219324245,Mechanical,SE,InnoSoft Solutions,IoT Based Home Automation,Machine Learning,6/27/2024,7/20/2025
-Tanvi Deshmukh,PRN210959074,CSE,BE,CodeCrafters,Attendance Tracker App,Android,4/30/2023,5/5/2023
-Neha Sharma,PRN213117625,CSE,BE,TechNova Pvt Ltd,Sales Prediction System,Cybersecurity,4/27/2023,11/19/2023
-Siddhi Singh,PRN210666754,Electrical,SE,CodeCrafters,Attendance Tracker App,Android,9/3/2023,5/19/2024
-Priya Kulkarni,PRN215271130,IT,TE,CodeCrafters,Sales Prediction System,IoT,10/9/2024,12/6/2025
-Vivaan Patil,PRN217688755,Electrical,BE,TechNova Pvt Ltd,Smart Campus Portal,Android,10/9/2024,7/25/2025
-Priya Verma,PRN215855396,CSE,SE,DataSphere Labs,IoT Based Home Automation,Machine Learning,3/12/2024,11/2/2025
-Siddhi Nair,PRN210131249,Electrical,TE,TechNova Pvt Ltd,Sales Prediction System,IoT,9/11/2024,6/16/2025
-Tanvi Nair,PRN212607983,ENTC,TE,NextGen Systems,Sales Prediction System,IoT,8/8/2023,8/25/2023
-Neha Reddy,PRN214213115,CSE,SE,CodeCrafters,IoT Based Home Automation,Web Development,2/21/2024,6/24/2024
-Aditya Joshi,PRN212710895,Mechanical,BE,CodeCrafters,Attendance Tracker App,Web Development,1/8/2023,11/14/2024
-Tanvi Verma,PRN219153486,CSE,TE,NextGen Systems,Attendance Tracker App,Machine Learning,6/4/2023,8/18/2023
-Aarav Joshi,PRN216117837,CSE,TE,InnoSoft Solutions,Sales Prediction System,Web Development,9/19/2023,5/30/2025
-Siddhi Verma,PRN213971793,IT,SE,CodeCrafters,Smart Campus Portal,Machine Learning,12/25/2024,4/12/2025
-Rahul Kulkarni,PRN214476257,IT,BE,TechNova Pvt Ltd,Secure File Storage,Web Development,11/11/2024,4/23/2025
-Karan Reddy,PRN215866294,ENTC,SE,InnoSoft Solutions,Smart Campus Portal,Machine Learning,3/31/2024,8/21/2025
-Priya Sharma,PRN214682940,ENTC,BE,NextGen Systems,Secure File Storage,Android,11/3/2024,3/27/2025
-Vivaan Joshi,PRN212995870,Electrical,TE,TechNova Pvt Ltd,Smart Campus Portal,Android,2/26/2023,11/9/2024
-Tanvi Deshmukh,PRN217321474,Electrical,BE,TechNova Pvt Ltd,Secure File Storage,Android,12/8/2024,6/8/2025
-Aarav Gupta,PRN210028374,Electrical,BE,InnoSoft Solutions,IoT Based Home Automation,Cybersecurity,1/25/2024,6/5/2024
-Siddhi Deshmukh,PRN212090865,ENTC,BE,DataSphere Labs,Secure File Storage,IoT,5/24/2023,11/7/2024
-Neha Verma,PRN213218542,Mechanical,BE,CodeCrafters,Sales Prediction System,Android,8/28/2024,4/4/2025
-Neha Patil,PRN215098175,ENTC,SE,CodeCrafters,Attendance Tracker App,Android,9/8/2024,4/11/2025
-Rohit Reddy,PRN213585314,Electrical,TE,InnoSoft Solutions,Smart Campus Portal,IoT,10/21/2024,8/10/2025
-Vivaan Kulkarni,PRN215207974,IT,SE,InnoSoft Solutions,Smart Campus Portal,Web Development,11/17/2024,11/21/2025
-Siddhi Sharma,PRN217640615,Mechanical,BE,NextGen Systems,Sales Prediction System,Cybersecurity,5/16/2024,8/31/2025
-Karan Verma,PRN210093026,CSE,TE,InnoSoft Solutions,Sales Prediction System,Android,3/29/2025,10/9/2025
-Neha Kulkarni,PRN212036059,Mechanical,SE,CodeCrafters,Attendance Tracker App,Android,4/13/2023,8/9/2025
-Siddhi Nair,PRN217159521,Electrical,TE,InnoSoft Solutions,Secure File Storage,Cybersecurity,10/11/2024,6/25/2025
-Rahul Joshi,PRN218745959,Mechanical,BE,InnoSoft Solutions,IoT Based Home Automation,Cybersecurity,5/21/2024,6/14/2024
-Karan Joshi,PRN215634586,ENTC,BE,TechNova Pvt Ltd,Sales Prediction System,Machine Learning,6/8/2023,8/8/2024
-Tanvi Verma,PRN213589533,CSE,TE,CodeCrafters,IoT Based Home Automation,Android,4/18/2024,2/23/2025
-Aarav Kulkarni,PRN217048838,Mechanical,BE,TechNova Pvt Ltd,Attendance Tracker App,Cybersecurity,5/1/2025,8/12/2025
-Sneha Joshi,PRN216542890,Mechanical,BE,NextGen Systems,Attendance Tracker App,Machine Learning,1/13/2023,9/3/2025
-Priya Gupta,PRN218147720,CSE,TE,DataSphere Labs,Secure File Storage,Machine Learning,3/25/2024,9/26/2025
-Siddhi Nair,PRN210452421,Mechanical,BE,NextGen Systems,Smart Campus Portal,Web Development,9/19/2023,8/15/2025
-Rohit Verma,PRN210843636,ENTC,TE,DataSphere Labs,Sales Prediction System,Cybersecurity,10/5/2023,5/27/2025
-Isha Joshi,PRN217072684,ENTC,SE,CodeCrafters,Smart Campus Portal,Android,10/31/2024,11/22/2024
-Karan Sharma,PRN210675419,CSE,SE,InnoSoft Solutions,Smart Campus Portal,Android,4/17/2023,12/17/2024
-Aditya Reddy,PRN211919136,Electrical,SE,CodeCrafters,IoT Based Home Automation,IoT,11/9/2023,5/3/2024
-Aditya Joshi,PRN211813596,Electrical,SE,DataSphere Labs,Attendance Tracker App,Cybersecurity,8/23/2023,12/10/2023
-Vivaan Singh,PRN214074336,CSE,BE,DataSphere Labs,Attendance Tracker App,Web Development,2/11/2024,3/23/2025
-Neha Gupta,PRN216217147,CSE,BE,DataSphere Labs,Smart Campus Portal,Cybersecurity,3/26/2023,12/12/2024
-Isha Deshmukh,PRN217713146,IT,TE,InnoSoft Solutions,Attendance Tracker App,IoT,8/5/2023,9/30/2025
-Isha Singh,PRN214502929,ENTC,SE,TechNova Pvt Ltd,IoT Based Home Automation,Cybersecurity,8/10/2025,9/17/2025
-Siddhi Singh,PRN216358385,ENTC,SE,CodeCrafters,IoT Based Home Automation,Machine Learning,5/14/2024,8/9/2025
-Sneha Joshi,PRN215709938,ENTC,BE,DataSphere Labs,Attendance Tracker App,Web Development,3/10/2024,9/25/2025
-Vivaan Kulkarni,PRN216818732,Mechanical,BE,InnoSoft Solutions,Secure File Storage,Cybersecurity,1/27/2024,11/24/2025
-Vivaan Joshi,PRN213717770,Mechanical,BE,InnoSoft Solutions,IoT Based Home Automation,Android,2/5/2023,7/6/2025
-Neha Nair,PRN215767292,Mechanical,BE,NextGen Systems,IoT Based Home Automation,IoT,1/25/2025,8/27/2025
-Priya Joshi,PRN213867786,CSE,BE,InnoSoft Solutions,IoT Based Home Automation,Web Development,7/8/2024,7/18/2025
-Karan Reddy,PRN214638893,Electrical,BE,NextGen Systems,IoT Based Home Automation,Web Development,1/15/2024,1/28/2024
-Karan Deshmukh,PRN213010529,ENTC,SE,NextGen Systems,Sales Prediction System,IoT,2/2/2024,8/29/2024
-Neha Joshi,PRN212118618,Mechanical,SE,TechNova Pvt Ltd,Attendance Tracker App,IoT,4/4/2023,4/22/2023
-Rohit Deshmukh,PRN213093109,CSE,TE,CodeCrafters,Smart Campus Portal,Web Development,8/19/2025,9/7/2025
-Vivaan Singh,PRN210899411,IT,SE,NextGen Systems,IoT Based Home Automation,Web Development,3/31/2025,10/4/2025
-Neha Gupta,PRN213786401,Electrical,TE,CodeCrafters,Secure File Storage,IoT,8/31/2023,5/23/2024
-Siddhi Singh,PRN211010496,Electrical,BE,TechNova Pvt Ltd,Sales Prediction System,Machine Learning,9/17/2024,5/28/2025
-Aditya Kulkarni,PRN212916107,Electrical,SE,InnoSoft Solutions,Smart Campus Portal,Cybersecurity,6/16/2023,6/25/2024
-Priya Patil,PRN213883526,ENTC,BE,DataSphere Labs,Secure File Storage,Web Development,7/11/2025,8/20/2025
-Rahul Singh,PRN213318855,Mechanical,SE,NextGen Systems,Sales Prediction System,Machine Learning,4/23/2024,6/25/2024
-Vivaan Patil,PRN212783722,ENTC,BE,NextGen Systems,IoT Based Home Automation,Cybersecurity,10/19/2023,6/28/2024
-Tanvi Joshi,PRN216752972,ENTC,BE,NextGen Systems,Secure File Storage,Cybersecurity,9/12/2023,8/17/2025
-Isha Deshmukh,PRN214200476,CSE,SE,InnoSoft Solutions,Attendance Tracker App,Android,3/23/2023,6/14/2023
-Siddhi Patil,PRN212939212,Mechanical,BE,CodeCrafters,IoT Based Home Automation,Machine Learning,2/12/2023,7/5/2024
-Vivaan Reddy,PRN215837817,Mechanical,TE,DataSphere Labs,Smart Campus Portal,Machine Learning,6/11/2025,10/4/2025
-Tanvi Reddy,PRN214835492,Mechanical,BE,TechNova Pvt Ltd,Secure File Storage,Web Development,11/6/2024,4/23/2025
-Sneha Sharma,PRN216780932,Electrical,SE,NextGen Systems,Secure File Storage,Cybersecurity,5/31/2024,10/6/2024
-Neha Deshmukh,PRN218363326,Mechanical,SE,InnoSoft Solutions,IoT Based Home Automation,Android,4/22/2023,1/20/2024
-Rohit Reddy,PRN212037191,CSE,BE,NextGen Systems,Sales Prediction System,Machine Learning,9/26/2023,8/12/2024
-Neha Gupta,PRN211563790,IT,SE,CodeCrafters,Smart Campus Portal,Machine Learning,1/29/2023,9/28/2024
-Neha Joshi,PRN216970771,Mechanical,TE,InnoSoft Solutions,Secure File Storage,Android,8/20/2024,10/17/2025
-Karan Singh,PRN218526867,IT,SE,DataSphere Labs,Secure File Storage,IoT,10/24/2023,2/24/2025
-Aarav Joshi,PRN215008935,Electrical,BE,CodeCrafters,Sales Prediction System,Cybersecurity,7/1/2024,11/5/2025
+Vaishnavi Iyer,122193833,Computer Engineering,TY,Rakuten,Full Stack Web Development System for Rakuten Operations,Full Stack Web Development,2025-04-15,2025-06-30
+Neha Bhosale,122153320,Artificial Intelligence & Data Science,TY,Tech Mahindra,Computer Vision System for Tech Operations,Computer Vision,2025-01-15,2025-07-30
+Gauri Joshi,121147665,Electronics & Telecommunication,BTECH,Siemens,Wireless Communication System for Siemens Operations,Wireless Communication,2025-03-15,2025-08-30
+Pooja Shetty,121194146,Information Technology,BTECH,Bajaj Auto,Web Engineering System for Bajaj Operations,Web Engineering,2025-01-15,2025-07-30
+Atharva Bansal,121145489,Information Technology,BTECH,Bajaj Auto,Web Engineering System for Bajaj Operations,Web Engineering,2025-03-15,2025-07-30
+Abhishek Jadhav,122144786,Artificial Intelligence & Data Science,TY,Tata Technologies,Reinforcement Learning System for Tata Operations,Reinforcement Learning,2025-01-15,2025-06-30
+Pranav Iyer,122141646,Chemical Engineering,TY,Tata Technologies,Polymer Technology System for Tata Operations,Polymer Technology,2025-04-15,2025-08-30
+Chinmay Malhotra,122151801,Chemical Engineering,TY,Mastercard,Process Automation System for Mastercard Operations,Process Automation,2025-02-15,2025-08-30
+Shruti Jadhav,122173621,Information Technology,TY,Tech Mahindra,Cloud Architecture System for Tech Operations,Cloud Architecture,2025-01-15,2025-06-30
+Yash Shinde,122197911,Chemical Engineering,TY,Tata Consultancy Services,Process Automation System for Tata Operations,Process Automation,2025-03-15,2025-08-30
+Neha Pawar,121143839,Electronics & Telecommunication,BTECH,Deutsche Bank,IoT & Sensor Networks System for Deutsche Operations,IoT & Sensor Networks,2025-01-15,2025-09-30
+Shubham Jadhav,122177652,Instrumentation Engineering,TY,Veritas Technologies,Process Control Systems System for Veritas Operations,Process Control Systems,2025-01-15,2025-08-30
+Kavya Kulkarni,124118935,Computer Engineering,FY,Cummins India,Cybersecurity System for Cummins Operations,Cybersecurity,2025-04-15,2025-09-30
+Neha Chavan,122149830,Mechanical Engineering,TY,Eaton Corporation,CAD/CAM & FEA System for Eaton Operations,CAD/CAM & FEA,2025-02-15,2025-06-30
+Aditya Shetty,122138702,Mechanical Engineering,TY,Mastercard,Robotics & Automation System for Mastercard Operations,Robotics & Automation,2025-04-15,2025-05-30
+Sakshi Chavan,122183840,Mechanical Engineering,TY,Mastercard,Electric Vehicles (EV) System for Mastercard Operations,Electric Vehicles (EV),2025-03-15,2025-08-30
+Aditi Shah,122122196,Electronics & Telecommunication,TY,PhonePe,VLSI Design System for PhonePe Operations,VLSI Design,2025-04-15,2025-06-30
+Neha Sawant,121193789,Electronics & Telecommunication,BTECH,Persistent Systems,Embedded Systems System for Persistent Operations,Embedded Systems,2025-01-15,2025-06-30
+Siddharth Sutar,123123919,Chemical Engineering,SY,L&T Technology Services,Green Energy & Biofuels System for L&T Operations,Green Energy & Biofuels,2025-01-15,2025-07-30
+Sayali Shah,121193151,Instrumentation Engineering,BTECH,L&T Technology Services,Industrial Automation (PLC/SCADA) System for L&T Operations,Industrial Automation (PLC/SCADA),2025-02-15,2025-05-30
+Atharva Malhotra,122162270,Instrumentation Engineering,TY,Nvidia,Biomedical Instrumentation System for Nvidia Operations,Biomedical Instrumentation,2025-03-15,2025-08-30
+Shruti Chopra,122110488,Computer Engineering,TY,Veritas Technologies,Cloud Computing System for Veritas Operations,Cloud Computing,2025-03-15,2025-09-30
+Akanksha Gupta,121150865,Mechanical Engineering,BTECH,Siemens,Mechatronics System for Siemens Operations,Mechatronics,2025-03-15,2025-08-30
+Aditi Mane,122175158,Instrumentation Engineering,TY,Nvidia,Biomedical Instrumentation System for Nvidia Operations,Biomedical Instrumentation,2025-03-15,2025-09-30
+Pranav Iyer,122125513,Computer Engineering,TY,Accenture,Cybersecurity System for Accenture Operations,Cybersecurity,2025-01-15,2025-07-30
+Harsh Shetty,121120734,Mechanical Engineering,BTECH,Cummins India,Mechatronics System for Cummins Operations,Mechatronics,2025-01-15,2025-06-30
+Kavya Mane,123195309,Artificial Intelligence & Data Science,SY,Eaton Corporation,Generative AI System for Eaton Operations,Generative AI,2025-03-15,2025-06-30
+Prathamesh Sutar,123150568,Information Technology,SY,Bajaj Auto,Cloud Architecture System for Bajaj Operations,Cloud Architecture,2025-04-15,2025-07-30
+Aarav Wagh,121178175,Mechanical Engineering,BTECH,Barclays,CAD/CAM & FEA System for Barclays Operations,CAD/CAM & FEA,2025-03-15,2025-07-30
+Suyash Malhotra,121157350,Artificial Intelligence & Data Science,BTECH,Rakuten,Computer Vision System for Rakuten Operations,Computer Vision,2025-01-15,2025-09-30
+Gauri Verma,121180783,Artificial Intelligence & Data Science,BTECH,Tata Consultancy Services,Reinforcement Learning System for Tata Operations,Reinforcement Learning,2025-02-15,2025-05-30
+Chinmay Gaikwad,122153834,Mechanical Engineering,TY,Cummins India,CAD/CAM & FEA System for Cummins Operations,CAD/CAM & FEA,2025-03-15,2025-07-30
+Vaishnavi Tambe,121191194,Artificial Intelligence & Data Science,BTECH,Mastercard,Predictive Analytics System for Mastercard Operations,Predictive Analytics,2025-03-15,2025-07-30
+Rohan Patil,122143752,Artificial Intelligence & Data Science,TY,Nvidia,Computer Vision System for Nvidia Operations,Computer Vision,2025-03-15,2025-06-30
+Shreya Verma,121119214,Electronics & Telecommunication,BTECH,Persistent Systems,Edge AI System for Persistent Operations,Edge AI,2025-02-15,2025-09-30
+Shubham Ingale,123180696,Computer Engineering,SY,L&T Technology Services,Natural Language Processing System for L&T Operations,Natural Language Processing,2025-04-15,2025-07-30
+Rohan Gaikwad,121136466,Artificial Intelligence & Data Science,BTECH,Cummins India,Reinforcement Learning System for Cummins Operations,Reinforcement Learning,2025-01-15,2025-06-30
+Omkar Jadhav,124129735,Instrumentation Engineering,FY,Infosys,Biomedical Instrumentation System for Infosys Operations,Biomedical Instrumentation,2025-02-15,2025-09-30
+Abhishek Shah,122113522,Instrumentation Engineering,TY,Tech Mahindra,Process Control Systems System for Tech Operations,Process Control Systems,2025-01-15,2025-08-30
+Isha Shah,122130373,Chemical Engineering,TY,Tata Technologies,Process Automation System for Tata Operations,Process Automation,2025-01-15,2025-05-30
+Tanvi Gaikwad,122113328,Instrumentation Engineering,TY,Persistent Systems,Smart Sensors & IoT System for Persistent Operations,Smart Sensors & IoT,2025-04-15,2025-07-30
+Sneha More,121145891,Instrumentation Engineering,BTECH,Mastercard,Smart Sensors & IoT System for Mastercard Operations,Smart Sensors & IoT,2025-03-15,2025-06-30
+Gauri Bhosale,121143998,Computer Engineering,BTECH,Tata Technologies,Cloud Computing System for Tata Operations,Cloud Computing,2025-03-15,2025-06-30
+Yash Sutar,122115360,Mechanical Engineering,TY,Persistent Systems,Robotics & Automation System for Persistent Operations,Robotics & Automation,2025-01-15,2025-06-30
+Radhika Malhotra,122165472,Instrumentation Engineering,TY,Eaton Corporation,Process Control Systems System for Eaton Operations,Process Control Systems,2025-02-15,2025-06-30
+Manasi Bhosale,121148837,Chemical Engineering,BTECH,Mastercard,Polymer Technology System for Mastercard Operations,Polymer Technology,2025-02-15,2025-06-30
+Ananya Sutar,123126667,Chemical Engineering,SY,Veritas Technologies,Polymer Technology System for Veritas Operations,Polymer Technology,2025-04-15,2025-05-30
+Varun Iyer,123180515,Mechanical Engineering,SY,L&T Technology Services,CAD/CAM & FEA System for L&T Operations,CAD/CAM & FEA,2025-04-15,2025-05-30
+Gaurav Chavan,123166576,Electronics & Telecommunication,SY,Barclays,IoT & Sensor Networks System for Barclays Operations,IoT & Sensor Networks,2025-01-15,2025-08-30
+Vaishnavi Tambe,122120774,Instrumentation Engineering,TY,Nvidia,Process Control Systems System for Nvidia Operations,Process Control Systems,2025-03-15,2025-05-30
+Atharva Agarwal,122149788,Instrumentation Engineering,TY,Veritas Technologies,Biomedical Instrumentation System for Veritas Operations,Biomedical Instrumentation,2025-03-15,2025-05-30
+Shubham Patil,122188586,Computer Engineering,TY,Nvidia,Computer Vision System for Nvidia Operations,Computer Vision,2025-01-15,2025-09-30
+Mrunal Sawant,122199835,Chemical Engineering,TY,Tata Consultancy Services,Polymer Technology System for Tata Operations,Polymer Technology,2025-02-15,2025-06-30
+Harsh Shinde,121123868,Chemical Engineering,BTECH,Bajaj Auto,Green Energy & Biofuels System for Bajaj Operations,Green Energy & Biofuels,2025-01-15,2025-05-30
+Varun Shah,124181151,Chemical Engineering,FY,Cognizant,Process Automation System for Cognizant Operations,Process Automation,2025-03-15,2025-07-30
+Mrunal Shinde,124177783,Instrumentation Engineering,FY,Rakuten,Process Control Systems System for Rakuten Operations,Process Control Systems,2025-02-15,2025-09-30
+Aditi Wagh,122191960,Artificial Intelligence & Data Science,TY,Nvidia,NLP & LLMs System for Nvidia Operations,NLP & LLMs,2025-01-15,2025-09-30
+Sakshi Nair,123119550,Information Technology,SY,Tata Consultancy Services,Distributed Systems System for Tata Operations,Distributed Systems,2025-03-15,2025-06-30
+Chinmay Bhosale,121129241,Artificial Intelligence & Data Science,BTECH,PhonePe,Reinforcement Learning System for PhonePe Operations,Reinforcement Learning,2025-01-15,2025-05-30
+Shubham Verma,121162524,Information Technology,BTECH,Tata Consultancy Services,Information Security System for Tata Operations,Information Security,2025-04-15,2025-07-30
+Kavya Sutar,121148460,Electronics & Telecommunication,BTECH,Cummins India,Signal Processing System for Cummins Operations,Signal Processing,2025-04-15,2025-05-30
+Gauri Gupta,122138599,Chemical Engineering,TY,Cummins India,Polymer Technology System for Cummins Operations,Polymer Technology,2025-03-15,2025-08-30
+Prathamesh Agarwal,124179119,Computer Engineering,FY,Tata Technologies,Cloud Computing System for Tata Operations,Cloud Computing,2025-01-15,2025-09-30
+Kunal Nair,121113872,Computer Engineering,BTECH,Eaton Corporation,Natural Language Processing System for Eaton Operations,Natural Language Processing,2025-04-15,2025-07-30
+Aditya Iyer,122170229,Information Technology,TY,Mastercard,Microservices System for Mastercard Operations,Microservices,2025-01-15,2025-05-30
+Tanmay Wagh,123157885,Chemical Engineering,SY,Nvidia,Water Treatment Systems System for Nvidia Operations,Water Treatment Systems,2025-04-15,2025-07-30
+Yash Mehta,122123418,Instrumentation Engineering,TY,Tata Technologies,Process Control Systems System for Tata Operations,Process Control Systems,2025-03-15,2025-08-30
+Kavya Sharma,124135832,Electronics & Telecommunication,FY,Siemens,Edge AI System for Siemens Operations,Edge AI,2025-03-15,2025-08-30
+Harsh Joshi,123197970,Chemical Engineering,SY,Veritas Technologies,Process Automation System for Veritas Operations,Process Automation,2025-04-15,2025-07-30
+Kavya Shah,123164645,Computer Engineering,SY,L&T Technology Services,Computer Vision System for L&T Operations,Computer Vision,2025-01-15,2025-08-30
+Vaishnavi Nair,121163969,Artificial Intelligence & Data Science,BTECH,Tata Technologies,Deep Learning System for Tata Operations,Deep Learning,2025-01-15,2025-05-30
+Neha Jadhav,124129824,Chemical Engineering,FY,Thermax,Water Treatment Systems System for Thermax Operations,Water Treatment Systems,2025-01-15,2025-06-30
+Chinmay Iyer,124165576,Instrumentation Engineering,FY,Tata Consultancy Services,Process Control Systems System for Tata Operations,Process Control Systems,2025-03-15,2025-06-30
+Ananya Bansal,121167385,Information Technology,BTECH,Tech Mahindra,Information Security System for Tech Operations,Information Security,2025-04-15,2025-05-30
+Kavya Iyer,124113444,Chemical Engineering,FY,Siemens,Computational Fluid Dynamics System for Siemens Operations,Computational Fluid Dynamics,2025-04-15,2025-07-30
+Chinmay Ingale,122140187,Computer Engineering,TY,Accenture,Full Stack Web Development System for Accenture Operations,Full Stack Web Development,2025-03-15,2025-08-30
+Chinmay Gaikwad,122134223,Artificial Intelligence & Data Science,TY,L&T Technology Services,Reinforcement Learning System for L&T Operations,Reinforcement Learning,2025-03-15,2025-06-30
+Gauri Mehta,122137296,Chemical Engineering,TY,Tata Technologies,Computational Fluid Dynamics System for Tata Operations,Computational Fluid Dynamics,2025-01-15,2025-05-30
+Akanksha Mehta,123134202,Mechanical Engineering,SY,L&T Technology Services,CAD/CAM & FEA System for L&T Operations,CAD/CAM & FEA,2025-02-15,2025-06-30
+Varun Gaikwad,122115380,Computer Engineering,TY,Persistent Systems,Cybersecurity System for Persistent Operations,Cybersecurity,2025-01-15,2025-05-30
+Aditi Wagh,122142152,Artificial Intelligence & Data Science,TY,L&T Technology Services,Computer Vision System for L&T Operations,Computer Vision,2025-01-15,2025-06-30
+Bhakti Iyer,122176894,Instrumentation Engineering,TY,Eaton Corporation,Smart Sensors & IoT System for Eaton Operations,Smart Sensors & IoT,2025-03-15,2025-09-30
+Omkar Mehta,122194370,Information Technology,TY,Veritas Technologies,Distributed Systems System for Veritas Operations,Distributed Systems,2025-04-15,2025-08-30
+Varun Ingale,122162102,Computer Engineering,TY,Tata Consultancy Services,Cybersecurity System for Tata Operations,Cybersecurity,2025-03-15,2025-08-30
+Aditi Gaikwad,122146395,Computer Engineering,TY,L&T Technology Services,Full Stack Web Development System for L&T Operations,Full Stack Web Development,2025-03-15,2025-09-30
+Pranav Sharma,123190906,Information Technology,SY,PhonePe,Distributed Systems System for PhonePe Operations,Distributed Systems,2025-01-15,2025-05-30
+Neha Joshi,122129763,Mechanical Engineering,TY,Siemens,Electric Vehicles (EV) System for Siemens Operations,Electric Vehicles (EV),2025-01-15,2025-08-30
+Gauri Tambe,121115712,Electronics & Telecommunication,BTECH,Tata Technologies,Edge AI System for Tata Operations,Edge AI,2025-04-15,2025-05-30
+Ananya Iyer,121139193,Artificial Intelligence & Data Science,BTECH,Barclays,NLP & LLMs System for Barclays Operations,NLP & LLMs,2025-02-15,2025-09-30
+Abhishek Bhosale,124194395,Electronics & Telecommunication,FY,Siemens,Wireless Communication System for Siemens Operations,Wireless Communication,2025-02-15,2025-07-30
+Shruti Bansal,121179773,Mechanical Engineering,BTECH,L&T Technology Services,Robotics & Automation System for L&T Operations,Robotics & Automation,2025-01-15,2025-09-30
+Bhakti Shah,122180418,Information Technology,TY,PhonePe,Information Security System for PhonePe Operations,Information Security,2025-04-15,2025-08-30
+Atharva Kadam,121125572,Instrumentation Engineering,BTECH,PhonePe,Biomedical Instrumentation System for PhonePe Operations,Biomedical Instrumentation,2025-02-15,2025-09-30
+Sakshi Malhotra,123144621,Chemical Engineering,SY,Cognizant,Polymer Technology System for Cognizant Operations,Polymer Technology,2025-04-15,2025-09-30
+Aditi Kadam,122134492,Electronics & Telecommunication,TY,Thermax,Wireless Communication System for Thermax Operations,Wireless Communication,2025-03-15,2025-07-30
+Suyash Bansal,123163891,Computer Engineering,SY,Persistent Systems,DevOps System for Persistent Operations,DevOps,2025-01-15,2025-06-30
+Vaishnavi More,121148389,Instrumentation Engineering,BTECH,Bajaj Auto,Smart Sensors & IoT System for Bajaj Operations,Smart Sensors & IoT,2025-03-15,2025-09-30
+Shubham Wagh,124152453,Mechanical Engineering,FY,Deutsche Bank,Mechatronics System for Deutsche Operations,Mechatronics,2025-04-15,2025-05-30
+Riya Wagh,122140814,Artificial Intelligence & Data Science,TY,Siemens,Generative AI System for Siemens Operations,Generative AI,2025-03-15,2025-07-30
+Shubham Tambe,122185614,Computer Engineering,TY,Barclays,Computer Vision System for Barclays Operations,Computer Vision,2025-02-15,2025-06-30
+Sayali Joshi,124128115,Mechanical Engineering,FY,Mastercard,Electric Vehicles (EV) System for Mastercard Operations,Electric Vehicles (EV),2025-01-15,2025-05-30
+Sneha Bansal,124190424,Chemical Engineering,FY,Cummins India,Polymer Technology System for Cummins Operations,Polymer Technology,2025-01-15,2025-09-30
+Gauri Deshmukh,121190340,Mechanical Engineering,BTECH,Deutsche Bank,CAD/CAM & FEA System for Deutsche Operations,CAD/CAM & FEA,2025-01-15,2025-08-30
+Varun Pawar,121158724,Information Technology,BTECH,Siemens,Distributed Systems System for Siemens Operations,Distributed Systems,2025-03-15,2025-05-30
+Sakshi Malhotra,122169337,Mechanical Engineering,TY,L&T Technology Services,Thermal Engineering System for L&T Operations,Thermal Engineering,2025-01-15,2025-07-30
+Kavya Bansal,121173720,Chemical Engineering,BTECH,Nvidia,Computational Fluid Dynamics System for Nvidia Operations,Computational Fluid Dynamics,2025-02-15,2025-07-30
+Suyash Nair,121166416,Computer Engineering,BTECH,Deutsche Bank,Cloud Computing System for Deutsche Operations,Cloud Computing,2025-02-15,2025-09-30
+Suyash Kulkarni,123163865,Artificial Intelligence & Data Science,SY,Siemens,Generative AI System for Siemens Operations,Generative AI,2025-02-15,2025-08-30
+Shubham Mehta,124181966,Information Technology,FY,PhonePe,Information Security System for PhonePe Operations,Information Security,2025-02-15,2025-07-30
+Aarav More,121157565,Mechanical Engineering,BTECH,Cognizant,CAD/CAM & FEA System for Cognizant Operations,CAD/CAM & FEA,2025-01-15,2025-07-30
+Sanket Nair,121115243,Electronics & Telecommunication,BTECH,Infosys,VLSI Design System for Infosys Operations,VLSI Design,2025-01-15,2025-09-30
+Sakshi Joshi,122127650,Computer Engineering,TY,Nvidia,Cloud Computing System for Nvidia Operations,Cloud Computing,2025-03-15,2025-07-30
+Gauri Sawant,122193524,Mechanical Engineering,TY,Veritas Technologies,Thermal Engineering System for Veritas Operations,Thermal Engineering,2025-04-15,2025-08-30
+Manasi Sawant,121157806,Artificial Intelligence & Data Science,BTECH,Tata Consultancy Services,Computer Vision System for Tata Operations,Computer Vision,2025-03-15,2025-05-30
+Harsh Bansal,121157802,Artificial Intelligence & Data Science,BTECH,Mastercard,Reinforcement Learning System for Mastercard Operations,Reinforcement Learning,2025-03-15,2025-08-30
+Atharva Sharma,121152151,Information Technology,BTECH,Deutsche Bank,Distributed Systems System for Deutsche Operations,Distributed Systems,2025-02-15,2025-08-30
+Kavya Chavan,122137700,Computer Engineering,TY,Thermax,Natural Language Processing System for Thermax Operations,Natural Language Processing,2025-03-15,2025-09-30
+Sneha Mehta,121128383,Information Technology,BTECH,Rakuten,Microservices System for Rakuten Operations,Microservices,2025-04-15,2025-09-30
+Prathamesh Shah,121113776,Information Technology,BTECH,Cummins India,Web Engineering System for Cummins Operations,Web Engineering,2025-01-15,2025-09-30
+Harsh Shetty,121143278,Artificial Intelligence & Data Science,BTECH,Cummins India,Reinforcement Learning System for Cummins Operations,Reinforcement Learning,2025-04-15,2025-06-30
+Isha Mane,121167587,Computer Engineering,BTECH,Tata Technologies,Cybersecurity System for Tata Operations,Cybersecurity,2025-03-15,2025-09-30
+Akanksha Joshi,122115729,Electronics & Telecommunication,TY,Tech Mahindra,Edge AI System for Tech Operations,Edge AI,2025-04-15,2025-09-30
+Radhika Gaikwad,121171162,Electronics & Telecommunication,BTECH,Barclays,Signal Processing System for Barclays Operations,Signal Processing,2025-02-15,2025-07-30
+Pranav Shinde,123186490,Artificial Intelligence & Data Science,SY,Mastercard,Computer Vision System for Mastercard Operations,Computer Vision,2025-04-15,2025-08-30
+Vaishnavi Iyer,121199912,Electronics & Telecommunication,BTECH,Deutsche Bank,Edge AI System for Deutsche Operations,Edge AI,2025-01-15,2025-06-30
+Shreya Gupta,122167540,Instrumentation Engineering,TY,Siemens,Smart Sensors & IoT System for Siemens Operations,Smart Sensors & IoT,2025-03-15,2025-07-30
+Prathamesh Jadhav,124121168,Information Technology,FY,Tech Mahindra,Cloud Architecture System for Tech Operations,Cloud Architecture,2025-02-15,2025-08-30
+Neha Joshi,123126931,Chemical Engineering,SY,Eaton Corporation,Water Treatment Systems System for Eaton Operations,Water Treatment Systems,2025-02-15,2025-05-30
+Shreya Ingale,121155520,Artificial Intelligence & Data Science,BTECH,Infosys,Computer Vision System for Infosys Operations,Computer Vision,2025-03-15,2025-08-30
+Shubham Sharma,122123967,Electronics & Telecommunication,TY,Siemens,Wireless Communication System for Siemens Operations,Wireless Communication,2025-04-15,2025-05-30
+Pooja Joshi,123138687,Instrumentation Engineering,SY,Cognizant,Industrial Automation (PLC/SCADA) System for Cognizant Operations,Industrial Automation (PLC/SCADA),2025-02-15,2025-05-30
+Bhakti Malhotra,123133129,Chemical Engineering,SY,Cognizant,Computational Fluid Dynamics System for Cognizant Operations,Computational Fluid Dynamics,2025-02-15,2025-05-30
+Sneha Jadhav,122128990,Computer Engineering,TY,L&T Technology Services,Full Stack Web Development System for L&T Operations,Full Stack Web Development,2025-01-15,2025-05-30
+Pranav Shinde,121177193,Chemical Engineering,BTECH,Veritas Technologies,Polymer Technology System for Veritas Operations,Polymer Technology,2025-03-15,2025-09-30
+Mrunal Bhosale,123151419,Information Technology,SY,Veritas Technologies,Microservices System for Veritas Operations,Microservices,2025-04-15,2025-07-30
+Bhakti Kulkarni,122189261,Computer Engineering,TY,Veritas Technologies,Computer Vision System for Veritas Operations,Computer Vision,2025-04-15,2025-06-30
+Chinmay Wagh,124187597,Chemical Engineering,FY,Accenture,Computational Fluid Dynamics System for Accenture Operations,Computational Fluid Dynamics,2025-01-15,2025-09-30
+Tanmay Mehta,121165453,Mechanical Engineering,BTECH,Accenture,Mechatronics System for Accenture Operations,Mechatronics,2025-03-15,2025-08-30
+Siddharth Patil,123127316,Information Technology,SY,Nvidia,Web Engineering System for Nvidia Operations,Web Engineering,2025-03-15,2025-07-30
+Neha Patil,121150982,Electronics & Telecommunication,BTECH,Infosys,Wireless Communication System for Infosys Operations,Wireless Communication,2025-04-15,2025-06-30
+Shruti Verma,124124396,Chemical Engineering,FY,Cummins India,Computational Fluid Dynamics System for Cummins Operations,Computational Fluid Dynamics,2025-02-15,2025-07-30
+Neha Bansal,122185546,Computer Engineering,TY,Cognizant,Computer Vision System for Cognizant Operations,Computer Vision,2025-01-15,2025-08-30
+Vaishnavi Nair,122154894,Computer Engineering,TY,Nvidia,DevOps System for Nvidia Operations,DevOps,2025-03-15,2025-09-30
+Shubham Kadam,122135362,Computer Engineering,TY,Siemens,Natural Language Processing System for Siemens Operations,Natural Language Processing,2025-04-15,2025-06-30
+Pranav Nair,121186729,Instrumentation Engineering,BTECH,Bajaj Auto,Smart Sensors & IoT System for Bajaj Operations,Smart Sensors & IoT,2025-03-15,2025-05-30
+Akanksha Ingale,121183560,Instrumentation Engineering,BTECH,Tech Mahindra,Process Control Systems System for Tech Operations,Process Control Systems,2025-01-15,2025-05-30
+Bhakti Tambe,122167163,Mechanical Engineering,TY,Infosys,CAD/CAM & FEA System for Infosys Operations,CAD/CAM & FEA,2025-03-15,2025-09-30
+Atharva Mane,122141140,Chemical Engineering,TY,Thermax,Polymer Technology System for Thermax Operations,Polymer Technology,2025-03-15,2025-07-30
+Radhika Mane,122157472,Mechanical Engineering,TY,Nvidia,Thermal Engineering System for Nvidia Operations,Thermal Engineering,2025-02-15,2025-08-30
+Isha Mehta,121190908,Artificial Intelligence & Data Science,BTECH,Thermax,Deep Learning System for Thermax Operations,Deep Learning,2025-01-15,2025-08-30
+Shubham Bhosale,122149458,Computer Engineering,TY,Cognizant,Blockchain System for Cognizant Operations,Blockchain,2025-03-15,2025-05-30
+Shruti Shinde,121181417,Mechanical Engineering,BTECH,Infosys,CAD/CAM & FEA System for Infosys Operations,CAD/CAM & FEA,2025-03-15,2025-06-30
+Suyash Sharma,121195761,Chemical Engineering,BTECH,Cummins India,Computational Fluid Dynamics System for Cummins Operations,Computational Fluid Dynamics,2025-04-15,2025-07-30
+Aditya Jadhav,122153319,Artificial Intelligence & Data Science,TY,Siemens,Computer Vision System for Siemens Operations,Computer Vision,2025-01-15,2025-07-30
+Tejas Kadam,122147179,Information Technology,TY,Veritas Technologies,Cloud Architecture System for Veritas Operations,Cloud Architecture,2025-04-15,2025-08-30
+Vaishnavi Mehta,121153777,Mechanical Engineering,BTECH,Siemens,Mechatronics System for Siemens Operations,Mechatronics,2025-03-15,2025-08-30
+Suyash Iyer,122133266,Electronics & Telecommunication,TY,Nvidia,Wireless Communication System for Nvidia Operations,Wireless Communication,2025-02-15,2025-07-30
+Abhishek Gupta,121156520,Electronics & Telecommunication,BTECH,Rakuten,IoT & Sensor Networks System for Rakuten Operations,IoT & Sensor Networks,2025-01-15,2025-07-30
+Radhika Sawant,122187920,Information Technology,TY,PhonePe,Web Engineering System for PhonePe Operations,Web Engineering,2025-03-15,2025-08-30
+Yash Gaikwad,122167379,Computer Engineering,TY,Barclays,Natural Language Processing System for Barclays Operations,Natural Language Processing,2025-02-15,2025-08-30
+Vaishnavi Jadhav,124157183,Information Technology,FY,Thermax,Web Engineering System for Thermax Operations,Web Engineering,2025-02-15,2025-07-30
+Omkar Agarwal,123128910,Chemical Engineering,SY,Veritas Technologies,Computational Fluid Dynamics System for Veritas Operations,Computational Fluid Dynamics,2025-01-15,2025-06-30
+Aditi Verma,122170877,Instrumentation Engineering,TY,Infosys,Industrial Automation (PLC/SCADA) System for Infosys Operations,Industrial Automation (PLC/SCADA),2025-02-15,2025-09-30
+Atharva Patil,122129955,Artificial Intelligence & Data Science,TY,Siemens,Reinforcement Learning System for Siemens Operations,Reinforcement Learning,2025-03-15,2025-08-30
+Bhakti Mane,121146894,Electronics & Telecommunication,BTECH,L&T Technology Services,Embedded Systems System for L&T Operations,Embedded Systems,2025-02-15,2025-07-30
+Siddharth Kadam,124124164,Electronics & Telecommunication,FY,Accenture,Signal Processing System for Accenture Operations,Signal Processing,2025-03-15,2025-07-30
+Bhakti Ingale,122128835,Computer Engineering,TY,Tata Consultancy Services,Computer Vision System for Tata Operations,Computer Vision,2025-01-15,2025-08-30
+Pooja Kulkarni,121170499,Mechanical Engineering,BTECH,Thermax,Thermal Engineering System for Thermax Operations,Thermal Engineering,2025-04-15,2025-09-30
+Pooja More,121118465,Chemical Engineering,BTECH,Infosys,Process Automation System for Infosys Operations,Process Automation,2025-01-15,2025-05-30
+Tejas Gaikwad,121193986,Artificial Intelligence & Data Science,BTECH,Tata Technologies,Deep Learning System for Tata Operations,Deep Learning,2025-02-15,2025-07-30
+Sakshi Jadhav,123120920,Instrumentation Engineering,SY,Thermax,Industrial Automation (PLC/SCADA) System for Thermax Operations,Industrial Automation (PLC/SCADA),2025-04-15,2025-09-30
+Neha Iyer,122147658,Instrumentation Engineering,TY,Cognizant,Industrial Automation (PLC/SCADA) System for Cognizant Operations,Industrial Automation (PLC/SCADA),2025-02-15,2025-05-30
+Sayali Jadhav,121155844,Electronics & Telecommunication,BTECH,Cummins India,Signal Processing System for Cummins Operations,Signal Processing,2025-01-15,2025-05-30
+Chinmay Nair,121195176,Instrumentation Engineering,BTECH,Rakuten,Process Control Systems System for Rakuten Operations,Process Control Systems,2025-04-15,2025-08-30
+Vaishnavi Shah,122128131,Chemical Engineering,TY,L&T Technology Services,Polymer Technology System for L&T Operations,Polymer Technology,2025-01-15,2025-06-30
+Rohan Shinde,122192897,Computer Engineering,TY,Tata Consultancy Services,Full Stack Web Development System for Tata Operations,Full Stack Web Development,2025-02-15,2025-07-30
+Kavya Deshmukh,122167795,Mechanical Engineering,TY,Mastercard,CAD/CAM & FEA System for Mastercard Operations,CAD/CAM & FEA,2025-04-15,2025-08-30
+Sayali Mehta,122156642,Computer Engineering,TY,Eaton Corporation,Blockchain System for Eaton Operations,Blockchain,2025-04-15,2025-06-30
+Chinmay Kadam,121133853,Computer Engineering,BTECH,Tech Mahindra,Full Stack Web Development System for Tech Operations,Full Stack Web Development,2025-02-15,2025-07-30
+Gaurav Verma,122127225,Electronics & Telecommunication,TY,Tata Consultancy Services,Signal Processing System for Tata Operations,Signal Processing,2025-04-15,2025-06-30
+Tanvi Verma,123130407,Computer Engineering,SY,Mastercard,Blockchain System for Mastercard Operations,Blockchain,2025-03-15,2025-06-30
+Varun Shah,122135224,Artificial Intelligence & Data Science,TY,Tech Mahindra,Generative AI System for Tech Operations,Generative AI,2025-04-15,2025-06-30
+Pranav Shinde,121169560,Artificial Intelligence & Data Science,BTECH,Tata Technologies,Predictive Analytics System for Tata Operations,Predictive Analytics,2025-01-15,2025-05-30
+Suyash Chopra,122126886,Instrumentation Engineering,TY,L&T Technology Services,Industrial Automation (PLC/SCADA) System for L&T Operations,Industrial Automation (PLC/SCADA),2025-02-15,2025-07-30
+Chinmay Shinde,123178729,Chemical Engineering,SY,Thermax,Green Energy & Biofuels System for Thermax Operations,Green Energy & Biofuels,2025-04-15,2025-09-30
+Akanksha Shetty,122189774,Information Technology,TY,Cognizant,Microservices System for Cognizant Operations,Microservices,2025-01-15,2025-05-30
+Sneha Agarwal,121113945,Mechanical Engineering,BTECH,PhonePe,Mechatronics System for PhonePe Operations,Mechatronics,2025-01-15,2025-05-30
+Prathamesh Nair,124191732,Information Technology,FY,Infosys,Big Data Analytics System for Infosys Operations,Big Data Analytics,2025-04-15,2025-07-30
+Sanket Wagh,121166261,Computer Engineering,BTECH,Tech Mahindra,Full Stack Web Development System for Tech Operations,Full Stack Web Development,2025-01-15,2025-05-30
+Tanmay Bhosale,122150420,Mechanical Engineering,TY,Cognizant,CAD/CAM & FEA System for Cognizant Operations,CAD/CAM & FEA,2025-04-15,2025-07-30
+Riya Bansal,124130354,Mechanical Engineering,FY,PhonePe,Mechatronics System for PhonePe Operations,Mechatronics,2025-01-15,2025-09-30
+Ananya Chavan,122175610,Instrumentation Engineering,TY,Cummins India,Process Control Systems System for Cummins Operations,Process Control Systems,2025-03-15,2025-06-30
+Akanksha Jadhav,121173388,Computer Engineering,BTECH,Deutsche Bank,DevOps System for Deutsche Operations,DevOps,2025-04-15,2025-06-30
+Aditi Gaikwad,121123967,Mechanical Engineering,BTECH,Veritas Technologies,CAD/CAM & FEA System for Veritas Operations,CAD/CAM & FEA,2025-03-15,2025-09-30
+Tejas Jadhav,123159175,Mechanical Engineering,SY,Deutsche Bank,Mechatronics System for Deutsche Operations,Mechatronics,2025-01-15,2025-06-30
+Chinmay Agarwal,121122231,Mechanical Engineering,BTECH,L&T Technology Services,CAD/CAM & FEA System for L&T Operations,CAD/CAM & FEA,2025-03-15,2025-07-30
+Shreya Jadhav,122187303,Instrumentation Engineering,TY,Siemens,Industrial Automation (PLC/SCADA) System for Siemens Operations,Industrial Automation (PLC/SCADA),2025-03-15,2025-07-30
+Bhakti Chopra,122188435,Mechanical Engineering,TY,Cognizant,Thermal Engineering System for Cognizant Operations,Thermal Engineering,2025-03-15,2025-08-30
+Kavya Gaikwad,121152477,Electronics & Telecommunication,BTECH,Deutsche Bank,Signal Processing System for Deutsche Operations,Signal Processing,2025-04-15,2025-06-30
+Akanksha Gaikwad,121170711,Instrumentation Engineering,BTECH,PhonePe,Biomedical Instrumentation System for PhonePe Operations,Biomedical Instrumentation,2025-04-15,2025-05-30
+Siddharth Shetty,122190636,Electronics & Telecommunication,TY,Tata Consultancy Services,Signal Processing System for Tata Operations,Signal Processing,2025-02-15,2025-05-30
+Shubham Agarwal,122183132,Chemical Engineering,TY,Infosys,Process Automation System for Infosys Operations,Process Automation,2025-02-15,2025-05-30
+Isha Mane,124117993,Instrumentation Engineering,FY,Tata Technologies,Biomedical Instrumentation System for Tata Operations,Biomedical Instrumentation,2025-04-15,2025-05-30
+Manasi Tambe,122181385,Information Technology,TY,Barclays,Web Engineering System for Barclays Operations,Web Engineering,2025-04-15,2025-07-30
+Prathamesh Gupta,122178306,Electronics & Telecommunication,TY,Nvidia,Wireless Communication System for Nvidia Operations,Wireless Communication,2025-02-15,2025-05-30
+Chinmay Shinde,122116348,Computer Engineering,TY,Bajaj Auto,Cybersecurity System for Bajaj Operations,Cybersecurity,2025-01-15,2025-06-30
+Kunal Nair,121162202,Information Technology,BTECH,Mastercard,Information Security System for Mastercard Operations,Information Security,2025-02-15,2025-06-30
+Omkar Sharma,122180105,Instrumentation Engineering,TY,Rakuten,Biomedical Instrumentation System for Rakuten Operations,Biomedical Instrumentation,2025-03-15,2025-09-30
+Ananya Gaikwad,121121887,Chemical Engineering,BTECH,Accenture,Green Energy & Biofuels System for Accenture Operations,Green Energy & Biofuels,2025-02-15,2025-09-30
+Gauri Gupta,121163279,Chemical Engineering,BTECH,Persistent Systems,Green Energy & Biofuels System for Persistent Operations,Green Energy & Biofuels,2025-02-15,2025-08-30
+Sanket Shetty,121146443,Mechanical Engineering,BTECH,Infosys,Mechatronics System for Infosys Operations,Mechatronics,2025-04-15,2025-05-30
+Abhishek Gupta,123133835,Electronics & Telecommunication,SY,Nvidia,VLSI Design System for Nvidia Operations,VLSI Design,2025-04-15,2025-07-30
+Gaurav Shetty,122188279,Chemical Engineering,TY,Accenture,Polymer Technology System for Accenture Operations,Polymer Technology,2025-01-15,2025-07-30
+Neha Mane,121195510,Artificial Intelligence & Data Science,BTECH,Eaton Corporation,Generative AI System for Eaton Operations,Generative AI,2025-01-15,2025-05-30
+Aditi Bhosale,121159367,Information Technology,BTECH,Tata Technologies,Web Engineering System for Tata Operations,Web Engineering,2025-04-15,2025-08-30
+Sneha Gaikwad,121193367,Mechanical Engineering,BTECH,Cognizant,Electric Vehicles (EV) System for Cognizant Operations,Electric Vehicles (EV),2025-01-15,2025-07-30
+Gauri Shah,122141880,Chemical Engineering,TY,Deutsche Bank,Water Treatment Systems System for Deutsche Operations,Water Treatment Systems,2025-02-15,2025-06-30
+Vaishnavi Chavan,122151268,Mechanical Engineering,TY,Mastercard,Thermal Engineering System for Mastercard Operations,Thermal Engineering,2025-03-15,2025-05-30
+Pranav Deshmukh,123118817,Electronics & Telecommunication,SY,Cognizant,Embedded Systems System for Cognizant Operations,Embedded Systems,2025-02-15,2025-06-30
+Pranav Malhotra,121162393,Electronics & Telecommunication,BTECH,Thermax,IoT & Sensor Networks System for Thermax Operations,IoT & Sensor Networks,2025-01-15,2025-05-30
+Gauri Shinde,123132221,Chemical Engineering,SY,Thermax,Polymer Technology System for Thermax Operations,Polymer Technology,2025-03-15,2025-06-30
+Radhika Shinde,122110954,Chemical Engineering,TY,Nvidia,Computational Fluid Dynamics System for Nvidia Operations,Computational Fluid Dynamics,2025-03-15,2025-08-30
+Isha Iyer,121136346,Instrumentation Engineering,BTECH,Mastercard,Industrial Automation (PLC/SCADA) System for Mastercard Operations,Industrial Automation (PLC/SCADA),2025-02-15,2025-07-30
+Sayali Iyer,121115350,Chemical Engineering,BTECH,Nvidia,Green Energy & Biofuels System for Nvidia Operations,Green Energy & Biofuels,2025-03-15,2025-09-30
+Gauri Chavan,121174243,Instrumentation Engineering,BTECH,Tata Consultancy Services,Biomedical Instrumentation System for Tata Operations,Biomedical Instrumentation,2025-04-15,2025-08-30
+Atharva Ingale,122144152,Chemical Engineering,TY,Siemens,Water Treatment Systems System for Siemens Operations,Water Treatment Systems,2025-04-15,2025-05-30
+Bhakti Deshmukh,121185292,Instrumentation Engineering,BTECH,Barclays,Biomedical Instrumentation System for Barclays Operations,Biomedical Instrumentation,2025-03-15,2025-08-30
+Kavya Bansal,122143116,Information Technology,TY,Rakuten,Microservices System for Rakuten Operations,Microservices,2025-01-15,2025-07-30
+Kavya Agarwal,124193663,Information Technology,FY,L&T Technology Services,Web Engineering System for L&T Operations,Web Engineering,2025-03-15,2025-06-30
+Varun Malhotra,121114636,Mechanical Engineering,BTECH,Mastercard,Robotics & Automation System for Mastercard Operations,Robotics & Automation,2025-02-15,2025-09-30
+Varun Joshi,122134346,Computer Engineering,TY,Rakuten,Cloud Computing System for Rakuten Operations,Cloud Computing,2025-01-15,2025-09-30
+Kavya Kadam,122197407,Chemical Engineering,TY,Nvidia,Process Automation System for Nvidia Operations,Process Automation,2025-04-15,2025-09-30
+Aarav Verma,121165611,Information Technology,BTECH,Bajaj Auto,Web Engineering System for Bajaj Operations,Web Engineering,2025-03-15,2025-09-30
+Kavya Bansal,121137335,Computer Engineering,BTECH,Veritas Technologies,Blockchain System for Veritas Operations,Blockchain,2025-01-15,2025-05-30
+Kavya Tambe,121197176,Artificial Intelligence & Data Science,BTECH,Tata Technologies,NLP & LLMs System for Tata Operations,NLP & LLMs,2025-02-15,2025-06-30
+Kavya Sharma,122150970,Computer Engineering,TY,Thermax,Natural Language Processing System for Thermax Operations,Natural Language Processing,2025-01-15,2025-05-30
+Atharva Mane,123122154,Chemical Engineering,SY,Tata Technologies,Process Automation System for Tata Operations,Process Automation,2025-04-15,2025-09-30
+Sayali Tambe,123158666,Information Technology,SY,Cummins India,Big Data Analytics System for Cummins Operations,Big Data Analytics,2025-02-15,2025-06-30
+Akanksha Sharma,121189890,Electronics & Telecommunication,BTECH,Veritas Technologies,IoT & Sensor Networks System for Veritas Operations,IoT & Sensor Networks,2025-03-15,2025-05-30
+Pranav Kulkarni,122191489,Artificial Intelligence & Data Science,TY,Siemens,Computer Vision System for Siemens Operations,Computer Vision,2025-01-15,2025-05-30
+Ananya Jadhav,121149105,Computer Engineering,BTECH,Thermax,DevOps System for Thermax Operations,DevOps,2025-01-15,2025-05-30
+Chinmay Joshi,121165291,Information Technology,BTECH,Cummins India,Microservices System for Cummins Operations,Microservices,2025-04-15,2025-08-30
+Vaishnavi Sawant,121155191,Computer Engineering,BTECH,Thermax,Cybersecurity System for Thermax Operations,Cybersecurity,2025-04-15,2025-07-30
+Shreya Chopra,122158801,Information Technology,TY,Tech Mahindra,Web Engineering System for Tech Operations,Web Engineering,2025-03-15,2025-08-30
+Sanket More,122131164,Electronics & Telecommunication,TY,Mastercard,Signal Processing System for Mastercard Operations,Signal Processing,2025-01-15,2025-06-30
+Sanket Tambe,121142469,Instrumentation Engineering,BTECH,Eaton Corporation,Smart Sensors & IoT System for Eaton Operations,Smart Sensors & IoT,2025-01-15,2025-06-30
+Bhakti Iyer,124127209,Information Technology,FY,Persistent Systems,Information Security System for Persistent Operations,Information Security,2025-02-15,2025-05-30
+Sneha Agarwal,124152923,Mechanical Engineering,FY,Eaton Corporation,Thermal Engineering System for Eaton Operations,Thermal Engineering,2025-02-15,2025-08-30
+Tejas Shetty,122180798,Mechanical Engineering,TY,Veritas Technologies,Thermal Engineering System for Veritas Operations,Thermal Engineering,2025-03-15,2025-08-30
+Tanmay Wagh,123198951,Instrumentation Engineering,SY,Siemens,Smart Sensors & IoT System for Siemens Operations,Smart Sensors & IoT,2025-01-15,2025-05-30
+Sakshi Shinde,123142347,Chemical Engineering,SY,Eaton Corporation,Polymer Technology System for Eaton Operations,Polymer Technology,2025-04-15,2025-08-30
+Shruti Mehta,124111208,Artificial Intelligence & Data Science,FY,Accenture,Generative AI System for Accenture Operations,Generative AI,2025-04-15,2025-05-30
+Vaishnavi Gupta,122157556,Mechanical Engineering,TY,Deutsche Bank,Mechatronics System for Deutsche Operations,Mechatronics,2025-01-15,2025-05-30
+Vaishnavi Shinde,121123594,Artificial Intelligence & Data Science,BTECH,Siemens,Deep Learning System for Siemens Operations,Deep Learning,2025-04-15,2025-08-30
+Yash Agarwal,122149456,Chemical Engineering,TY,Accenture,Green Energy & Biofuels System for Accenture Operations,Green Energy & Biofuels,2025-03-15,2025-05-30
+Ananya Kulkarni,121124929,Artificial Intelligence & Data Science,BTECH,L&T Technology Services,Predictive Analytics System for L&T Operations,Predictive Analytics,2025-04-15,2025-06-30
+Omkar Sharma,122141858,Instrumentation Engineering,TY,Barclays,Biomedical Instrumentation System for Barclays Operations,Biomedical Instrumentation,2025-01-15,2025-08-30
+Neha Sutar,122185560,Computer Engineering,TY,PhonePe,Computer Vision System for PhonePe Operations,Computer Vision,2025-01-15,2025-07-30
+Tanmay Chavan,121123691,Artificial Intelligence & Data Science,BTECH,Siemens,NLP & LLMs System for Siemens Operations,NLP & LLMs,2025-04-15,2025-05-30
+Varun Jadhav,122124568,Artificial Intelligence & Data Science,TY,L&T Technology Services,Computer Vision System for L&T Operations,Computer Vision,2025-03-15,2025-08-30
+Tanvi Bansal,122196933,Electronics & Telecommunication,TY,Persistent Systems,VLSI Design System for Persistent Operations,VLSI Design,2025-02-15,2025-07-30
+Manasi Shetty,122125420,Computer Engineering,TY,Tata Consultancy Services,Computer Vision System for Tata Operations,Computer Vision,2025-04-15,2025-07-30
+Varun Jadhav,122159623,Chemical Engineering,TY,Tata Technologies,Green Energy & Biofuels System for Tata Operations,Green Energy & Biofuels,2025-02-15,2025-09-30
+Kavya Sutar,122191598,Electronics & Telecommunication,TY,Infosys,Edge AI System for Infosys Operations,Edge AI,2025-03-15,2025-09-30
+Sakshi Pawar,121138914,Computer Engineering,BTECH,Mastercard,Cloud Computing System for Mastercard Operations,Cloud Computing,2025-04-15,2025-08-30
+Kunal Ingale,122168899,Artificial Intelligence & Data Science,TY,Bajaj Auto,Computer Vision System for Bajaj Operations,Computer Vision,2025-04-15,2025-06-30
+Shreya Mane,121179374,Computer Engineering,BTECH,Tech Mahindra,Cloud Computing System for Tech Operations,Cloud Computing,2025-02-15,2025-07-30
+Gauri Agarwal,121166878,Instrumentation Engineering,BTECH,Veritas Technologies,Smart Sensors & IoT System for Veritas Operations,Smart Sensors & IoT,2025-04-15,2025-06-30
+Omkar Gupta,122114404,Instrumentation Engineering,TY,Cummins India,Process Control Systems System for Cummins Operations,Process Control Systems,2025-02-15,2025-06-30
+Atharva Wagh,121140894,Instrumentation Engineering,BTECH,Tech Mahindra,Process Control Systems System for Tech Operations,Process Control Systems,2025-04-15,2025-05-30
+Manasi Nair,122127730,Electronics & Telecommunication,TY,Siemens,IoT & Sensor Networks System for Siemens Operations,IoT & Sensor Networks,2025-04-15,2025-07-30
+Siddharth Shetty,123178711,Artificial Intelligence & Data Science,SY,PhonePe,Reinforcement Learning System for PhonePe Operations,Reinforcement Learning,2025-01-15,2025-05-30
+Suyash Mehta,124145160,Instrumentation Engineering,FY,Cummins India,Biomedical Instrumentation System for Cummins Operations,Biomedical Instrumentation,2025-02-15,2025-09-30
+Suyash Kadam,123141948,Information Technology,SY,Veritas Technologies,Big Data Analytics System for Veritas Operations,Big Data Analytics,2025-03-15,2025-08-30
+Shruti Tambe,123163742,Information Technology,SY,Infosys,Cloud Architecture System for Infosys Operations,Cloud Architecture,2025-01-15,2025-09-30
+Atharva Sutar,123157811,Mechanical Engineering,SY,Cognizant,Thermal Engineering System for Cognizant Operations,Thermal Engineering,2025-03-15,2025-07-30
+Ananya Shetty,121168848,Computer Engineering,BTECH,Barclays,Blockchain System for Barclays Operations,Blockchain,2025-03-15,2025-06-30
+Sneha Chopra,121122147,Chemical Engineering,BTECH,Tech Mahindra,Polymer Technology System for Tech Operations,Polymer Technology,2025-01-15,2025-05-30
+Aditya Joshi,122168551,Instrumentation Engineering,TY,Tata Technologies,Smart Sensors & IoT System for Tata Operations,Smart Sensors & IoT,2025-04-15,2025-05-30
+Prathamesh Kulkarni,122160153,Artificial Intelligence & Data Science,TY,Tech Mahindra,Reinforcement Learning System for Tech Operations,Reinforcement Learning,2025-01-15,2025-09-30
+Kunal Sawant,121122820,Chemical Engineering,BTECH,Barclays,Polymer Technology System for Barclays Operations,Polymer Technology,2025-01-15,2025-06-30
+Pranav Shinde,122197631,Mechanical Engineering,TY,Nvidia,Robotics & Automation System for Nvidia Operations,Robotics & Automation,2025-02-15,2025-07-30
+Sneha Agarwal,124126810,Computer Engineering,FY,Mastercard,Natural Language Processing System for Mastercard Operations,Natural Language Processing,2025-04-15,2025-09-30
+Riya Kulkarni,121150205,Chemical Engineering,BTECH,L&T Technology Services,Computational Fluid Dynamics System for L&T Operations,Computational Fluid Dynamics,2025-01-15,2025-06-30
+Suyash Sutar,122196756,Instrumentation Engineering,TY,Bajaj Auto,Industrial Automation (PLC/SCADA) System for Bajaj Operations,Industrial Automation (PLC/SCADA),2025-03-15,2025-06-30
+Manasi Nair,124137459,Information Technology,FY,Tata Consultancy Services,Distributed Systems System for Tata Operations,Distributed Systems,2025-04-15,2025-08-30
+Suyash Mehta,124164459,Computer Engineering,FY,L&T Technology Services,Natural Language Processing System for L&T Operations,Natural Language Processing,2025-03-15,2025-07-30
+Harsh More,121180354,Chemical Engineering,BTECH,Rakuten,Water Treatment Systems System for Rakuten Operations,Water Treatment Systems,2025-02-15,2025-05-30
+Gaurav Mehta,121194968,Chemical Engineering,BTECH,Cognizant,Green Energy & Biofuels System for Cognizant Operations,Green Energy & Biofuels,2025-03-15,2025-08-30
+Radhika Iyer,122160865,Mechanical Engineering,TY,Bajaj Auto,Robotics & Automation System for Bajaj Operations,Robotics & Automation,2025-02-15,2025-06-30
+Harsh Tambe,121173346,Electronics & Telecommunication,BTECH,Rakuten,Embedded Systems System for Rakuten Operations,Embedded Systems,2025-04-15,2025-06-30
+Radhika Chopra,123126424,Computer Engineering,SY,Siemens,DevOps System for Siemens Operations,DevOps,2025-04-15,2025-08-30
+Kavya Sawant,122170881,Artificial Intelligence & Data Science,TY,Tata Technologies,Deep Learning System for Tata Operations,Deep Learning,2025-03-15,2025-05-30
+Aditya Shetty,121137368,Computer Engineering,BTECH,Tata Technologies,Computer Vision System for Tata Operations,Computer Vision,2025-02-15,2025-05-30
+Gauri Ingale,122120384,Mechanical Engineering,TY,Rakuten,Mechatronics System for Rakuten Operations,Mechatronics,2025-01-15,2025-05-30
+Tanmay Shah,123185500,Information Technology,SY,Thermax,Big Data Analytics System for Thermax Operations,Big Data Analytics,2025-02-15,2025-08-30
+Pranav Gaikwad,124140847,Chemical Engineering,FY,Barclays,Process Automation System for Barclays Operations,Process Automation,2025-02-15,2025-09-30
+Neha Joshi,121195416,Electronics & Telecommunication,BTECH,Barclays,Edge AI System for Barclays Operations,Edge AI,2025-03-15,2025-08-30
+Varun Joshi,122111818,Computer Engineering,TY,Thermax,Cloud Computing System for Thermax Operations,Cloud Computing,2025-03-15,2025-07-30
+Yash Mehta,123164926,Computer Engineering,SY,Cognizant,Computer Vision System for Cognizant Operations,Computer Vision,2025-02-15,2025-08-30
+Prathamesh Verma,121168608,Mechanical Engineering,BTECH,Tata Technologies,Robotics & Automation System for Tata Operations,Robotics & Automation,2025-02-15,2025-09-30
+Sakshi Bansal,122130476,Mechanical Engineering,TY,Tech Mahindra,Robotics & Automation System for Tech Operations,Robotics & Automation,2025-04-15,2025-07-30
+Kavya Sharma,121175333,Chemical Engineering,BTECH,Thermax,Process Automation System for Thermax Operations,Process Automation,2025-02-15,2025-07-30
+Harsh Deshmukh,123129492,Electronics & Telecommunication,SY,PhonePe,Embedded Systems System for PhonePe Operations,Embedded Systems,2025-03-15,2025-08-30
+Varun Kadam,121118510,Instrumentation Engineering,BTECH,Eaton Corporation,Process Control Systems System for Eaton Operations,Process Control Systems,2025-03-15,2025-06-30
+Sanket Bhosale,124157108,Computer Engineering,FY,PhonePe,Cybersecurity System for PhonePe Operations,Cybersecurity,2025-03-15,2025-09-30
+Sanket Gupta,122157575,Mechanical Engineering,TY,Deutsche Bank,Thermal Engineering System for Deutsche Operations,Thermal Engineering,2025-02-15,2025-05-30
+Tejas Gupta,122110254,Mechanical Engineering,TY,Persistent Systems,Robotics & Automation System for Persistent Operations,Robotics & Automation,2025-03-15,2025-06-30
+Kunal Ingale,121110443,Artificial Intelligence & Data Science,BTECH,Mastercard,Computer Vision System for Mastercard Operations,Computer Vision,2025-04-15,2025-09-30
+Sanket Joshi,122172529,Information Technology,TY,Nvidia,Distributed Systems System for Nvidia Operations,Distributed Systems,2025-01-15,2025-07-30
+Chinmay Kulkarni,122176965,Computer Engineering,TY,Cognizant,Cloud Computing System for Cognizant Operations,Cloud Computing,2025-03-15,2025-05-30
+Mrunal Gupta,121127617,Computer Engineering,BTECH,Barclays,Full Stack Web Development System for Barclays Operations,Full Stack Web Development,2025-01-15,2025-08-30
+Pranav Shetty,121194545,Mechanical Engineering,BTECH,Mastercard,Electric Vehicles (EV) System for Mastercard Operations,Electric Vehicles (EV),2025-01-15,2025-08-30
+Gaurav More,123160920,Instrumentation Engineering,SY,Infosys,Process Control Systems System for Infosys Operations,Process Control Systems,2025-02-15,2025-07-30
+Ananya Wagh,122135176,Artificial Intelligence & Data Science,TY,Mastercard,NLP & LLMs System for Mastercard Operations,NLP & LLMs,2025-03-15,2025-09-30
+Omkar Shinde,122169560,Computer Engineering,TY,Eaton Corporation,Computer Vision System for Eaton Operations,Computer Vision,2025-04-15,2025-09-30
+Gauri Jadhav,122149562,Instrumentation Engineering,TY,Infosys,Industrial Automation (PLC/SCADA) System for Infosys Operations,Industrial Automation (PLC/SCADA),2025-01-15,2025-07-30
+Ananya Shinde,122160464,Computer Engineering,TY,Tata Consultancy Services,Blockchain System for Tata Operations,Blockchain,2025-03-15,2025-08-30
+Sanket More,122161131,Instrumentation Engineering,TY,Nvidia,Biomedical Instrumentation System for Nvidia Operations,Biomedical Instrumentation,2025-02-15,2025-08-30
+Omkar Wagh,122111224,Computer Engineering,TY,Siemens,DevOps System for Siemens Operations,DevOps,2025-01-15,2025-05-30
+Kunal Shinde,124197481,Information Technology,FY,Eaton Corporation,Big Data Analytics System for Eaton Operations,Big Data Analytics,2025-04-15,2025-06-30
+Yash Deshmukh,121183272,Electronics & Telecommunication,BTECH,Rakuten,Edge AI System for Rakuten Operations,Edge AI,2025-04-15,2025-09-30
+Harsh Nair,121155491,Instrumentation Engineering,BTECH,Siemens,Smart Sensors & IoT System for Siemens Operations,Smart Sensors & IoT,2025-04-15,2025-08-30
+Akanksha Kadam,121194353,Information Technology,BTECH,Cummins India,Microservices System for Cummins Operations,Microservices,2025-02-15,2025-09-30
+Siddharth Mehta,124132463,Information Technology,FY,Tata Technologies,Microservices System for Tata Operations,Microservices,2025-02-15,2025-09-30
+Kavya Shetty,122173956,Information Technology,TY,Nvidia,Distributed Systems System for Nvidia Operations,Distributed Systems,2025-02-15,2025-08-30
+Sakshi Deshmukh,121187338,Computer Engineering,BTECH,L&T Technology Services,Cybersecurity System for L&T Operations,Cybersecurity,2025-01-15,2025-06-30
+Aditi Patil,122126925,Artificial Intelligence & Data Science,TY,PhonePe,Generative AI System for PhonePe Operations,Generative AI,2025-03-15,2025-05-30
+Ananya Deshmukh,122128700,Computer Engineering,TY,Tech Mahindra,DevOps System for Tech Operations,DevOps,2025-04-15,2025-05-30
+Radhika Bansal,121194482,Artificial Intelligence & Data Science,BTECH,Nvidia,Deep Learning System for Nvidia Operations,Deep Learning,2025-03-15,2025-09-30
+Sneha Gaikwad,122165261,Artificial Intelligence & Data Science,TY,Mastercard,Computer Vision System for Mastercard Operations,Computer Vision,2025-01-15,2025-09-30
+Ananya Pawar,123195328,Chemical Engineering,SY,Bajaj Auto,Green Energy & Biofuels System for Bajaj Operations,Green Energy & Biofuels,2025-03-15,2025-07-30
+Riya Gaikwad,123132230,Chemical Engineering,SY,L&T Technology Services,Water Treatment Systems System for L&T Operations,Water Treatment Systems,2025-01-15,2025-06-30
+Shruti Bansal,121187286,Instrumentation Engineering,BTECH,Eaton Corporation,Biomedical Instrumentation System for Eaton Operations,Biomedical Instrumentation,2025-04-15,2025-05-30
+Kavya Joshi,122119439,Electronics & Telecommunication,TY,Mastercard,VLSI Design System for Mastercard Operations,VLSI Design,2025-03-15,2025-06-30
+Abhishek Nair,123111557,Computer Engineering,SY,L&T Technology Services,Natural Language Processing System for L&T Operations,Natural Language Processing,2025-01-15,2025-05-30
+Pranav Jadhav,121110837,Artificial Intelligence & Data Science,BTECH,PhonePe,Computer Vision System for PhonePe Operations,Computer Vision,2025-03-15,2025-05-30
+Aditi Shah,122167266,Instrumentation Engineering,TY,Siemens,Industrial Automation (PLC/SCADA) System for Siemens Operations,Industrial Automation (PLC/SCADA),2025-04-15,2025-09-30
+Gaurav Patil,123119207,Artificial Intelligence & Data Science,SY,Tata Technologies,Computer Vision System for Tata Operations,Computer Vision,2025-03-15,2025-08-30
+Abhishek Gupta,121186446,Computer Engineering,BTECH,L&T Technology Services,Full Stack Web Development System for L&T Operations,Full Stack Web Development,2025-02-15,2025-06-30
+Aditya Sawant,122165721,Chemical Engineering,TY,Rakuten,Process Automation System for Rakuten Operations,Process Automation,2025-04-15,2025-08-30
+Gauri More,123140404,Chemical Engineering,SY,Deutsche Bank,Polymer Technology System for Deutsche Operations,Polymer Technology,2025-01-15,2025-09-30
+Gaurav Kulkarni,121160415,Electronics & Telecommunication,BTECH,Infosys,Edge AI System for Infosys Operations,Edge AI,2025-04-15,2025-07-30
+Chinmay Shetty,122199870,Computer Engineering,TY,Tata Technologies,Computer Vision System for Tata Operations,Computer Vision,2025-03-15,2025-05-30
+Rohan Mane,122167223,Mechanical Engineering,TY,Mastercard,Electric Vehicles (EV) System for Mastercard Operations,Electric Vehicles (EV),2025-01-15,2025-09-30
+Tanmay Shah,122164143,Information Technology,TY,Veritas Technologies,Big Data Analytics System for Veritas Operations,Big Data Analytics,2025-02-15,2025-09-30
+Neha Chavan,122186954,Instrumentation Engineering,TY,PhonePe,Industrial Automation (PLC/SCADA) System for PhonePe Operations,Industrial Automation (PLC/SCADA),2025-01-15,2025-09-30
+Mrunal Malhotra,121199905,Instrumentation Engineering,BTECH,L&T Technology Services,Smart Sensors & IoT System for L&T Operations,Smart Sensors & IoT,2025-01-15,2025-05-30
+Yash Sawant,122185680,Information Technology,TY,PhonePe,Cloud Architecture System for PhonePe Operations,Cloud Architecture,2025-02-15,2025-05-30
+Omkar Shetty,121146904,Instrumentation Engineering,BTECH,Cognizant,Process Control Systems System for Cognizant Operations,Process Control Systems,2025-02-15,2025-06-30
+Sanket More,124199978,Instrumentation Engineering,FY,PhonePe,Biomedical Instrumentation System for PhonePe Operations,Biomedical Instrumentation,2025-03-15,2025-08-30
+Siddharth Mane,122149167,Instrumentation Engineering,TY,Persistent Systems,Smart Sensors & IoT System for Persistent Operations,Smart Sensors & IoT,2025-03-15,2025-08-30
+Suyash Mehta,121134277,Instrumentation Engineering,BTECH,Cummins India,Biomedical Instrumentation System for Cummins Operations,Biomedical Instrumentation,2025-04-15,2025-05-30
+Pooja Agarwal,124125750,Electronics & Telecommunication,FY,Cognizant,IoT & Sensor Networks System for Cognizant Operations,IoT & Sensor Networks,2025-01-15,2025-05-30
+Riya Deshmukh,122138977,Information Technology,TY,Mastercard,Big Data Analytics System for Mastercard Operations,Big Data Analytics,2025-02-15,2025-06-30
+Tanmay More,124112625,Chemical Engineering,FY,Veritas Technologies,Process Automation System for Veritas Operations,Process Automation,2025-02-15,2025-07-30
+Aditi Malhotra,122111715,Information Technology,TY,Siemens,Microservices System for Siemens Operations,Microservices,2025-02-15,2025-05-30
+Prathamesh Chavan,123176793,Electronics & Telecommunication,SY,Persistent Systems,Signal Processing System for Persistent Operations,Signal Processing,2025-01-15,2025-07-30
+Sanket Sharma,124153165,Computer Engineering,FY,Siemens,Blockchain System for Siemens Operations,Blockchain,2025-03-15,2025-07-30
+Radhika Mehta,121186924,Information Technology,BTECH,Nvidia,Web Engineering System for Nvidia Operations,Web Engineering,2025-01-15,2025-06-30
+Suyash Gupta,124143402,Computer Engineering,FY,Tech Mahindra,Full Stack Web Development System for Tech Operations,Full Stack Web Development,2025-02-15,2025-08-30
+Riya Gupta,122138451,Computer Engineering,TY,Rakuten,Blockchain System for Rakuten Operations,Blockchain,2025-04-15,2025-05-30
+Aditi Malhotra,123148619,Chemical Engineering,SY,Deutsche Bank,Water Treatment Systems System for Deutsche Operations,Water Treatment Systems,2025-04-15,2025-09-30
+Varun Sharma,121155327,Artificial Intelligence & Data Science,BTECH,L&T Technology Services,Predictive Analytics System for L&T Operations,Predictive Analytics,2025-01-15,2025-08-30
+Aditi Deshmukh,121134583,Instrumentation Engineering,BTECH,Persistent Systems,Smart Sensors & IoT System for Persistent Operations,Smart Sensors & IoT,2025-03-15,2025-09-30
+Radhika Gaikwad,121129991,Electronics & Telecommunication,BTECH,Accenture,IoT & Sensor Networks System for Accenture Operations,IoT & Sensor Networks,2025-01-15,2025-06-30
+Atharva Tambe,122191420,Artificial Intelligence & Data Science,TY,Eaton Corporation,Computer Vision System for Eaton Operations,Computer Vision,2025-03-15,2025-09-30
+Chinmay Chavan,122130690,Instrumentation Engineering,TY,Siemens,Industrial Automation (PLC/SCADA) System for Siemens Operations,Industrial Automation (PLC/SCADA),2025-04-15,2025-05-30
+Aarav Deshmukh,122157848,Mechanical Engineering,TY,Rakuten,CAD/CAM & FEA System for Rakuten Operations,CAD/CAM & FEA,2025-02-15,2025-06-30
+Radhika Chavan,121141741,Computer Engineering,BTECH,Bajaj Auto,Cloud Computing System for Bajaj Operations,Cloud Computing,2025-02-15,2025-06-30
+Neha Chopra,122172450,Chemical Engineering,TY,PhonePe,Green Energy & Biofuels System for PhonePe Operations,Green Energy & Biofuels,2025-04-15,2025-05-30
+Abhishek Malhotra,124139119,Instrumentation Engineering,FY,Tata Technologies,Biomedical Instrumentation System for Tata Operations,Biomedical Instrumentation,2025-03-15,2025-06-30
+Tanmay Gupta,122156226,Computer Engineering,TY,Persistent Systems,DevOps System for Persistent Operations,DevOps,2025-01-15,2025-08-30
+Rohan Sutar,123178889,Chemical Engineering,SY,Cognizant,Water Treatment Systems System for Cognizant Operations,Water Treatment Systems,2025-04-15,2025-07-30
+Siddharth Sharma,121198149,Computer Engineering,BTECH,Tata Consultancy Services,Full Stack Web Development System for Tata Operations,Full Stack Web Development,2025-03-15,2025-05-30
+Riya Joshi,123199585,Mechanical Engineering,SY,PhonePe,Robotics & Automation System for PhonePe Operations,Robotics & Automation,2025-01-15,2025-07-30
+Sanket Sawant,121176778,Chemical Engineering,BTECH,Veritas Technologies,Water Treatment Systems System for Veritas Operations,Water Treatment Systems,2025-04-15,2025-05-30
+Suyash Sawant,121189623,Instrumentation Engineering,BTECH,Eaton Corporation,Industrial Automation (PLC/SCADA) System for Eaton Operations,Industrial Automation (PLC/SCADA),2025-03-15,2025-08-30
+Omkar Tambe,122143896,Information Technology,TY,Tata Consultancy Services,Distributed Systems System for Tata Operations,Distributed Systems,2025-03-15,2025-07-30
+Aditi Bhosale,121195113,Information Technology,BTECH,Tata Technologies,Cloud Architecture System for Tata Operations,Cloud Architecture,2025-03-15,2025-06-30
+Kavya Sharma,122175192,Electronics & Telecommunication,TY,Deutsche Bank,Edge AI System for Deutsche Operations,Edge AI,2025-03-15,2025-06-30
+Omkar Chopra,122147567,Artificial Intelligence & Data Science,TY,Tata Technologies,Deep Learning System for Tata Operations,Deep Learning,2025-03-15,2025-05-30
+Omkar Agarwal,121147972,Information Technology,BTECH,Eaton Corporation,Big Data Analytics System for Eaton Operations,Big Data Analytics,2025-01-15,2025-09-30
+Ananya Sawant,121115197,Chemical Engineering,BTECH,L&T Technology Services,Green Energy & Biofuels System for L&T Operations,Green Energy & Biofuels,2025-01-15,2025-05-30
+Pooja Agarwal,122161216,Artificial Intelligence & Data Science,TY,Siemens,Computer Vision System for Siemens Operations,Computer Vision,2025-04-15,2025-08-30
+Yash Shinde,121130964,Chemical Engineering,BTECH,Veritas Technologies,Water Treatment Systems System for Veritas Operations,Water Treatment Systems,2025-01-15,2025-08-30
+Manasi Patil,122172594,Instrumentation Engineering,TY,Bajaj Auto,Smart Sensors & IoT System for Bajaj Operations,Smart Sensors & IoT,2025-04-15,2025-09-30
+Radhika Mehta,122153785,Chemical Engineering,TY,Cummins India,Water Treatment Systems System for Cummins Operations,Water Treatment Systems,2025-01-15,2025-05-30
+Omkar Sawant,122154593,Chemical Engineering,TY,Tata Technologies,Polymer Technology System for Tata Operations,Polymer Technology,2025-03-15,2025-06-30
+Shubham Agarwal,121192111,Instrumentation Engineering,BTECH,Tata Technologies,Smart Sensors & IoT System for Tata Operations,Smart Sensors & IoT,2025-01-15,2025-06-30
+Sakshi Bansal,121172869,Information Technology,BTECH,Persistent Systems,Web Engineering System for Persistent Operations,Web Engineering,2025-03-15,2025-07-30
+Chinmay Deshmukh,122192663,Mechanical Engineering,TY,Tata Consultancy Services,Electric Vehicles (EV) System for Tata Operations,Electric Vehicles (EV),2025-01-15,2025-09-30
+Sakshi Gupta,121161205,Chemical Engineering,BTECH,Infosys,Water Treatment Systems System for Infosys Operations,Water Treatment Systems,2025-02-15,2025-08-30
+Shreya Patil,121187910,Instrumentation Engineering,BTECH,Bajaj Auto,Process Control Systems System for Bajaj Operations,Process Control Systems,2025-01-15,2025-07-30
+Yash Joshi,122153102,Instrumentation Engineering,TY,Tech Mahindra,Process Control Systems System for Tech Operations,Process Control Systems,2025-02-15,2025-05-30
+Shreya Mane,121131146,Artificial Intelligence & Data Science,BTECH,Tata Consultancy Services,Reinforcement Learning System for Tata Operations,Reinforcement Learning,2025-04-15,2025-05-30
+Isha Joshi,122125292,Artificial Intelligence & Data Science,TY,Cognizant,Computer Vision System for Cognizant Operations,Computer Vision,2025-04-15,2025-06-30
+Tanmay Wagh,122153833,Instrumentation Engineering,TY,PhonePe,Smart Sensors & IoT System for PhonePe Operations,Smart Sensors & IoT,2025-02-15,2025-09-30
+Rohan Malhotra,121167890,Chemical Engineering,BTECH,Tech Mahindra,Water Treatment Systems System for Tech Operations,Water Treatment Systems,2025-02-15,2025-05-30
+Vaishnavi Shinde,121116643,Electronics & Telecommunication,BTECH,Accenture,Signal Processing System for Accenture Operations,Signal Processing,2025-02-15,2025-05-30
+Akanksha Tambe,122184808,Mechanical Engineering,TY,Eaton Corporation,Electric Vehicles (EV) System for Eaton Operations,Electric Vehicles (EV),2025-03-15,2025-09-30
+Shreya Nair,122189314,Information Technology,TY,Cognizant,Big Data Analytics System for Cognizant Operations,Big Data Analytics,2025-02-15,2025-05-30
+Tanvi Malhotra,122193827,Chemical Engineering,TY,PhonePe,Green Energy & Biofuels System for PhonePe Operations,Green Energy & Biofuels,2025-03-15,2025-09-30
+Aditi Shetty,124178790,Mechanical Engineering,FY,Siemens,Thermal Engineering System for Siemens Operations,Thermal Engineering,2025-01-15,2025-07-30
+Aarav Mane,121128490,Computer Engineering,BTECH,Siemens,Computer Vision System for Siemens Operations,Computer Vision,2025-04-15,2025-07-30
+Tejas More,122197393,Instrumentation Engineering,TY,Nvidia,Industrial Automation (PLC/SCADA) System for Nvidia Operations,Industrial Automation (PLC/SCADA),2025-04-15,2025-08-30
+Gaurav Chavan,121167467,Instrumentation Engineering,BTECH,Bajaj Auto,Biomedical Instrumentation System for Bajaj Operations,Biomedical Instrumentation,2025-01-15,2025-06-30
+Shreya Sutar,123195809,Information Technology,SY,Siemens,Information Security System for Siemens Operations,Information Security,2025-04-15,2025-07-30
+Riya Sawant,123116665,Instrumentation Engineering,SY,Tata Consultancy Services,Process Control Systems System for Tata Operations,Process Control Systems,2025-03-15,2025-05-30
+Akanksha Ingale,122134894,Chemical Engineering,TY,Persistent Systems,Green Energy & Biofuels System for Persistent Operations,Green Energy & Biofuels,2025-02-15,2025-08-30
+Pranav Pawar,121115486,Information Technology,BTECH,Veritas Technologies,Microservices System for Veritas Operations,Microservices,2025-02-15,2025-06-30
+Prathamesh Shinde,123152105,Information Technology,SY,Mastercard,Distributed Systems System for Mastercard Operations,Distributed Systems,2025-01-15,2025-05-30
+Rohan Shinde,121190892,Artificial Intelligence & Data Science,BTECH,Persistent Systems,Reinforcement Learning System for Persistent Operations,Reinforcement Learning,2025-04-15,2025-08-30
+Radhika Kulkarni,122179525,Instrumentation Engineering,TY,Accenture,Industrial Automation (PLC/SCADA) System for Accenture Operations,Industrial Automation (PLC/SCADA),2025-03-15,2025-07-30
+Tanvi Kadam,123156439,Information Technology,SY,L&T Technology Services,Microservices System for L&T Operations,Microservices,2025-02-15,2025-07-30
+Radhika Tambe,121195217,Mechanical Engineering,BTECH,Barclays,Electric Vehicles (EV) System for Barclays Operations,Electric Vehicles (EV),2025-03-15,2025-09-30
+Manasi Malhotra,122197140,Mechanical Engineering,TY,Infosys,Thermal Engineering System for Infosys Operations,Thermal Engineering,2025-01-15,2025-09-30
+Ananya Mane,121178271,Computer Engineering,BTECH,Tata Technologies,Blockchain System for Tata Operations,Blockchain,2025-01-15,2025-05-30
+Pranav Chavan,122197985,Chemical Engineering,TY,Barclays,Process Automation System for Barclays Operations,Process Automation,2025-01-15,2025-08-30
+Tanmay Ingale,124119762,Instrumentation Engineering,FY,Veritas Technologies,Biomedical Instrumentation System for Veritas Operations,Biomedical Instrumentation,2025-02-15,2025-05-30
+Prathamesh Ingale,122162364,Computer Engineering,TY,Tata Technologies,Blockchain System for Tata Operations,Blockchain,2025-01-15,2025-07-30
+Shruti Sawant,121196498,Artificial Intelligence & Data Science,BTECH,Tech Mahindra,Deep Learning System for Tech Operations,Deep Learning,2025-04-15,2025-05-30
+Manasi Kulkarni,121119817,Instrumentation Engineering,BTECH,Nvidia,Industrial Automation (PLC/SCADA) System for Nvidia Operations,Industrial Automation (PLC/SCADA),2025-01-15,2025-09-30
+Gaurav Shah,123121721,Chemical Engineering,SY,Thermax,Polymer Technology System for Thermax Operations,Polymer Technology,2025-04-15,2025-05-30
+Riya Sutar,121130585,Instrumentation Engineering,BTECH,Tech Mahindra,Biomedical Instrumentation System for Tech Operations,Biomedical Instrumentation,2025-04-15,2025-06-30
+Aarav Ingale,122115226,Instrumentation Engineering,TY,Tech Mahindra,Smart Sensors & IoT System for Tech Operations,Smart Sensors & IoT,2025-01-15,2025-08-30
+Vaishnavi Shinde,122188326,Information Technology,TY,Siemens,Distributed Systems System for Siemens Operations,Distributed Systems,2025-01-15,2025-07-30
+Yash Pawar,121180971,Chemical Engineering,BTECH,Persistent Systems,Water Treatment Systems System for Persistent Operations,Water Treatment Systems,2025-04-15,2025-09-30
+Pranav Gaikwad,121122356,Chemical Engineering,BTECH,Deutsche Bank,Water Treatment Systems System for Deutsche Operations,Water Treatment Systems,2025-02-15,2025-05-30
+Sakshi Bhosale,122193787,Artificial Intelligence & Data Science,TY,Nvidia,Predictive Analytics System for Nvidia Operations,Predictive Analytics,2025-01-15,2025-09-30
+Sanket Verma,122182679,Mechanical Engineering,TY,Accenture,CAD/CAM & FEA System for Accenture Operations,CAD/CAM & FEA,2025-02-15,2025-09-30
+Neha Pawar,123138352,Computer Engineering,SY,Rakuten,Blockchain System for Rakuten Operations,Blockchain,2025-03-15,2025-07-30
+Prathamesh Gupta,121119844,Chemical Engineering,BTECH,Infosys,Water Treatment Systems System for Infosys Operations,Water Treatment Systems,2025-02-15,2025-05-30
+Aditya Agarwal,124185887,Mechanical Engineering,FY,Mastercard,Robotics & Automation System for Mastercard Operations,Robotics & Automation,2025-04-15,2025-09-30
+Shruti Jadhav,121140778,Mechanical Engineering,BTECH,Mastercard,Mechatronics System for Mastercard Operations,Mechatronics,2025-02-15,2025-06-30
+Abhishek Mehta,122130556,Mechanical Engineering,TY,L&T Technology Services,Mechatronics System for L&T Operations,Mechatronics,2025-03-15,2025-09-30
+Shubham Gupta,124115467,Chemical Engineering,FY,Bajaj Auto,Polymer Technology System for Bajaj Operations,Polymer Technology,2025-01-15,2025-09-30
+Omkar Verma,123143954,Mechanical Engineering,SY,Rakuten,Mechatronics System for Rakuten Operations,Mechatronics,2025-01-15,2025-08-30
+Varun Sutar,124185474,Chemical Engineering,FY,Tata Consultancy Services,Process Automation System for Tata Operations,Process Automation,2025-02-15,2025-05-30
+Radhika More,122161628,Electronics & Telecommunication,TY,Deutsche Bank,VLSI Design System for Deutsche Operations,VLSI Design,2025-02-15,2025-08-30
+Sakshi Shah,121127613,Electronics & Telecommunication,BTECH,Tata Technologies,IoT & Sensor Networks System for Tata Operations,IoT & Sensor Networks,2025-03-15,2025-09-30
+Bhakti Verma,121139776,Instrumentation Engineering,BTECH,Deutsche Bank,Process Control Systems System for Deutsche Operations,Process Control Systems,2025-03-15,2025-08-30
+Yash Tambe,124136590,Chemical Engineering,FY,Nvidia,Polymer Technology System for Nvidia Operations,Polymer Technology,2025-04-15,2025-05-30
+Aditya Kadam,122185687,Computer Engineering,TY,L&T Technology Services,Blockchain System for L&T Operations,Blockchain,2025-02-15,2025-05-30
+Vaishnavi Deshmukh,122131157,Mechanical Engineering,TY,Infosys,Electric Vehicles (EV) System for Infosys Operations,Electric Vehicles (EV),2025-02-15,2025-08-30
+Radhika Sutar,121194999,Mechanical Engineering,BTECH,Tech Mahindra,Robotics & Automation System for Tech Operations,Robotics & Automation,2025-02-15,2025-06-30
+Bhakti Shinde,122194738,Instrumentation Engineering,TY,Deutsche Bank,Biomedical Instrumentation System for Deutsche Operations,Biomedical Instrumentation,2025-04-15,2025-06-30
+Sneha Malhotra,121158335,Electronics & Telecommunication,BTECH,Thermax,Embedded Systems System for Thermax Operations,Embedded Systems,2025-02-15,2025-05-30
+Aditi Chopra,121178998,Mechanical Engineering,BTECH,Veritas Technologies,Robotics & Automation System for Veritas Operations,Robotics & Automation,2025-03-15,2025-05-30
+Atharva Tambe,122179717,Chemical Engineering,TY,PhonePe,Polymer Technology System for PhonePe Operations,Polymer Technology,2025-01-15,2025-06-30
+Radhika Sawant,121177814,Artificial Intelligence & Data Science,BTECH,Mastercard,Computer Vision System for Mastercard Operations,Computer Vision,2025-04-15,2025-06-30
+Riya Jadhav,121127535,Mechanical Engineering,BTECH,Accenture,Electric Vehicles (EV) System for Accenture Operations,Electric Vehicles (EV),2025-03-15,2025-05-30
+Kavya Mane,121193484,Computer Engineering,BTECH,Tata Consultancy Services,DevOps System for Tata Operations,DevOps,2025-02-15,2025-07-30
+Ananya Sawant,121164258,Artificial Intelligence & Data Science,BTECH,Cummins India,Predictive Analytics System for Cummins Operations,Predictive Analytics,2025-02-15,2025-07-30
+Tanmay Sawant,124157283,Mechanical Engineering,FY,PhonePe,Thermal Engineering System for PhonePe Operations,Thermal Engineering,2025-02-15,2025-06-30
+Prathamesh Gaikwad,123160892,Mechanical Engineering,SY,Cummins India,Robotics & Automation System for Cummins Operations,Robotics & Automation,2025-03-15,2025-05-30
+Kunal Wagh,122137202,Instrumentation Engineering,TY,Persistent Systems,Process Control Systems System for Persistent Operations,Process Control Systems,2025-02-15,2025-08-30
+Shreya Iyer,121159264,Chemical Engineering,BTECH,Nvidia,Process Automation System for Nvidia Operations,Process Automation,2025-03-15,2025-06-30
+Atharva Agarwal,124165714,Information Technology,FY,Infosys,Web Engineering System for Infosys Operations,Web Engineering,2025-03-15,2025-07-30
+Kunal Jadhav,121159841,Computer Engineering,BTECH,Cummins India,Full Stack Web Development System for Cummins Operations,Full Stack Web Development,2025-04-15,2025-05-30
+Manasi Nair,123186828,Mechanical Engineering,SY,Eaton Corporation,Electric Vehicles (EV) System for Eaton Operations,Electric Vehicles (EV),2025-02-15,2025-06-30
+Sakshi Wagh,122194970,Computer Engineering,TY,PhonePe,Cybersecurity System for PhonePe Operations,Cybersecurity,2025-04-15,2025-07-30
+Gaurav Chavan,122131729,Computer Engineering,TY,Deutsche Bank,Cloud Computing System for Deutsche Operations,Cloud Computing,2025-04-15,2025-06-30
+Harsh Nair,122145188,Computer Engineering,TY,Barclays,Cloud Computing System for Barclays Operations,Cloud Computing,2025-02-15,2025-09-30
+Shruti Sutar,122111630,Mechanical Engineering,TY,Mastercard,Robotics & Automation System for Mastercard Operations,Robotics & Automation,2025-02-15,2025-07-30
+Atharva Ingale,123145455,Artificial Intelligence & Data Science,SY,Cognizant,Generative AI System for Cognizant Operations,Generative AI,2025-02-15,2025-09-30
+Mrunal Malhotra,121132367,Electronics & Telecommunication,BTECH,Accenture,Embedded Systems System for Accenture Operations,Embedded Systems,2025-04-15,2025-06-30
+Aditi Joshi,121191491,Artificial Intelligence & Data Science,BTECH,Tech Mahindra,Generative AI System for Tech Operations,Generative AI,2025-01-15,2025-06-30
+Prathamesh Kadam,121196508,Artificial Intelligence & Data Science,BTECH,Rakuten,Predictive Analytics System for Rakuten Operations,Predictive Analytics,2025-03-15,2025-08-30
+Chinmay Pawar,122135610,Chemical Engineering,TY,Cummins India,Green Energy & Biofuels System for Cummins Operations,Green Energy & Biofuels,2025-03-15,2025-07-30
+Prathamesh Chavan,122141954,Information Technology,TY,Rakuten,Web Engineering System for Rakuten Operations,Web Engineering,2025-04-15,2025-08-30
+Shubham Mehta,121196180,Computer Engineering,BTECH,L&T Technology Services,Full Stack Web Development System for L&T Operations,Full Stack Web Development,2025-03-15,2025-09-30
+Manasi Patil,121171968,Instrumentation Engineering,BTECH,Thermax,Process Control Systems System for Thermax Operations,Process Control Systems,2025-01-15,2025-06-30
+Sakshi Chopra,123133602,Mechanical Engineering,SY,Tata Consultancy Services,Mechatronics System for Tata Operations,Mechatronics,2025-04-15,2025-06-30
+Chinmay Sutar,122177155,Information Technology,TY,Thermax,Information Security System for Thermax Operations,Information Security,2025-02-15,2025-07-30
+Riya Shetty,123188470,Computer Engineering,SY,Bajaj Auto,Natural Language Processing System for Bajaj Operations,Natural Language Processing,2025-03-15,2025-09-30
+Shreya More,123188582,Information Technology,SY,Veritas Technologies,Distributed Systems System for Veritas Operations,Distributed Systems,2025-03-15,2025-08-30
+Chinmay Wagh,122197689,Information Technology,TY,Infosys,Cloud Architecture System for Infosys Operations,Cloud Architecture,2025-01-15,2025-08-30
+Shubham Tambe,121163280,Instrumentation Engineering,BTECH,Deutsche Bank,Process Control Systems System for Deutsche Operations,Process Control Systems,2025-04-15,2025-08-30
+Sakshi Gaikwad,121122507,Artificial Intelligence & Data Science,BTECH,Tata Technologies,Deep Learning System for Tata Operations,Deep Learning,2025-04-15,2025-08-30
+Tanvi Patil,121196459,Electronics & Telecommunication,BTECH,Cognizant,IoT & Sensor Networks System for Cognizant Operations,IoT & Sensor Networks,2025-04-15,2025-05-30
+Kavya Shetty,122146899,Chemical Engineering,TY,Cummins India,Water Treatment Systems System for Cummins Operations,Water Treatment Systems,2025-04-15,2025-06-30
+Sakshi Mehta,124158180,Chemical Engineering,FY,Veritas Technologies,Polymer Technology System for Veritas Operations,Polymer Technology,2025-03-15,2025-05-30
+Shubham Bansal,123190531,Information Technology,SY,Rakuten,Information Security System for Rakuten Operations,Information Security,2025-01-15,2025-07-30
+Chinmay Iyer,124166377,Chemical Engineering,FY,Veritas Technologies,Computational Fluid Dynamics System for Veritas Operations,Computational Fluid Dynamics,2025-03-15,2025-05-30
+Harsh Sharma,121131315,Artificial Intelligence & Data Science,BTECH,Deutsche Bank,Deep Learning System for Deutsche Operations,Deep Learning,2025-02-15,2025-07-30
+Pranav Malhotra,121160126,Electronics & Telecommunication,BTECH,Cognizant,Embedded Systems System for Cognizant Operations,Embedded Systems,2025-03-15,2025-07-30
+Omkar More,122193186,Mechanical Engineering,TY,Tata Consultancy Services,Thermal Engineering System for Tata Operations,Thermal Engineering,2025-02-15,2025-09-30
+Abhishek Patil,123151981,Computer Engineering,SY,Mastercard,Full Stack Web Development System for Mastercard Operations,Full Stack Web Development,2025-03-15,2025-07-30
+Tanvi Tambe,122121924,Mechanical Engineering,TY,Thermax,CAD/CAM & FEA System for Thermax Operations,CAD/CAM & FEA,2025-01-15,2025-08-30
+Tanvi Gaikwad,121172804,Electronics & Telecommunication,BTECH,Eaton Corporation,Signal Processing System for Eaton Operations,Signal Processing,2025-04-15,2025-06-30
+Sanket Patil,124147917,Instrumentation Engineering,FY,Tata Consultancy Services,Industrial Automation (PLC/SCADA) System for Tata Operations,Industrial Automation (PLC/SCADA),2025-04-15,2025-06-30
+Riya Agarwal,122120369,Electronics & Telecommunication,TY,PhonePe,IoT & Sensor Networks System for PhonePe Operations,IoT & Sensor Networks,2025-04-15,2025-08-30
+Radhika Mehta,123193391,Instrumentation Engineering,SY,Veritas Technologies,Process Control Systems System for Veritas Operations,Process Control Systems,2025-03-15,2025-06-30
+Isha Chavan,121127286,Instrumentation Engineering,BTECH,Siemens,Smart Sensors & IoT System for Siemens Operations,Smart Sensors & IoT,2025-04-15,2025-06-30
+Gauri Patil,121144388,Information Technology,BTECH,PhonePe,Information Security System for PhonePe Operations,Information Security,2025-01-15,2025-07-30
+Aarav Kadam,122173115,Computer Engineering,TY,Eaton Corporation,Full Stack Web Development System for Eaton Operations,Full Stack Web Development,2025-02-15,2025-07-30
+Sneha Kulkarni,122144157,Instrumentation Engineering,TY,Persistent Systems,Industrial Automation (PLC/SCADA) System for Persistent Operations,Industrial Automation (PLC/SCADA),2025-04-15,2025-07-30
+Gauri Tambe,122142961,Information Technology,TY,Deutsche Bank,Cloud Architecture System for Deutsche Operations,Cloud Architecture,2025-02-15,2025-08-30
+Yash Mehta,122166494,Chemical Engineering,TY,Siemens,Process Automation System for Siemens Operations,Process Automation,2025-04-15,2025-09-30
+Tejas Wagh,121195633,Chemical Engineering,BTECH,Mastercard,Polymer Technology System for Mastercard Operations,Polymer Technology,2025-03-15,2025-09-30
+Riya Sharma,123190262,Artificial Intelligence & Data Science,SY,Barclays,Reinforcement Learning System for Barclays Operations,Reinforcement Learning,2025-02-15,2025-06-30
+Siddharth Bansal,122140215,Chemical Engineering,TY,Deutsche Bank,Computational Fluid Dynamics System for Deutsche Operations,Computational Fluid Dynamics,2025-04-15,2025-08-30
+Aarav Pawar,123125698,Instrumentation Engineering,SY,Thermax,Biomedical Instrumentation System for Thermax Operations,Biomedical Instrumentation,2025-01-15,2025-09-30
+Harsh Pawar,121189802,Electronics & Telecommunication,BTECH,L&T Technology Services,Edge AI System for L&T Operations,Edge AI,2025-01-15,2025-07-30
+Siddharth Deshmukh,122178818,Artificial Intelligence & Data Science,TY,Accenture,Generative AI System for Accenture Operations,Generative AI,2025-04-15,2025-07-30
+Sakshi Kadam,123166924,Artificial Intelligence & Data Science,SY,Nvidia,Deep Learning System for Nvidia Operations,Deep Learning,2025-02-15,2025-05-30
+Riya Jadhav,122115356,Chemical Engineering,TY,Tech Mahindra,Polymer Technology System for Tech Operations,Polymer Technology,2025-04-15,2025-05-30
+Shreya Gaikwad,124182294,Mechanical Engineering,FY,Veritas Technologies,CAD/CAM & FEA System for Veritas Operations,CAD/CAM & FEA,2025-04-15,2025-07-30
+Ananya Gupta,123186988,Electronics & Telecommunication,SY,Mastercard,Wireless Communication System for Mastercard Operations,Wireless Communication,2025-01-15,2025-08-30
+Abhishek Kulkarni,122147560,Mechanical Engineering,TY,Barclays,Mechatronics System for Barclays Operations,Mechatronics,2025-03-15,2025-09-30
+Pooja Wagh,124133851,Computer Engineering,FY,Deutsche Bank,Cybersecurity System for Deutsche Operations,Cybersecurity,2025-04-15,2025-08-30
+Pooja Mehta,122118428,Mechanical Engineering,TY,Cummins India,Mechatronics System for Cummins Operations,Mechatronics,2025-01-15,2025-06-30
+Rohan Agarwal,122114994,Information Technology,TY,Veritas Technologies,Information Security System for Veritas Operations,Information Security,2025-04-15,2025-06-30
+Tejas Joshi,124172773,Computer Engineering,FY,Tata Consultancy Services,Blockchain System for Tata Operations,Blockchain,2025-03-15,2025-08-30
+Tanmay Nair,121191579,Electronics & Telecommunication,BTECH,L&T Technology Services,Wireless Communication System for L&T Operations,Wireless Communication,2025-02-15,2025-09-30
+Isha Agarwal,121188943,Artificial Intelligence & Data Science,BTECH,Accenture,Deep Learning System for Accenture Operations,Deep Learning,2025-03-15,2025-09-30
+Pranav Agarwal,121176321,Artificial Intelligence & Data Science,BTECH,Tata Consultancy Services,Reinforcement Learning System for Tata Operations,Reinforcement Learning,2025-04-15,2025-07-30
+Kunal Ingale,122177297,Electronics & Telecommunication,TY,Tata Consultancy Services,Wireless Communication System for Tata Operations,Wireless Communication,2025-01-15,2025-06-30
+Shruti Mane,122186646,Artificial Intelligence & Data Science,TY,Tech Mahindra,Predictive Analytics System for Tech Operations,Predictive Analytics,2025-02-15,2025-09-30
+Ananya Ingale,123191522,Artificial Intelligence & Data Science,SY,Accenture,Reinforcement Learning System for Accenture Operations,Reinforcement Learning,2025-04-15,2025-08-30
+Ananya Iyer,122180484,Information Technology,TY,Tata Technologies,Web Engineering System for Tata Operations,Web Engineering,2025-01-15,2025-05-30
+Pooja Wagh,124114100,Electronics & Telecommunication,FY,Tata Technologies,Wireless Communication System for Tata Operations,Wireless Communication,2025-03-15,2025-07-30
+Pranav Gupta,124172277,Artificial Intelligence & Data Science,FY,Tech Mahindra,Reinforcement Learning System for Tech Operations,Reinforcement Learning,2025-04-15,2025-08-30
+Kunal Gupta,121190749,Chemical Engineering,BTECH,Accenture,Computational Fluid Dynamics System for Accenture Operations,Computational Fluid Dynamics,2025-01-15,2025-08-30
+Radhika Deshmukh,122174434,Artificial Intelligence & Data Science,TY,Barclays,Generative AI System for Barclays Operations,Generative AI,2025-02-15,2025-06-30
+Siddharth Sharma,124186556,Chemical Engineering,FY,PhonePe,Process Automation System for PhonePe Operations,Process Automation,2025-03-15,2025-05-30
+Suyash Mehta,124135672,Information Technology,FY,L&T Technology Services,Big Data Analytics System for L&T Operations,Big Data Analytics,2025-04-15,2025-09-30
+Kavya Chavan,122119348,Mechanical Engineering,TY,Nvidia,Thermal Engineering System for Nvidia Operations,Thermal Engineering,2025-03-15,2025-05-30
+Ananya Sharma,121195215,Mechanical Engineering,BTECH,Nvidia,CAD/CAM & FEA System for Nvidia Operations,CAD/CAM & FEA,2025-03-15,2025-08-30
+Abhishek Jadhav,124128738,Mechanical Engineering,FY,Rakuten,Electric Vehicles (EV) System for Rakuten Operations,Electric Vehicles (EV),2025-01-15,2025-08-30
+Tejas Sharma,122120875,Artificial Intelligence & Data Science,TY,Persistent Systems,Deep Learning System for Persistent Operations,Deep Learning,2025-01-15,2025-08-30
+Sanket Wagh,121136439,Electronics & Telecommunication,BTECH,Thermax,IoT & Sensor Networks System for Thermax Operations,IoT & Sensor Networks,2025-02-15,2025-08-30
+Tanmay Ingale,123171661,Mechanical Engineering,SY,Cognizant,Electric Vehicles (EV) System for Cognizant Operations,Electric Vehicles (EV),2025-01-15,2025-06-30
+Aditya Sutar,121131361,Mechanical Engineering,BTECH,Deutsche Bank,Electric Vehicles (EV) System for Deutsche Operations,Electric Vehicles (EV),2025-04-15,2025-08-30
+Chinmay Sharma,123123985,Instrumentation Engineering,SY,Infosys,Smart Sensors & IoT System for Infosys Operations,Smart Sensors & IoT,2025-04-15,2025-06-30
+Kunal Sutar,121172423,Mechanical Engineering,BTECH,L&T Technology Services,Mechatronics System for L&T Operations,Mechatronics,2025-03-15,2025-06-30
+Atharva Pawar,124112674,Information Technology,FY,Persistent Systems,Microservices System for Persistent Operations,Microservices,2025-01-15,2025-06-30
+Sanket Bhosale,124130862,Electronics & Telecommunication,FY,PhonePe,Edge AI System for PhonePe Operations,Edge AI,2025-04-15,2025-06-30
+Tanvi Jadhav,123174341,Chemical Engineering,SY,Persistent Systems,Process Automation System for Persistent Operations,Process Automation,2025-03-15,2025-06-30
+Prathamesh Chopra,121145668,Electronics & Telecommunication,BTECH,Tata Technologies,VLSI Design System for Tata Operations,VLSI Design,2025-03-15,2025-06-30
+Shruti Sharma,121158847,Information Technology,BTECH,Tata Consultancy Services,Big Data Analytics System for Tata Operations,Big Data Analytics,2025-01-15,2025-09-30
+Manasi Bansal,122140527,Chemical Engineering,TY,Tata Consultancy Services,Polymer Technology System for Tata Operations,Polymer Technology,2025-04-15,2025-05-30
+Akanksha Ingale,122127983,Chemical Engineering,TY,Rakuten,Water Treatment Systems System for Rakuten Operations,Water Treatment Systems,2025-01-15,2025-08-30
+Suyash Sawant,122182771,Instrumentation Engineering,TY,Mastercard,Process Control Systems System for Mastercard Operations,Process Control Systems,2025-04-15,2025-05-30
+Pranav Ingale,121150288,Mechanical Engineering,BTECH,Tech Mahindra,Electric Vehicles (EV) System for Tech Operations,Electric Vehicles (EV),2025-01-15,2025-05-30
+Chinmay Shinde,122126209,Instrumentation Engineering,TY,Tata Consultancy Services,Process Control Systems System for Tata Operations,Process Control Systems,2025-02-15,2025-07-30
+Bhakti Shetty,122139710,Mechanical Engineering,TY,Infosys,Robotics & Automation System for Infosys Operations,Robotics & Automation,2025-02-15,2025-05-30
+Tanvi Kulkarni,124174237,Chemical Engineering,FY,Persistent Systems,Polymer Technology System for Persistent Operations,Polymer Technology,2025-01-15,2025-07-30
+Kunal Deshmukh,121162376,Electronics & Telecommunication,BTECH,Veritas Technologies,Edge AI System for Veritas Operations,Edge AI,2025-02-15,2025-05-30
+Tejas Mehta,121166281,Information Technology,BTECH,Cummins India,Information Security System for Cummins Operations,Information Security,2025-02-15,2025-05-30
+Ananya Bansal,122161537,Electronics & Telecommunication,TY,Siemens,Wireless Communication System for Siemens Operations,Wireless Communication,2025-01-15,2025-07-30
+Riya Gupta,124183726,Artificial Intelligence & Data Science,FY,Tata Consultancy Services,NLP & LLMs System for Tata Operations,NLP & LLMs,2025-02-15,2025-09-30
+Radhika Ingale,121159671,Electronics & Telecommunication,BTECH,Siemens,Edge AI System for Siemens Operations,Edge AI,2025-01-15,2025-06-30
+Siddharth Chavan,124148507,Artificial Intelligence & Data Science,FY,Bajaj Auto,Predictive Analytics System for Bajaj Operations,Predictive Analytics,2025-03-15,2025-06-30
+Mrunal Pawar,123116727,Electronics & Telecommunication,SY,Deutsche Bank,IoT & Sensor Networks System for Deutsche Operations,IoT & Sensor Networks,2025-01-15,2025-08-30
+Mrunal Agarwal,124174192,Chemical Engineering,FY,Infosys,Water Treatment Systems System for Infosys Operations,Water Treatment Systems,2025-01-15,2025-07-30
+Akanksha Chopra,122121565,Chemical Engineering,TY,Bajaj Auto,Green Energy & Biofuels System for Bajaj Operations,Green Energy & Biofuels,2025-01-15,2025-05-30
+Riya Gupta,122180487,Instrumentation Engineering,TY,Siemens,Biomedical Instrumentation System for Siemens Operations,Biomedical Instrumentation,2025-03-15,2025-09-30
+Sneha Shetty,122128266,Instrumentation Engineering,TY,L&T Technology Services,Industrial Automation (PLC/SCADA) System for L&T Operations,Industrial Automation (PLC/SCADA),2025-01-15,2025-09-30
+Mrunal Sawant,121186715,Electronics & Telecommunication,BTECH,Cognizant,Wireless Communication System for Cognizant Operations,Wireless Communication,2025-01-15,2025-09-30
+Chinmay Iyer,122133150,Chemical Engineering,TY,Deutsche Bank,Computational Fluid Dynamics System for Deutsche Operations,Computational Fluid Dynamics,2025-04-15,2025-06-30
+Rohan Shinde,121183783,Instrumentation Engineering,BTECH,Deutsche Bank,Process Control Systems System for Deutsche Operations,Process Control Systems,2025-02-15,2025-07-30
+Sneha Malhotra,121163211,Computer Engineering,BTECH,L&T Technology Services,Natural Language Processing System for L&T Operations,Natural Language Processing,2025-01-15,2025-07-30
+Gaurav Iyer,122184566,Chemical Engineering,TY,Persistent Systems,Process Automation System for Persistent Operations,Process Automation,2025-04-15,2025-08-30
+Sneha Mane,122136812,Electronics & Telecommunication,TY,Rakuten,Embedded Systems System for Rakuten Operations,Embedded Systems,2025-01-15,2025-06-30
+Kavya Gupta,121198595,Chemical Engineering,BTECH,Persistent Systems,Computational Fluid Dynamics System for Persistent Operations,Computational Fluid Dynamics,2025-01-15,2025-07-30
+Neha Iyer,123177365,Instrumentation Engineering,SY,Siemens,Process Control Systems System for Siemens Operations,Process Control Systems,2025-02-15,2025-09-30
+Suyash Iyer,124190632,Mechanical Engineering,FY,Eaton Corporation,Electric Vehicles (EV) System for Eaton Operations,Electric Vehicles (EV),2025-03-15,2025-08-30
+Manasi Kadam,123110298,Chemical Engineering,SY,Eaton Corporation,Polymer Technology System for Eaton Operations,Polymer Technology,2025-04-15,2025-06-30
+Yash Gupta,122188918,Instrumentation Engineering,TY,Barclays,Smart Sensors & IoT System for Barclays Operations,Smart Sensors & IoT,2025-02-15,2025-09-30
+Rohan Bhosale,122191111,Artificial Intelligence & Data Science,TY,Tata Technologies,Predictive Analytics System for Tata Operations,Predictive Analytics,2025-03-15,2025-06-30
+Prathamesh Shah,123174407,Computer Engineering,SY,Barclays,DevOps System for Barclays Operations,DevOps,2025-04-15,2025-07-30
+Aditya Agarwal,122153438,Information Technology,TY,Infosys,Information Security System for Infosys Operations,Information Security,2025-03-15,2025-07-30
+Aditi Shah,122129593,Computer Engineering,TY,Infosys,DevOps System for Infosys Operations,DevOps,2025-02-15,2025-09-30
+Gauri Chopra,124162902,Artificial Intelligence & Data Science,FY,Infosys,Deep Learning System for Infosys Operations,Deep Learning,2025-02-15,2025-09-30
+Sneha Sutar,122187684,Chemical Engineering,TY,Cummins India,Water Treatment Systems System for Cummins Operations,Water Treatment Systems,2025-04-15,2025-05-30
+Yash Bansal,123150822,Instrumentation Engineering,SY,L&T Technology Services,Process Control Systems System for L&T Operations,Process Control Systems,2025-01-15,2025-06-30
+Isha Kulkarni,122167480,Electronics & Telecommunication,TY,Barclays,VLSI Design System for Barclays Operations,VLSI Design,2025-02-15,2025-06-30
+Tanmay Mane,122157214,Artificial Intelligence & Data Science,TY,Eaton Corporation,Generative AI System for Eaton Operations,Generative AI,2025-01-15,2025-06-30
+Atharva Wagh,121171918,Mechanical Engineering,BTECH,Accenture,Electric Vehicles (EV) System for Accenture Operations,Electric Vehicles (EV),2025-02-15,2025-06-30
+Radhika Sharma,122114841,Information Technology,TY,Siemens,Big Data Analytics System for Siemens Operations,Big Data Analytics,2025-04-15,2025-07-30
+Radhika Joshi,123197145,Computer Engineering,SY,Tata Consultancy Services,DevOps System for Tata Operations,DevOps,2025-02-15,2025-08-30
+Atharva Bhosale,121176205,Electronics & Telecommunication,BTECH,Cummins India,Edge AI System for Cummins Operations,Edge AI,2025-02-15,2025-07-30
+Sanket Patil,123136754,Mechanical Engineering,SY,Tata Technologies,Electric Vehicles (EV) System for Tata Operations,Electric Vehicles (EV),2025-02-15,2025-07-30
+Shubham Pawar,121189115,Artificial Intelligence & Data Science,BTECH,L&T Technology Services,Deep Learning System for L&T Operations,Deep Learning,2025-01-15,2025-07-30
+Kavya Kadam,121188418,Information Technology,BTECH,Cummins India,Microservices System for Cummins Operations,Microservices,2025-04-15,2025-08-30
+Sayali Deshmukh,121196582,Information Technology,BTECH,Siemens,Information Security System for Siemens Operations,Information Security,2025-04-15,2025-06-30
+Gauri Kulkarni,124126681,Instrumentation Engineering,FY,Thermax,Smart Sensors & IoT System for Thermax Operations,Smart Sensors & IoT,2025-04-15,2025-05-30
+Ananya Wagh,121170166,Electronics & Telecommunication,BTECH,Tech Mahindra,Signal Processing System for Tech Operations,Signal Processing,2025-02-15,2025-09-30
+Vaishnavi Joshi,121181433,Electronics & Telecommunication,BTECH,Cognizant,VLSI Design System for Cognizant Operations,VLSI Design,2025-04-15,2025-08-30
+Gauri Wagh,124189344,Electronics & Telecommunication,FY,Mastercard,IoT & Sensor Networks System for Mastercard Operations,IoT & Sensor Networks,2025-04-15,2025-09-30
+Neha Shetty,123198657,Instrumentation Engineering,SY,Eaton Corporation,Industrial Automation (PLC/SCADA) System for Eaton Operations,Industrial Automation (PLC/SCADA),2025-04-15,2025-06-30
+Kavya Agarwal,121186706,Electronics & Telecommunication,BTECH,Eaton Corporation,Wireless Communication System for Eaton Operations,Wireless Communication,2025-02-15,2025-05-30
+Omkar Agarwal,122161415,Electronics & Telecommunication,TY,Persistent Systems,Embedded Systems System for Persistent Operations,Embedded Systems,2025-03-15,2025-08-30
+Atharva Chavan,122191694,Instrumentation Engineering,TY,Siemens,Biomedical Instrumentation System for Siemens Operations,Biomedical Instrumentation,2025-04-15,2025-07-30
+Tanmay Sharma,123196683,Artificial Intelligence & Data Science,SY,Accenture,Computer Vision System for Accenture Operations,Computer Vision,2025-01-15,2025-08-30
+Tanvi Kulkarni,121175726,Mechanical Engineering,BTECH,Barclays,Electric Vehicles (EV) System for Barclays Operations,Electric Vehicles (EV),2025-01-15,2025-08-30
+Gaurav Deshmukh,121181100,Artificial Intelligence & Data Science,BTECH,Accenture,Predictive Analytics System for Accenture Operations,Predictive Analytics,2025-02-15,2025-06-30
+Yash Bansal,121165340,Artificial Intelligence & Data Science,BTECH,Siemens,Computer Vision System for Siemens Operations,Computer Vision,2025-03-15,2025-07-30
+Varun Tambe,122159668,Information Technology,TY,L&T Technology Services,Web Engineering System for L&T Operations,Web Engineering,2025-03-15,2025-05-30
+Isha Shinde,122111237,Artificial Intelligence & Data Science,TY,Thermax,Deep Learning System for Thermax Operations,Deep Learning,2025-04-15,2025-06-30
+Shubham Gupta,124120239,Electronics & Telecommunication,FY,Barclays,Signal Processing System for Barclays Operations,Signal Processing,2025-03-15,2025-05-30
+Aarav Shetty,122174829,Electronics & Telecommunication,TY,Cognizant,Wireless Communication System for Cognizant Operations,Wireless Communication,2025-04-15,2025-06-30
+Kavya Jadhav,121171681,Computer Engineering,BTECH,Cognizant,Computer Vision System for Cognizant Operations,Computer Vision,2025-02-15,2025-09-30
+Akanksha Tambe,121177245,Chemical Engineering,BTECH,Accenture,Computational Fluid Dynamics System for Accenture Operations,Computational Fluid Dynamics,2025-02-15,2025-05-30
+Mrunal Mane,121170351,Computer Engineering,BTECH,Nvidia,Blockchain System for Nvidia Operations,Blockchain,2025-01-15,2025-08-30
+Aditi Shetty,121147772,Information Technology,BTECH,Rakuten,Microservices System for Rakuten Operations,Microservices,2025-02-15,2025-08-30
+Aditya Gaikwad,121174229,Electronics & Telecommunication,BTECH,Cummins India,VLSI Design System for Cummins Operations,VLSI Design,2025-04-15,2025-07-30
+Bhakti Pawar,122167774,Mechanical Engineering,TY,Rakuten,Electric Vehicles (EV) System for Rakuten Operations,Electric Vehicles (EV),2025-04-15,2025-09-30
+Prathamesh Shah,122133596,Chemical Engineering,TY,Mastercard,Process Automation System for Mastercard Operations,Process Automation,2025-04-15,2025-05-30
+Sneha Kulkarni,122173957,Information Technology,TY,Nvidia,Information Security System for Nvidia Operations,Information Security,2025-03-15,2025-06-30
+Riya Kadam,124191843,Chemical Engineering,FY,Tata Consultancy Services,Water Treatment Systems System for Tata Operations,Water Treatment Systems,2025-04-15,2025-07-30
+Tanvi Deshmukh,123124873,Chemical Engineering,SY,Cummins India,Polymer Technology System for Cummins Operations,Polymer Technology,2025-04-15,2025-05-30
+Shruti Tambe,124178864,Artificial Intelligence & Data Science,FY,Siemens,Reinforcement Learning System for Siemens Operations,Reinforcement Learning,2025-04-15,2025-07-30
+Riya Tambe,122165643,Artificial Intelligence & Data Science,TY,Siemens,Computer Vision System for Siemens Operations,Computer Vision,2025-02-15,2025-06-30
+Riya Sharma,121178199,Artificial Intelligence & Data Science,BTECH,Bajaj Auto,Computer Vision System for Bajaj Operations,Computer Vision,2025-02-15,2025-06-30
+Manasi Malhotra,123144443,Chemical Engineering,SY,Cummins India,Process Automation System for Cummins Operations,Process Automation,2025-01-15,2025-08-30
+Tejas Mane,122180420,Artificial Intelligence & Data Science,TY,Tata Consultancy Services,Deep Learning System for Tata Operations,Deep Learning,2025-02-15,2025-06-30
+Pranav Patil,121123637,Electronics & Telecommunication,BTECH,Barclays,VLSI Design System for Barclays Operations,VLSI Design,2025-02-15,2025-06-30
+Kunal Gupta,123114297,Artificial Intelligence & Data Science,SY,Siemens,Deep Learning System for Siemens Operations,Deep Learning,2025-04-15,2025-09-30
+Siddharth Iyer,122191713,Chemical Engineering,TY,Nvidia,Process Automation System for Nvidia Operations,Process Automation,2025-02-15,2025-05-30
+Atharva Bansal,122194484,Mechanical Engineering,TY,Mastercard,Mechatronics System for Mastercard Operations,Mechatronics,2025-01-15,2025-08-30
+Varun Chopra,122147359,Computer Engineering,TY,Nvidia,Computer Vision System for Nvidia Operations,Computer Vision,2025-03-15,2025-05-30
+Mrunal Malhotra,124195808,Artificial Intelligence & Data Science,FY,Accenture,Predictive Analytics System for Accenture Operations,Predictive Analytics,2025-02-15,2025-08-30
+Prathamesh Pawar,121117383,Instrumentation Engineering,BTECH,L&T Technology Services,Process Control Systems System for L&T Operations,Process Control Systems,2025-01-15,2025-05-30
+Siddharth More,123166282,Instrumentation Engineering,SY,Persistent Systems,Biomedical Instrumentation System for Persistent Operations,Biomedical Instrumentation,2025-01-15,2025-05-30
+Manasi Sutar,124128211,Information Technology,FY,Persistent Systems,Information Security System for Persistent Operations,Information Security,2025-04-15,2025-09-30
+Tanmay Iyer,121143552,Chemical Engineering,BTECH,Rakuten,Process Automation System for Rakuten Operations,Process Automation,2025-03-15,2025-08-30
+Shubham Nair,121195138,Chemical Engineering,BTECH,Deutsche Bank,Green Energy & Biofuels System for Deutsche Operations,Green Energy & Biofuels,2025-04-15,2025-07-30
+Sneha Chopra,121172627,Electronics & Telecommunication,BTECH,Bajaj Auto,Signal Processing System for Bajaj Operations,Signal Processing,2025-03-15,2025-07-30
+Pranav Ingale,121198493,Information Technology,BTECH,Infosys,Information Security System for Infosys Operations,Information Security,2025-03-15,2025-08-30
+Atharva Jadhav,123168182,Mechanical Engineering,SY,Bajaj Auto,CAD/CAM & FEA System for Bajaj Operations,CAD/CAM & FEA,2025-03-15,2025-05-30
+Tejas Pawar,121194493,Mechanical Engineering,BTECH,Persistent Systems,Thermal Engineering System for Persistent Operations,Thermal Engineering,2025-04-15,2025-08-30
+Tejas Shinde,122185125,Computer Engineering,TY,Eaton Corporation,Full Stack Web Development System for Eaton Operations,Full Stack Web Development,2025-01-15,2025-09-30
+Pranav Shah,123178611,Mechanical Engineering,SY,Rakuten,Thermal Engineering System for Rakuten Operations,Thermal Engineering,2025-03-15,2025-06-30
+Aditya Deshmukh,121115445,Artificial Intelligence & Data Science,BTECH,Bajaj Auto,Generative AI System for Bajaj Operations,Generative AI,2025-04-15,2025-09-30
+Radhika Wagh,122184858,Chemical Engineering,TY,L&T Technology Services,Process Automation System for L&T Operations,Process Automation,2025-04-15,2025-06-30
+Rohan Gupta,124112769,Information Technology,FY,Deutsche Bank,Microservices System for Deutsche Operations,Microservices,2025-01-15,2025-07-30
+Rohan Kadam,122132114,Chemical Engineering,TY,Barclays,Computational Fluid Dynamics System for Barclays Operations,Computational Fluid Dynamics,2025-03-15,2025-08-30
+Omkar Wagh,122185955,Mechanical Engineering,TY,Infosys,Robotics & Automation System for Infosys Operations,Robotics & Automation,2025-04-15,2025-08-30
+Yash Tambe,122135164,Mechanical Engineering,TY,Tech Mahindra,Thermal Engineering System for Tech Operations,Thermal Engineering,2025-01-15,2025-07-30
+Ananya Joshi,122137429,Chemical Engineering,TY,Siemens,Water Treatment Systems System for Siemens Operations,Water Treatment Systems,2025-04-15,2025-05-30
+Varun Bhosale,121128380,Computer Engineering,BTECH,Thermax,Natural Language Processing System for Thermax Operations,Natural Language Processing,2025-03-15,2025-09-30
+Pooja Ingale,124184349,Information Technology,FY,Eaton Corporation,Cloud Architecture System for Eaton Operations,Cloud Architecture,2025-01-15,2025-06-30
+Manasi Sutar,122172116,Instrumentation Engineering,TY,L&T Technology Services,Industrial Automation (PLC/SCADA) System for L&T Operations,Industrial Automation (PLC/SCADA),2025-01-15,2025-07-30
+Aditi Verma,122191246,Information Technology,TY,PhonePe,Information Security System for PhonePe Operations,Information Security,2025-04-15,2025-06-30
+Isha Kadam,121133710,Information Technology,BTECH,Tata Technologies,Microservices System for Tata Operations,Microservices,2025-01-15,2025-08-30
+Tejas Joshi,121156733,Mechanical Engineering,BTECH,Infosys,Mechatronics System for Infosys Operations,Mechatronics,2025-02-15,2025-06-30
+Vaishnavi Kadam,122116383,Electronics & Telecommunication,TY,Cummins India,IoT & Sensor Networks System for Cummins Operations,IoT & Sensor Networks,2025-01-15,2025-05-30
+Aditi Tambe,122115786,Information Technology,TY,Siemens,Web Engineering System for Siemens Operations,Web Engineering,2025-01-15,2025-06-30
+Rohan Joshi,121132650,Chemical Engineering,BTECH,Deutsche Bank,Process Automation System for Deutsche Operations,Process Automation,2025-04-15,2025-07-30
+Sakshi Mane,121166340,Computer Engineering,BTECH,Infosys,Cloud Computing System for Infosys Operations,Cloud Computing,2025-03-15,2025-08-30
+Harsh Gupta,122138484,Electronics & Telecommunication,TY,Nvidia,Wireless Communication System for Nvidia Operations,Wireless Communication,2025-02-15,2025-09-30
+Sakshi Deshmukh,122188321,Electronics & Telecommunication,TY,L&T Technology Services,Signal Processing System for L&T Operations,Signal Processing,2025-01-15,2025-07-30
+Pooja Shinde,122155747,Electronics & Telecommunication,TY,Infosys,IoT & Sensor Networks System for Infosys Operations,IoT & Sensor Networks,2025-01-15,2025-07-30
+Sneha Shinde,121127387,Computer Engineering,BTECH,Thermax,Full Stack Web Development System for Thermax Operations,Full Stack Web Development,2025-04-15,2025-09-30
+Manasi Chopra,122162188,Information Technology,TY,Siemens,Information Security System for Siemens Operations,Information Security,2025-02-15,2025-06-30
+Tanmay Shetty,124111385,Electronics & Telecommunication,FY,Mastercard,Edge AI System for Mastercard Operations,Edge AI,2025-01-15,2025-05-30
+Harsh Kadam,124138693,Artificial Intelligence & Data Science,FY,Accenture,NLP & LLMs System for Accenture Operations,NLP & LLMs,2025-02-15,2025-05-30
+Shubham Malhotra,121115527,Mechanical Engineering,BTECH,Accenture,Thermal Engineering System for Accenture Operations,Thermal Engineering,2025-03-15,2025-06-30
+Sakshi Kadam,121162809,Computer Engineering,BTECH,Thermax,Natural Language Processing System for Thermax Operations,Natural Language Processing,2025-01-15,2025-07-30
+Tanvi Gaikwad,121171116,Information Technology,BTECH,Barclays,Distributed Systems System for Barclays Operations,Distributed Systems,2025-02-15,2025-08-30
+Mrunal Bansal,121169565,Mechanical Engineering,BTECH,Siemens,Thermal Engineering System for Siemens Operations,Thermal Engineering,2025-03-15,2025-07-30
+Manasi Ingale,122197906,Mechanical Engineering,TY,Eaton Corporation,CAD/CAM & FEA System for Eaton Operations,CAD/CAM & FEA,2025-02-15,2025-05-30
+Shreya Verma,122152241,Instrumentation Engineering,TY,Tata Technologies,Industrial Automation (PLC/SCADA) System for Tata Operations,Industrial Automation (PLC/SCADA),2025-03-15,2025-06-30
+Aditi Gupta,122138871,Instrumentation Engineering,TY,Mastercard,Process Control Systems System for Mastercard Operations,Process Control Systems,2025-02-15,2025-08-30
+Sakshi Mane,121178581,Mechanical Engineering,BTECH,Eaton Corporation,Mechatronics System for Eaton Operations,Mechatronics,2025-03-15,2025-06-30
+Tejas Chopra,121160182,Electronics & Telecommunication,BTECH,Barclays,VLSI Design System for Barclays Operations,VLSI Design,2025-03-15,2025-07-30
+Tanmay Mane,121163400,Chemical Engineering,BTECH,Nvidia,Water Treatment Systems System for Nvidia Operations,Water Treatment Systems,2025-03-15,2025-09-30
+Pranav Patil,122176954,Instrumentation Engineering,TY,Tata Consultancy Services,Smart Sensors & IoT System for Tata Operations,Smart Sensors & IoT,2025-04-15,2025-07-30
+Abhishek Shah,122157595,Artificial Intelligence & Data Science,TY,Deutsche Bank,Deep Learning System for Deutsche Operations,Deep Learning,2025-02-15,2025-06-30
+Gauri Gaikwad,122198959,Information Technology,TY,Infosys,Distributed Systems System for Infosys Operations,Distributed Systems,2025-01-15,2025-06-30
+Abhishek Kadam,121183424,Computer Engineering,BTECH,L&T Technology Services,Cloud Computing System for L&T Operations,Cloud Computing,2025-04-15,2025-07-30
+Pooja Pawar,121150781,Information Technology,BTECH,Cummins India,Distributed Systems System for Cummins Operations,Distributed Systems,2025-01-15,2025-09-30
+Pooja Wagh,122148646,Mechanical Engineering,TY,Thermax,Robotics & Automation System for Thermax Operations,Robotics & Automation,2025-03-15,2025-08-30
+Shruti Malhotra,122150569,Electronics & Telecommunication,TY,L&T Technology Services,Edge AI System for L&T Operations,Edge AI,2025-03-15,2025-08-30
+Rohan Shinde,121113415,Chemical Engineering,BTECH,Mastercard,Green Energy & Biofuels System for Mastercard Operations,Green Energy & Biofuels,2025-03-15,2025-06-30
