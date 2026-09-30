@@ -372,21 +372,7 @@ Expected output: **7–8 passing tests** covering intent classification, RAG ret
 
 ---
 
-## 🖥️ Application Screenshots
 
-### Knowledge Copilot
-The chatbot answers questions from official VIT Pune documents with structured 4-part responses including citations.
-
-### Talent Repository
-Filter 1,000 students by branch, year, CGPA, domain, hackathon, and internship status with real-time results.
-
-### Student 360 Profile
-View a comprehensive student profile with CGPA, career track, projects, internships, hackathons, and certifications.
-
-### Research & IP Explorer
-Search 377 research papers and 77 patents using natural language queries with relevance-ranked results.
-
----
 
 ## 📡 API Reference
 
